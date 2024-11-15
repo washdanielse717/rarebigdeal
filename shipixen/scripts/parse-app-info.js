@@ -75,31 +75,45 @@ async function fetchAssets(app) {
     const response = await axios.get(website);
     const $ = cheerio.load(response.data);
 
-    const faviconUrl = $('link[rel="icon"]').attr('href') || $('link[rel="shortcut icon"]').attr('href');
-    const ogImageUrl = $('meta[property="og:image"]').attr('content');
+    let faviconUrl = $('link[rel="icon"]').attr('href') || $('link[rel="shortcut icon"]').attr('href');
+    let ogImageUrl = $('meta[property="og:image"]').attr('content');
+
+    // Ensure the URLs are absolute
+    if (faviconUrl && !faviconUrl.startsWith('http')) {
+      faviconUrl = new URL(faviconUrl, website).href;
+    }
+    if (ogImageUrl && !ogImageUrl.startsWith('http')) {
+      ogImageUrl = new URL(ogImageUrl, website).href;
+    }
+
+    console.log({ faviconUrl, ogImageUrl });
 
     if (faviconUrl) {
       const faviconPath = path.join(appDir, 'logo.png');
       const faviconExt = path.extname(faviconUrl).toLowerCase();
 
-      if (faviconExt === '.ico') {
-        try {
-          const icoBuffer = await axios.get(new URL(faviconUrl, website).href, { responseType: 'arraybuffer' });
+      try {
+        if (faviconExt === '.ico') {
+          const icoBuffer = await axios.get(faviconUrl, { responseType: 'arraybuffer' });
           const pngBuffer = await sharp(icoBuffer.data).png().toBuffer();
           fs.writeFileSync(faviconPath, pngBuffer);
-        } catch (error) {
-          console.warn(`Unsupported image format for favicon at ${faviconUrl}:`, error.message);
+        } else {
+          await downloadImage(faviconUrl, faviconPath);
         }
-      } else {
-        await downloadImage(new URL(faviconUrl, website).href, faviconPath);
+        app.logo = faviconPath;
+      } catch (error) {
+        console.warn(`Failed to download favicon from ${faviconUrl}:`, error.message);
       }
-      app.logo = faviconPath;
     }
 
     if (ogImageUrl) {
       const ogImagePath = path.join(appDir, 'og-image.png');
-      await downloadImage(new URL(ogImageUrl, website).href, ogImagePath);
-      app.images = [ogImagePath];
+      try {
+        await downloadImage(ogImageUrl, ogImagePath);
+        app.images = [ogImagePath];
+      } catch (error) {
+        console.warn(`Failed to download og:image from ${ogImageUrl}:`, error.message);
+      }
     }
   } catch (error) {
     console.error(`Failed to fetch assets for ${name}:`, error.message);
