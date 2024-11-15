@@ -67,7 +67,8 @@ async function extractAppInfo() {
 
 async function fetchAssets(app) {
   const { website, name } = app;
-  const appDir = path.join(outputDir, name.replace(/\s+/g, '-').toLowerCase());
+  const productName = name.replace(/\s+/g, '-').toLowerCase();
+  const appDir = path.join(outputDir, 'product', productName);
   fs.mkdirSync(appDir, { recursive: true });
 
   try {
@@ -106,21 +107,24 @@ async function fetchAssets(app) {
 }
 
 async function generateMarkdown(apps) {
-  const markdownDir = path.join(__dirname, '../data/products');
+  const markdownDir = path.join(__dirname, 'markdown');
   fs.mkdirSync(markdownDir, { recursive: true });
 
   for (const app of apps) {
     try {
       console.log(`👉 Generating markdown for ${app.name}`);
       const tagsList = (categoryTags[app.category] || []).map(tag => `  - '${tag}'`).join('\n');
+      const productName = app.name.replace(/\s+/g, '-').toLowerCase();
+      const imagePath = `/static/images/product/${productName}`;
+
       const markdownContent = `---
 title: '${app.name}'
 date: '${new Date().toISOString().split('T')[0]}'
 tags:
 ${tagsList}
 images:
-  - '${app.images ? app.images[0] : ''}'
-logo: '${app.logo || ''}'
+  - '${app.images ? `${imagePath}/og-image.png` : ''}'
+logo: '${app.logo ? `${imagePath}/logo.png` : ''}'
 summary: '${app.description}'
 category: '${app.category}'
 deal: '${app.deal}'
@@ -139,7 +143,7 @@ ${app.description}
 ${app.deal}
 `;
 
-      const markdownOutputPath = path.join(markdownDir, `${app.name.replace(/\s+/g, '-').toLowerCase()}.mdx`);
+      const markdownOutputPath = path.join(markdownDir, `${productName}.mdx`);
       fs.writeFileSync(markdownOutputPath, markdownContent);
     } catch (error) {
       console.error(`💥 Could not generate markdown for ${app.name}:`, error.message);
