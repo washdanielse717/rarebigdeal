@@ -7,7 +7,7 @@ import { sortPosts, allCoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { allBlogs } from 'shipixen-contentlayer/generated';
 import Image from '@/components/shared/Image';
 
-const MAX_DISPLAY = 3;
+const MAX_DISPLAY = 10;
 
 export default function LatestArticles({
   numberOfPosts = MAX_DISPLAY,

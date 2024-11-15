@@ -81,7 +81,7 @@ export default function Home() {
         />
       </LandingPrimaryTextCtaSection>
 
-       <section className="wide-container mt-12">
+       <section className="container-wide mt-12 p-6">
         <LatestArticles />
       </section>
 
