@@ -85,6 +85,8 @@ Total deals: XXX
 |     | Name                                    | Description                                                                                | Discount Code & Terms                                     |
 | --- | --------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
 | ⭐   | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
+|  💼 | [hiretool.io](https:/hiretool.io?ref=awesomebf) | Cut out unqualified candidates before the interview— save your time and focus on the right talent | 50% off on monthly and yearly subscriptions (automatic) |
+
 
 ## Marketing Tools
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
