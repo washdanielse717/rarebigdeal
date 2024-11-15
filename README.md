@@ -47,11 +47,13 @@ Total deals: XXX
 |     | Name                                      | Description                                                                                                  | Discount Code & Terms                                                                           |
 | --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | ⭐   | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe. | 40% OFF on SaaS and AI templates with code **BLACKFRIDAY2024** at checkout. Limited time offer! |
+| ⚡   | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
 
 ### AI Productivity & Learning Tools
 |     | Name                                                                                                                                                     | Description                                                                                                                            | Discount Code & Terms                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 🪝   | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
+| ⚡   | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 
 ## Other AI tools
 |     | Name                                | Description                                                                     | Discount Code & Terms                       |
