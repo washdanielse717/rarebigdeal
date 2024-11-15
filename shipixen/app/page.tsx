@@ -31,7 +31,7 @@ import {
 export default function Home() {
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
-      <LandingSocialProofBand invert={false} className="hidden md:flex">
+      {/* <LandingSocialProofBand invert={false} className="hidden md:flex">
         <LandingSocialProofBandItem>
           Fast, reliable, and secure
         </LandingSocialProofBandItem>
@@ -43,7 +43,7 @@ export default function Home() {
         <LandingSocialProofBandItem graphic="rating">
           99% customer satisfaction
         </LandingSocialProofBandItem>
-      </LandingSocialProofBand>
+      </LandingSocialProofBand> */}
 
       <Header className="mb-0 lg:mb-0" />
 
@@ -52,12 +52,12 @@ export default function Home() {
         description="Get rare limited time details on selected SaaS, software, apps and services. Discounts for Black Friday and beyond."
         textPosition="left"
         withBackground
-        leadingComponent={<LandingProductHuntAward />}
+        // leadingComponent={<LandingProductHuntAward />}
       >
-        <LandingDiscount
+        {/* <LandingDiscount
           discountValueText="30% off"
           discountDescriptionText="for the first 10 customers (2 left)"
-        />
+        /> */}
 
         <LandingSocialProof
           className="w-full mt-12"
@@ -81,7 +81,11 @@ export default function Home() {
         />
       </LandingPrimaryTextCtaSection>
 
-      <LandingProductFeature
+       <section className="wide-container mt-12">
+        <LatestArticles />
+      </section>
+
+      {/* <LandingProductFeature
         title="Limited Time Offers"
         descriptionComponent={
           <>
@@ -177,7 +181,7 @@ export default function Home() {
         imagePosition="left"
         imagePerspective="none"
         variant="secondary"
-      />
+      /> */}
 
       <LandingBandSection
         title="4.9/5 stars"
@@ -204,7 +208,7 @@ export default function Home() {
         }
       />
 
-      <LandingProductFeature
+      {/* <LandingProductFeature
         title="Rare Savings"
         descriptionComponent={
           <>
@@ -226,7 +230,7 @@ export default function Home() {
         ctaHref={'#'}
         ctaLabel={'Pre-order now'}
         withBackgroundGlow
-      />
+      /> */}
 
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
@@ -276,7 +280,7 @@ export default function Home() {
         />
       </LandingTestimonialReadMoreWrapper>
 
-      <LandingFeatureList
+      {/* <LandingFeatureList
         title="Awesome Features Await!"
         description="Explore the fantastic features of our AI app:"
         featureItems={[
@@ -335,7 +339,7 @@ export default function Home() {
             icon: <FramerIcon />,
           },
         ]}
-      />
+      /> */}
 
       <LandingFaqCollapsibleSection
         title="Got Questions? We've Got Answers!"
@@ -360,9 +364,7 @@ export default function Home() {
         withBackground
       />
 
-      <section className="wide-container mt-12">
-        <LatestArticles />
-      </section>
+
     </div>
   );
 }

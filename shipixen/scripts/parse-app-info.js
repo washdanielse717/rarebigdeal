@@ -4,7 +4,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 
 const readmePath = '../../README.md';
-const outputDir = 'shipixen/public/static/images';
+const outputDir = '../public/static/images';
 
 const categoryTags = {
   'Developer Tools': ['Developer', 'Tools', 'macOS'],
@@ -135,7 +135,7 @@ async function fetchAssets(app) {
 }
 
 async function generateMarkdown(apps) {
-  const markdownDir = path.join(__dirname, 'markdown');
+  const markdownDir = path.join(__dirname, '../data/products');
   fs.mkdirSync(markdownDir, { recursive: true });
 
   for (const app of apps) {
