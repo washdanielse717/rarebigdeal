@@ -4,7 +4,7 @@ const axios = require('axios');
 const cheerio = require('cheerio');
 const sharp = require('sharp'); // Image processing library
 
-const readmePath = 'README.md';
+const readmePath = '../../README.md';
 const outputDir = 'shipixen/public/static/images';
 
 const categoryTags = {
