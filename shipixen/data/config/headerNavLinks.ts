@@ -4,4 +4,5 @@ export const headerNavLinks: Array<{
 }> = [
   { href: '/', title: 'Home' },
   { href: '/all-articles', title: 'All Deals' },
+  { href: 'https://github.com/danmindru/rare-big-deal/pulls', title: 'Submit' },
 ];
