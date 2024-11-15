@@ -2,7 +2,6 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
-const sharp = require('sharp'); // Image processing library
 
 const readmePath = '../../README.md';
 const outputDir = 'shipixen/public/static/images';
@@ -88,21 +87,36 @@ async function fetchAssets(app) {
 
     console.log({ faviconUrl, ogImageUrl });
 
-    if (faviconUrl) {
-      const faviconPath = path.join(appDir, 'logo.png');
-      const faviconExt = path.extname(faviconUrl).toLowerCase();
+    // Try to find the highest resolution PNG favicon
+    const possibleFaviconUrls = [
+      $('link[rel="apple-touch-icon"]').attr('href'),
+      $('link[rel="icon"][type="image/png"]').attr('href'),
+      '/favicon-32x32.png',
+      '/favicon-16x16.png',
+      '/apple-touch-icon.png',
+      '/favicon.png'
+    ].filter(Boolean).map(url => new URL(url, website).href);
 
+    let highestResFaviconUrl = null;
+    for (const url of possibleFaviconUrls) {
       try {
-        if (faviconExt === '.ico') {
-          const icoBuffer = await axios.get(faviconUrl, { responseType: 'arraybuffer' });
-          const pngBuffer = await sharp(icoBuffer.data).png().toBuffer();
-          fs.writeFileSync(faviconPath, pngBuffer);
-        } else {
-          await downloadImage(faviconUrl, faviconPath);
+        const response = await axios.head(url);
+        if (response.status === 200) {
+          highestResFaviconUrl = url;
+          break;
         }
+      } catch (error) {
+        console.warn(`Favicon URL not found: ${url}`);
+      }
+    }
+
+    if (highestResFaviconUrl) {
+      const faviconPath = path.join(appDir, 'logo.png');
+      try {
+        await downloadImage(highestResFaviconUrl, faviconPath);
         app.logo = faviconPath;
       } catch (error) {
-        console.warn(`Failed to download favicon from ${faviconUrl}:`, error.message);
+        console.warn(`Failed to download favicon from ${highestResFaviconUrl}:`, error.message);
       }
     }
 
