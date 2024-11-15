@@ -82,9 +82,13 @@ async function fetchAssets(app) {
       const faviconExt = path.extname(faviconUrl).toLowerCase();
 
       if (faviconExt === '.ico') {
-        const icoBuffer = await axios.get(new URL(faviconUrl, website).href, { responseType: 'arraybuffer' });
-        const pngBuffer = await sharp(icoBuffer.data).png().toBuffer();
-        fs.writeFileSync(faviconPath, pngBuffer);
+        try {
+          const icoBuffer = await axios.get(new URL(faviconUrl, website).href, { responseType: 'arraybuffer' });
+          const pngBuffer = await sharp(icoBuffer.data).png().toBuffer();
+          fs.writeFileSync(faviconPath, pngBuffer);
+        } catch (error) {
+          console.warn(`Unsupported image format for favicon at ${faviconUrl}:`, error.message);
+        }
       } else {
         await downloadImage(new URL(faviconUrl, website).href, faviconPath);
       }
@@ -102,11 +106,14 @@ async function fetchAssets(app) {
 }
 
 async function generateMarkdown(apps) {
-try {
-    for (const app of apps) {
-    console.log(`👉 Generating markdown for ${app.name}`);
-    const tagsList = (categoryTags[app.category] || []).map(tag => `  - '${tag}'`).join('\n');
-    const markdownContent = `---
+  const markdownDir = path.join(__dirname, 'markdown');
+  fs.mkdirSync(markdownDir, { recursive: true });
+
+  for (const app of apps) {
+    try {
+      console.log(`👉 Generating markdown for ${app.name}`);
+      const tagsList = (categoryTags[app.category] || []).map(tag => `  - '${tag}'`).join('\n');
+      const markdownContent = `---
 title: '${app.name}'
 date: '${new Date().toISOString().split('T')[0]}'
 tags:
@@ -132,15 +139,13 @@ ${app.description}
 ${app.deal}
 `;
 
-    const markdownOutputPath = path.join('markdown', `${app.name.replace(/\s+/g, '-').toLowerCase()}.mdx`);
-    fs.writeFileSync(markdownOutputPath, markdownContent);
-
-    console.log(`✅ Markdown generated for ${app.name}`);
-  } } catch (error) {
-    console.error(`💥 Could not generate markdown`, error.message);
+      const markdownOutputPath = path.join(markdownDir, `${app.name.replace(/\s+/g, '-').toLowerCase()}.mdx`);
+      fs.writeFileSync(markdownOutputPath, markdownContent);
+    } catch (error) {
+      console.error(`💥 Could not generate markdown for ${app.name}:`, error.message);
+    }
   }
 }
-
 
 async function main() {
   const apps = await extractAppInfo();
