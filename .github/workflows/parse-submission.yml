@@ -7,6 +7,7 @@ on:
 
 jobs:
   update-app-info:
+    if: "!contains(github.event.head_commit.message, 'Update app info')"
     runs-on: ubuntu-latest
 
     steps:
