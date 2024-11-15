@@ -59,6 +59,7 @@ Total deals: XXX
 |     | Name                                | Description                                                                     | Discount Code & Terms                       |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------- |
 | ⭐   | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
+| ⚡   | [IconKit](https://iconkit.ai?utm_source=rarebigdeal) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 
 ## Design Tools
 |     | Name                              | Description                                                                         | Discount Code & Terms                     |
