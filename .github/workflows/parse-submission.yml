@@ -18,17 +18,11 @@ jobs:
         with:
           node-version: '16'
 
-      - name: Navigate to root directory
-        run: cd shipixen
-
       - name: Install dependencies
-        run: npm install
-
-      - name: Navigate to scripts directory
-        run: cd scripts
+        run: cd shipixen && npm install
 
       - name: Run update script
-        run: node parse-app-info.js
+        run: cd shipixen/scripts && node parse-app-info.js
 
       - name: Commit and push changes
         env:
