@@ -6,7 +6,7 @@ const metadata = {
   businessName: 'Rare Big Deal',
   siteUrl: 'https://rarebigdeal.com',
   siteRepo: '',
-  socialBanner: '/api/og',
+  socialBanner: 'https://rarebigdeal.com/static/images/ogImg.jpg',
   supportEmail: '',
   email: '',
   twitter: 'https://x.com/d4m1n',
