@@ -10,8 +10,6 @@ on:
 jobs:
   check-commit-message:
     runs-on: ubuntu-latest
-    outputs:
-      skip: ${{ steps.check.outputs.skip }}
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -21,13 +19,13 @@ jobs:
         run: |
           COMMIT_MESSAGE=$(git log -1 --pretty=%B)
           if [[ "$COMMIT_MESSAGE" == "Update repository stars" || "$COMMIT_MESSAGE" == "Update app info" ]]; then
-            echo "::set-output name=skip::true"
+            echo "skip=true" >> $GITHUB_ENV
           else
-            echo "::set-output name=skip::false"
+            echo "skip=false" >> $GITHUB_ENV
 
   update-app-info:
-    if: ${{ jobs.check-commit-message.outputs.skip == 'false' }}
     runs-on: ubuntu-latest
+    if: env.skip != 'true'
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
@@ -55,8 +53,8 @@ jobs:
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
   update-stars:
-    if: ${{ jobs.check-commit-message.outputs.skip == 'false' }}
     runs-on: ubuntu-latest
+    if: env.skip != 'true'
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
