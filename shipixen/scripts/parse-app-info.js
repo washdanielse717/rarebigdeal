@@ -21,6 +21,14 @@ const categoryTags = {
   'Health and Fitness': ['Health', 'Fitness', 'Wellness']
 };
 
+function sanitizeName(name) {
+  return name.replace(/[^a-zA-Z0-9]/g, '-').replace(/-+/g, '-').toLowerCase();
+}
+
+function escapeQuotes(str) {
+  return str.replace(/'/g, "\\'").replace(/"/g, '\\"');
+}
+
 async function downloadImage(url, outputPath) {
   try {
     const response = await axios.get(url, { responseType: 'arraybuffer' });
@@ -68,7 +76,7 @@ async function extractAppInfo() {
 
 async function fetchAssets(app) {
   const { website, name } = app;
-  const productName = name.replace(/\s+/g, '-').toLowerCase();
+  const productName = sanitizeName(name);
   const appDir = path.join(outputDir, 'product', productName);
   fs.mkdirSync(appDir, { recursive: true });
 
@@ -144,33 +152,33 @@ async function generateMarkdown(apps) {
     try {
       console.log(`👉 Generating markdown for ${app.name}`);
       const tagsList = (categoryTags[app.category] || []).map(tag => `  - '${tag}'`).join('\n');
-      const productName = app.name.replace(/\s+/g, '-').toLowerCase();
+      const productName = sanitizeName(app.name);
       const imagePath = `/static/images/product/${productName}`;
 
       const markdownContent = `---
-title: '${app.name}'
+title: '${escapeQuotes(app.name)}'
 date: '${new Date().toISOString().split('T')[0]}'
 tags:
 ${tagsList}
 images:
   - '${app.images ? `${imagePath}/og-image.png` : ''}'
 logo: '${app.logo ? `${imagePath}/logo.png` : ''}'
-summary: '${app.description}'
-category: '${app.category}'
-deal: '${app.deal}'
-subcategory: '${app.subcategory}'
+summary: '${escapeQuotes(app.description)}'
+category: '${escapeQuotes(app.category)}'
+deal: '${escapeQuotes(app.deal)}'
+subcategory: '${escapeQuotes(app.subcategory)}'
 website: '${app.website}'
 layout: PostLayout
 ---
 
-## [${app.name}](${app.website})
+## [${escapeQuotes(app.name)}](${app.website})
 
-${app.name} <br/>
-${app.description}
+${escapeQuotes(app.name)} <br/>
+${escapeQuotes(app.description)}
 
 ## Rare Deal
 
-${app.deal}
+${escapeQuotes(app.deal)}
 `;
 
       const markdownOutputPath = path.join(markdownDir, `${productName}.mdx`);
