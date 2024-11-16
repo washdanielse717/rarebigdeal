@@ -145,7 +145,7 @@ export default function PostLayout({
                     {prev && prev.path && (
                       <div>
                         <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                          Previous Article
+                          Previous Deal
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
                           <Link href={`/${prev.path}`}>{prev.title}</Link>
@@ -155,7 +155,7 @@ export default function PostLayout({
                     {next && next.path && (
                       <div>
                         <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                          Next Article
+                          Next Deal
                         </h2>
                         <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
                           <Link href={`/${next.path}`}>{next.title}</Link>
@@ -171,7 +171,7 @@ export default function PostLayout({
                     className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
                     aria-label="More deals"
                   >
-                    More deals &rarr;
+                    More Deals &rarr;
                   </Link>
                 </div>
               </div>

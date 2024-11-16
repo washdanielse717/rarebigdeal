@@ -13,7 +13,7 @@ export default function SectionContainer({
   className,
 }: Props) {
   return (
-    <section className={clsx(className, 'w-full', `container-${type}`)}>
+    <section className={clsx(className, 'w-full', `p-6 container-${type}`)}>
       {children}
     </section>
   );
