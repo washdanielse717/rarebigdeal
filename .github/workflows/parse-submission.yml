@@ -21,11 +21,9 @@ jobs:
         run: |
           COMMIT_MESSAGE=$(git log -1 --pretty=%B)
           if [[ "$COMMIT_MESSAGE" == "Update repository stars" || "$COMMIT_MESSAGE" == "Update app info" ]]; then
-            echo "skip=true" >> $GITHUB_ENV
+            echo "::set-output name=skip::true"
           else
-            echo "skip=false" >> $GITHUB_ENV
-        outputs:
-          skip: ${{ env.skip }}
+            echo "::set-output name=skip::false"
 
   update-app-info:
     if: ${{ jobs.check-commit-message.outputs.skip == 'false' }}
@@ -74,6 +72,8 @@ jobs:
           echo "module.exports = { stars: ${{ env.stars }} };" > shipixen/data/stats.js
 
       - name: Commit changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
