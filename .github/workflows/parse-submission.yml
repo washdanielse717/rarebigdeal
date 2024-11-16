@@ -43,8 +43,8 @@ jobs:
         with:
           node-version: '20'
 
-     - name: Install dependencies
-        run: cd shipixen && npm install
+      - name: Install dependencies
+          run: cd shipixen && npm install
 
       - name: Run update script
         run: cd shipixen/scripts && node parse-app-info.js
