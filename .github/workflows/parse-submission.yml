@@ -1,8 +1,7 @@
 name: Parse Submission
 
 on:
-  pull_request:
-    types: [closed]
+  push:
     branches:
       - main
 
@@ -14,8 +13,6 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Check commit message
         id: check
@@ -30,14 +27,12 @@ jobs:
           fi
 
   update-app-info:
-    if: github.event.pull_request.merged == true && needs.check-commit-message.outputs.skip == 'false'
+    if: needs.check-commit-message.outputs.skip == 'false'
     runs-on: ubuntu-latest
     needs: check-commit-message
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -62,14 +57,12 @@ jobs:
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
   update-stats:
-    if: github.event.pull_request.merged == true && needs.check-commit-message.outputs.skip == 'false'
+    if: needs.check-commit-message.outputs.skip == 'false'
     runs-on: ubuntu-latest
     needs: update-app-info
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
-        with:
-          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Get repository stats
         id: get_stats
