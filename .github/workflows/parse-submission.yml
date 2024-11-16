@@ -62,7 +62,7 @@ jobs:
           git commit -m 'Update app info'
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-  update-stars:
+  update-stats:
     runs-on: ubuntu-latest
     needs: check-commit-message
     if: needs.check-commit-message.outputs.skip == 'false'
@@ -72,15 +72,18 @@ jobs:
         with:
           token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
-      - name: Get repository stars
-        id: get_stars
+      - name: Get repository stats
+        id: get_stats
         run: |
-          STARS=$(curl -s https://api.github.com/repos/${{ github.repository }} | jq .stargazers_count)
+          REPO_INFO=$(curl -s https://api.github.com/repos/${{ github.repository }})
+          STARS=$(echo $REPO_INFO | jq .stargazers_count)
+          FORKS=$(echo $REPO_INFO | jq .forks_count)
           echo "stars=$STARS" >> $GITHUB_ENV
+          echo "forks=$FORKS" >> $GITHUB_ENV
 
-      - name: Write stars to stats.js
+      - name: Write stats to stats.js
         run: |
-          echo "module.exports = { stars: ${{ env.stars }} };" > shipixen/data/stats.js
+          echo "module.exports = { stars: ${{ env.stars }}, forks: ${{ env.forks }} };" > shipixen/data/stats.js
 
       - name: Commit changes
         env:
@@ -89,5 +92,5 @@ jobs:
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add shipixen/data/stats.js
-          git commit -m 'Update repository stars'
+          git commit -m 'Update repository stats'
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
