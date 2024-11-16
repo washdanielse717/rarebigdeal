@@ -24,6 +24,7 @@ jobs:
             echo "::set-output name=skip::true"
           else
             echo "::set-output name=skip::false"
+          fi
 
   update-app-info:
     runs-on: ubuntu-latest
