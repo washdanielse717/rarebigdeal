@@ -102,6 +102,8 @@ Total deals: XXX
 | ⭐   | [CalGet](https://calget.com) | Simplify your event planning with **CalGet**. Create shareable “Add to Calendar” links that integrate seamlessly into your social media, newsletters, websites, and emails. | 30% OFF on All YEARLY plans with code **BLACKFRIDAY2024** |
 |  ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase your brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 |  🚀 | [Postiz](https://postiz.com) | The ultimate AI social media scheduling tool also open-source! | 50% OFF with code **BF2024** |
+|  ✉️ | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, lists, and campaigns. Use with Amazon SES, Postmark, Mailgun, and more! | 35% OFF with code **BF2024** |
+
 
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
