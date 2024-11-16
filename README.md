@@ -6,7 +6,7 @@ Get rare limited time deals on selected SaaS, software, apps, and services. Disc
 Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls). Made with ❤️ by [Dan]( https://x.com/d4m1n).
 
 ## Table of Contents
-Total deals: XXX
+Total deals: 34+
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
