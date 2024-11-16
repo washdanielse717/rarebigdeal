@@ -1,21 +1,38 @@
-name: Update App Info
+name: Parse Submission
 
 on:
   push:
     branches:
       - main
+    paths-ignore:
+      - 'shipixen/data/stats.js'
 
 jobs:
-  update-app-info:
-    if: "!contains(github.event.head_commit.message, 'Update app info')"
+  check-commit-message:
     runs-on: ubuntu-latest
-
+    outputs:
+      skip: ${{ steps.check.outputs.skip }}
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-        with:
-          ref: ${{ github.event.pull_request.head.ref }}
-          token: ${{ secrets.RBD_GITHUB_TOKEN }}
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Check commit message
+        id: check
+        run: |
+          COMMIT_MESSAGE=$(git log -1 --pretty=%B)
+          if [[ "$COMMIT_MESSAGE" == "Update repository stars" || "$COMMIT_MESSAGE" == "Update app info" ]]; then
+            echo "skip=true" >> $GITHUB_ENV
+          else
+            echo "skip=false" >> $GITHUB_ENV
+        outputs:
+          skip: ${{ env.skip }}
+
+  update-app-info:
+    if: ${{ jobs.check-commit-message.outputs.skip == 'false' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -39,3 +56,27 @@ jobs:
           git commit -m 'Update app info'
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
+  update-stars:
+    if: ${{ jobs.check-commit-message.outputs.skip == 'false' }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Get repository stars
+        id: get_stars
+        run: |
+          STARS=$(curl -s https://api.github.com/repos/${{ github.repository }} | jq .stargazers_count)
+          echo "stars=$STARS" >> $GITHUB_ENV
+
+      - name: Write stars to stats.js
+        run: |
+          echo "module.exports = { stars: ${{ env.stars }} };" > shipixen/data/stats.js
+
+      - name: Commit changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add shipixen/data/stats.js
+          git commit -m 'Update repository stars'
+          git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
