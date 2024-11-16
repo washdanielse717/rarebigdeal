@@ -79,6 +79,8 @@ export default function HomeList({
     {} as Record<string, CoreContent<Blog>[]>,
   );
 
+  const sortedCategories = Object.keys(categories).sort();
+
   const toggleSubcategory = (category: string, subcategory: string) => {
     setSelectedSubcategories((prevSelected) => {
       const newSelected = { ...prevSelected };
@@ -142,7 +144,7 @@ export default function HomeList({
       threshold: 0.1,
     });
 
-    Object.keys(categories).forEach((category) => {
+    sortedCategories.forEach((category) => {
       const element = document.getElementById(category);
       if (element) {
         observer.observe(element);
@@ -152,12 +154,16 @@ export default function HomeList({
     return () => {
       observer.disconnect();
     };
-  }, [categories, handleIntersection]);
+  }, [sortedCategories, handleIntersection]);
 
   return (
     <>
       <div className="flex flex-col gap-4">
-        {Object.keys(categories).map((category) => (
+        <h2 className="text-3xl font-semibold leading-tight md:leading-tight max-w-xs sm:max-w-none md:text-4xl">
+          Latest deals
+        </h2>
+
+        {sortedCategories.map((category) => (
           <CategorySection
             key={category}
             category={category}
@@ -206,23 +212,35 @@ function CategorySection({
   numberOfPosts: number;
   showImage: boolean;
 }) {
+  const handleCategoryClick = () => {
+    const query = new URLSearchParams(window.location.hash.replace('#', ''));
+    query.set('category', category);
+    window.history.replaceState(
+      null,
+      '',
+      `${window.location.pathname}#${query.toString()}`,
+    );
+  };
+
+  const sortedPosts = posts.sort((a, b) => a.title.localeCompare(b.title));
+
   return (
     <div className="mb-8" id={category}>
-      <h2 className="flex items-center mb-4 relative">
+      <div className="flex items-center mb-4 relative">
         <CopyToClipboardButton
           textToCopy={`${window.location.origin}${window.location.pathname}#category=${category}`}
           label={category}
           ariaLabel={`Set category to ${category}`}
         />
-      </h2>
+      </div>
       <SubcategoryFilter
         category={category}
-        posts={posts}
+        posts={sortedPosts}
         selectedSubcategories={selectedSubcategories}
         handleSubcategoryFilter={handleSubcategoryFilter}
       />
       <ul className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
-        {posts
+        {sortedPosts
           .filter(
             (post) =>
               !selectedSubcategories.length ||
@@ -251,7 +269,7 @@ function SubcategoryFilter({
 }) {
   const subcategories = Array.from(
     new Set(posts.map((post) => post.subcategory).filter(Boolean)),
-  );
+  ).sort();
 
   return (
     <div className="flex flex-wrap gap-2 mb-4 overflow-x-auto">
@@ -259,9 +277,9 @@ function SubcategoryFilter({
         <button
           key={subcategory}
           onClick={() => handleSubcategoryFilter(category, subcategory!)}
-          className={`px-4 py-2 rounded ${
+          className={`px-4 py-2 rounded transition-colors ${
             selectedSubcategories.includes(subcategory!)
-              ? 'bg-blue-500 text-white'
+              ? 'bg-primary-500 text-white'
               : 'bg-gray-200 text-gray-700'
           }`}
         >
