@@ -140,9 +140,9 @@ async function fetchAssets(app) {
     }
 
     if (faviconUrl && faviconUrl.endsWith('.png')) {
-      const faviconPath = path.join(appDir, 'favicon.png');
-      await downloadImage(faviconUrl, faviconPath);
-      app.logo = faviconPath;
+      const logoPath = path.join(appDir, 'logo.png');
+      await downloadImage(faviconUrl, logoPath);
+      app.logo = logoPath;
     }
   } catch (error) {
     console.error(`Failed to fetch assets for ${app.name}:`, error.message);

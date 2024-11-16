@@ -274,7 +274,7 @@ function SubcategoryFilter({
           className={`text-xs px-4 py-2 rounded transition-colors font-display ${
             selectedSubcategories.includes(subcategory!)
               ? 'bg-primary-500 text-white'
-              : 'bg-primary-100/30 text-gray-700 dark:bg-primary-800/20 dark:text-white'
+              : 'bg-primary-100/30 text-purple-700/80 dark:bg-primary-800/20 dark:text-white'
           }`}
         >
           {subcategory}

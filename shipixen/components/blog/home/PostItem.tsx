@@ -98,7 +98,7 @@ export function PostItem({
           />
         )}
 
-        <section className={clsx('w-full flex items-center gap-2')}>
+        <section className={clsx('w-full flex flex-wrap items-center gap-2')}>
           <div className="flex gap-2 items-center truncate">
             <figure
               className={clsx(
@@ -128,7 +128,7 @@ export function PostItem({
             </div>
           </div>
 
-          <div className="ml-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-right">
+          <div className="ml-auto w-full sm:w-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-left sm:text-right">
             <span
               className={cn(
                 'flex-col flex gap-1 items-center text-[0.7rem] sm:text-xs p-2 min-w-[40px]',
