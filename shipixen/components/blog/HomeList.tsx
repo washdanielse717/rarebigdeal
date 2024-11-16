@@ -11,6 +11,7 @@ import {
 } from '@shipixen/pliny/utils/contentlayer';
 import { allBlogs, Blog } from 'shipixen-contentlayer/generated';
 import { PostItem } from '@/components/blog/home/PostItem';
+import CopyToClipboardButton from '@/components/shared/CopyToClipboardButton';
 
 const MAX_DISPLAY = 1000;
 
@@ -156,10 +157,6 @@ export default function HomeList({
   return (
     <>
       <div className="flex flex-col gap-4">
-        <h2 className="text-3xl font-semibold leading-tight md:leading-tight max-w-xs sm:max-w-none md:text-4xl">
-          Latest deals
-        </h2>
-
         {Object.keys(categories).map((category) => (
           <CategorySection
             key={category}
@@ -211,7 +208,13 @@ function CategorySection({
 }) {
   return (
     <div className="mb-8" id={category}>
-      <h3 className="text-2xl font-semibold mb-4">{category}</h3>
+      <h2 className="flex items-center mb-4 relative">
+        <CopyToClipboardButton
+          textToCopy={`${window.location.origin}${window.location.pathname}#category=${category}`}
+          label={category}
+          ariaLabel={`Set category to ${category}`}
+        />
+      </h2>
       <SubcategoryFilter
         category={category}
         posts={posts}
