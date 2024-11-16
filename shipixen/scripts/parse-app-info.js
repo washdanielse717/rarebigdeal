@@ -2,6 +2,7 @@ const fs = require('fs');
 const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
+const { overrides } = require('../data/config/product-overrides');
 
 const readmePath = '../../README.md';
 const outputDir = '../public/static/images';
@@ -79,6 +80,22 @@ async function fetchAssets(app) {
   const productName = sanitizeName(name);
   const appDir = path.join(outputDir, 'product', productName);
   fs.mkdirSync(appDir, { recursive: true });
+
+  const override = overrides[productName];
+
+  if (override) {
+    if (override.logo) {
+      const logoPath = path.join(appDir, 'logo.png');
+      fs.copyFileSync(path.join(__dirname, '..', override.logo), logoPath);
+      app.logo = logoPath;
+    }
+    if (override.ogImage) {
+      const ogImagePath = path.join(appDir, 'og-image.png');
+      fs.copyFileSync(path.join(__dirname, '..', override.ogImage), ogImagePath);
+      app.images = [ogImagePath];
+    }
+    return;
+  }
 
   try {
     const response = await axios.get(website);
