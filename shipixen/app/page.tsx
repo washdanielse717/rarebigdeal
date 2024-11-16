@@ -49,7 +49,7 @@ export default function Home() {
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="Rare Deals and Discounts "
+        title="Rare Deals and Discounts"
         descriptionComponent={<p className='max-w-2xl'>Save big on limited time details on selected SaaS, software, apps & services. Discounts for Black Friday, Cyber Monday & beyond.</p>}
         textPosition="left"
         withBackground
