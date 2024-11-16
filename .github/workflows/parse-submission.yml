@@ -39,11 +39,3 @@ jobs:
           git commit -m 'Update app info'
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
 
-  output-number-of-changes:
-    runs-on: ubuntu-latest
-    needs: update-app-info
-    steps:
-      - name: Count number of changes
-        run: |
-          git fetch --depth=1 origin +refs/heads/main:refs/remotes/origin/main
-          git diff --name-only origin/main
