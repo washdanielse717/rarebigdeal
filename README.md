@@ -109,6 +109,7 @@ Total deals: XXX
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ⭐   | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
+| 💼   | [UptimeBeats](https://uptimebeats.com/) | Real-Time Uptime Monitoring to ensure 24/7 availability, track response times, receive downtime alerts, and create custom status pages. | 20% OFF on lifetime deal and monthly/yearly subscriptions with code **BLACKFRIDAY** |
 
 ## Themes, Plugins
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |
