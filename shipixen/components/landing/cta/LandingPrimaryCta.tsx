@@ -2,6 +2,7 @@ import clsx from 'clsx';
 import Image from '@/components/shared/Image';
 import { GlowBg } from '@/components/shared/ui/glow-bg';
 import { VideoPlayer } from '@/components/shared/VideoPlayer';
+import { Sparkles } from '@/components/shared/Sparkles';
 
 const LandingPrimaryCtaContent = ({
   className,
@@ -417,7 +418,7 @@ export const LandingPrimaryTextCtaSection = ({
   return (
     <section
       className={clsx(
-        'w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16',
+        'w-full flex flex-col justify-center items-center gap-8 py-12 lg:py-16 pt-16 lg:pt-24',
         withBackground && variant === 'primary'
           ? 'bg-primary-100/20 dark:bg-primary-900/10'
           : '',
@@ -427,6 +428,8 @@ export const LandingPrimaryTextCtaSection = ({
         className,
       )}
     >
+      <Sparkles className="-top-24 scale-75 opacity-80 contrast-200" />
+
       <div
         className={clsx(
           'w-full p-6 flex flex-col gap-8 relative',

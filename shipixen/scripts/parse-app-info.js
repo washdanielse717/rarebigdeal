@@ -38,16 +38,42 @@ function sanitizeName(name) {
 
 async function downloadImage(url, outputPath) {
   try {
-    const response = await axios.get(url, { responseType: 'arraybuffer' });
-    fs.writeFileSync(outputPath, response.data);
+    const response = await axios.get(url, {
+      responseType: 'arraybuffer',
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+      },
+      validateStatus: (status) => status < 400,
+    });
+
+    console.log(`HTTP status code for ${url}: ${response.status}`);
+
+    const contentType = response.headers['content-type'];
+    console.log(`Content-Type for ${url}: ${contentType}`);
+
+    if (contentType && contentType.startsWith('image/')) {
+      fs.writeFileSync(outputPath, response.data);
+      console.log(`Downloaded image from ${url} to ${outputPath}`);
+      return true;
+    } else {
+      console.error(
+        `Invalid image type from ${url}. Detected Content-Type: ${contentType}`,
+      );
+      return false;
+    }
   } catch (error) {
     console.error(`Failed to download image from ${url}:`, error.message);
+    return false;
   }
 }
 
 async function fetchWebsiteData(website) {
   try {
-    const response = await axios.get(website);
+    const response = await axios.get(website, {
+      headers: {
+        'User-Agent': 'Mozilla/5.0',
+      },
+    });
     const $ = cheerio.load(response.data);
 
     let faviconUrl =
@@ -78,8 +104,13 @@ async function fetchWebsiteData(website) {
     let highestResFaviconUrl = null;
     for (const url of possibleFaviconUrls) {
       try {
-        const response = await axios.head(url);
-        if (response.status === 200) {
+        const headResponse = await axios.head(url, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0',
+          },
+          validateStatus: (status) => status < 400,
+        });
+        if (headResponse.status === 200) {
           highestResFaviconUrl = url;
           break;
         }
@@ -104,10 +135,12 @@ async function fetchAssets(app) {
   const override = overrides[productName];
 
   if (override) {
+    console.log(`Applying overrides for ${productName}`);
     if (override.logo) {
       const logoPath = path.join(appDir, 'logo.png');
       fs.copyFileSync(path.join(__dirname, '..', override.logo), logoPath);
-      app.logo = logoPath;
+      app.logo = `/static/images/product/${productName}/logo.png`;
+      console.log(`Copied override logo for ${productName}`);
     }
     if (override.ogImage) {
       const ogImagePath = path.join(appDir, 'og-image.png');
@@ -115,39 +148,58 @@ async function fetchAssets(app) {
         path.join(__dirname, '..', override.ogImage),
         ogImagePath,
       );
-      app.images = [ogImagePath];
+      app.images = [`/static/images/product/${productName}/og-image.png`];
+      console.log(`Copied override ogImage for ${productName}`);
     }
-    return;
+    // Apply other overrides if any
+    Object.assign(app, override);
   }
 
-  try {
-    const response = await axios.get(website);
-    const $ = cheerio.load(response.data);
+  if (!override || !override.logo || !override.ogImage) {
+    try {
+      console.log(`Fetching website data for ${productName}`);
+      const { ogImageUrl, highestResFaviconUrl } =
+        await fetchWebsiteData(website);
 
-    let faviconUrl =
-      $('link[rel="icon"]').attr('href') ||
-      $('link[rel="shortcut icon"]').attr('href');
-    let ogImageUrl = $('meta[property="og:image"]').attr('content');
+      if (ogImageUrl && !override?.ogImage) {
+        const ogImagePath = path.join(appDir, 'og-image.png');
+        const isValidImage = await downloadImage(ogImageUrl, ogImagePath);
+        if (isValidImage) {
+          app.images = [`/static/images/product/${productName}/og-image.png`];
+        }
+      }
 
-    // Ensure the URLs are absolute
-    if (faviconUrl && !faviconUrl.startsWith('http')) {
-      faviconUrl = new URL(faviconUrl, website).href;
+      if (
+        highestResFaviconUrl &&
+        highestResFaviconUrl.endsWith('.png') &&
+        !override?.logo
+      ) {
+        const logoPath = path.join(appDir, 'logo.png');
+        const isValidImage = await downloadImage(
+          highestResFaviconUrl,
+          logoPath,
+        );
+        if (isValidImage) {
+          app.logo = `/static/images/product/${productName}/logo.png`;
+        }
+      } else {
+        // Check if logo already exists in the directory
+        const existingLogoPath = path.join(appDir, 'logo.png');
+        if (fs.existsSync(existingLogoPath)) {
+          app.logo = `/static/images/product/${productName}/logo.png`;
+          console.log(`Using existing logo for ${productName}`);
+        }
+      }
+    } catch (error) {
+      console.error(`Failed to fetch assets for ${app.name}:`, error.message);
+
+      // Check if logo already exists in the directory
+      const existingLogoPath = path.join(appDir, 'logo.png');
+      if (fs.existsSync(existingLogoPath)) {
+        app.logo = `/static/images/product/${productName}/logo.png`;
+        console.log(`Using existing logo for ${productName}`);
+      }
     }
-    if (ogImageUrl && !ogImageUrl.startsWith('http')) {
-      ogImageUrl = new URL(ogImageUrl, website).href;
-
-      const ogImagePath = path.join(appDir, 'og-image.png');
-      await downloadImage(ogImageUrl, ogImagePath);
-      app.images = [ogImagePath];
-    }
-
-    if (faviconUrl && faviconUrl.endsWith('.png')) {
-      const logoPath = path.join(appDir, 'logo.png');
-      await downloadImage(faviconUrl, logoPath);
-      app.logo = logoPath;
-    }
-  } catch (error) {
-    console.error(`Failed to fetch assets for ${app.name}:`, error.message);
   }
 }
 
@@ -164,19 +216,20 @@ ${tags.map((tag) => `  - ${tag}`).join('\n')}
 
   if (app.images && app.images.length > 0) {
     mdxContent += `images:
-  - /static/images/product/${sanitizeName(app.name)}/og-image.png
+  - ${app.images[0]}
 `;
   }
 
   if (app.logo) {
-    mdxContent += `logo: /static/images/product/${sanitizeName(app.name)}/logo.png
+    mdxContent += `logo: ${app.logo}
 `;
   }
 
   mdxContent += `summary: >
   ${app.description}
 category: ${app.category}
-deal: ${app.deal}
+deal: >
+  ${app.deal}
 subcategory: ${app.subcategory}
 website: ${app.website}
 layout: PostLayout

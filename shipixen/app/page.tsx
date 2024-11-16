@@ -60,8 +60,9 @@ export default function Home() {
             services. Discounts for Black Friday, Cyber Monday & beyond.
           </p>
         }
-        textPosition="left"
+        textPosition="center"
         withBackground
+        className="relative"
         // leadingComponent={<LandingProductHuntAward />}
       >
         {/* <LandingDiscount
@@ -69,34 +70,40 @@ export default function Home() {
           discountDescriptionText="for the first 10 customers (2 left)"
         /> */}
 
-        <Button size="xl" variant="secondary" asChild>
-          <a href="https://github.com/danmindru/rare-big-deal/pulls">Submit</a>
-        </Button>
+        <div className="flex gap-2">
+          <Button size="xl" variant="primary" asChild>
+            <a href="https://github.com/danmindru/rare-big-deal/pulls">
+              Submit
+            </a>
+          </Button>
 
-        <Button size="xl" variant="outlineSecondary">
-          <a href="/all-deals">All Deals</a>
-        </Button>
+          <Button size="xl" variant="outlinePrimary">
+            <a href="/all-deals">All Deals</a>
+          </Button>
+        </div>
 
-        <LandingSocialProof
-          className="w-full mt-12"
-          showRating
-          numberOfUsers={users}
-          suffixText="deal hunters"
-          avatarItems={[
-            {
-              imageSrc: 'https://picsum.photos/id/64/100/100',
-              name: 'John Doe',
-            },
-            {
-              imageSrc: 'https://picsum.photos/id/65/100/100',
-              name: 'Jane Doe',
-            },
-            {
-              imageSrc: 'https://picsum.photos/id/669/100/100',
-              name: 'Alice Doe',
-            },
-          ]}
-        />
+        <div className="flex items-center">
+          <LandingSocialProof
+            className="w-full mt-12"
+            showRating
+            numberOfUsers={users}
+            suffixText="deal hunters"
+            avatarItems={[
+              {
+                imageSrc: 'https://picsum.photos/id/64/100/100',
+                name: 'John Doe',
+              },
+              {
+                imageSrc: 'https://picsum.photos/id/65/100/100',
+                name: 'Jane Doe',
+              },
+              {
+                imageSrc: 'https://picsum.photos/id/669/100/100',
+                name: 'Alice Doe',
+              },
+            ]}
+          />
+        </div>
       </LandingPrimaryTextCtaSection>
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
