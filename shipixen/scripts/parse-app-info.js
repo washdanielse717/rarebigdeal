@@ -23,8 +23,10 @@ const categoryTags = {
   'Health and Fitness': ['Health', 'Fitness', 'Wellness'],
 };
 
-function applyOverrides(category) {
-  return overrides[category] || categoryTags[category] || [];
+function applyOverrides(category, productName) {
+  const overrideTags = overrides[productName]?.tags || [];
+  const categoryTagsList = categoryTags[category] || [];
+  return [...new Set([...overrideTags, ...categoryTagsList])];
 }
 
 function sanitizeName(name) {
@@ -150,7 +152,7 @@ async function fetchAssets(app) {
 }
 
 async function generateMDXContent(app) {
-  const tags = applyOverrides(app.category);
+  const tags = applyOverrides(app.category, sanitizeName(app.name));
 
   let mdxContent = `---
 title: >

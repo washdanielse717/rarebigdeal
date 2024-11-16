@@ -47,7 +47,7 @@ export default function TagPage({ params }: { params: { tag: string } }) {
   return (
     <div className="flex flex-col w-full items-center justify-between">
       <Header />
-      <ListLayout posts={filteredPosts} title={`${title} posts`} />
+      <ListLayout posts={filteredPosts} title={`${title} deals`} />
     </div>
   );
 }

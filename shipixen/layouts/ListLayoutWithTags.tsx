@@ -12,6 +12,7 @@ import { siteConfig } from '@/data/config/site.settings';
 import tagData from 'app/tag-data.json';
 import SectionContainer from '@/components/shared/SectionContainer';
 import Image from '@/components/shared/Image';
+import ReactMarkdown from 'react-markdown';
 
 const BLOG_URL = siteConfig.blogPath ? `/${siteConfig.blogPath}` : '/';
 
@@ -86,7 +87,7 @@ export default function ListLayoutWithTags({
   if (displayPosts.length === 0) {
     return (
       <div className="flex flex-col gap-1 p-6 mb-10">
-        <h2 className="text-4xl">No posts found</h2>
+        <h2 className="text-4xl">No deals found</h2>
         <p>Please check back later!</p>
       </div>
     );
@@ -105,7 +106,7 @@ export default function ListLayoutWithTags({
 
             <ul className="flex flex-col w-full gap-4 py-4">
               {displayPosts.map((post) => {
-                const { path, date, title, summary, tags, images } = post;
+                const { path, logo, title, summary, tags, images, deal } = post;
                 const firstImage = images?.[0];
 
                 return (
@@ -113,19 +114,6 @@ export default function ListLayoutWithTags({
                     key={path}
                     className="flex md:bg-white dark:md:bg-black rounded-md overflow-hidden relative md:shadow-sm md:hover:shadow-xl dark:md:hover:bg-slate-800 transition-all"
                   >
-                    {firstImage ? (
-                      <div className="hidden lg:flex relative w-52 shrink-0 h-auto">
-                        <Image
-                          src={firstImage}
-                          alt={title}
-                          fill
-                          className="object-cover"
-                          sizes="(min-width: 1024px) 80vw, 100vw"
-                        />
-                      </div>
-                    ) : (
-                      ''
-                    )}
                     <article className="flex flex-col gap-2 py-5 md:p-8">
                       <Link
                         href={`/${path}`}
@@ -136,25 +124,37 @@ export default function ListLayoutWithTags({
 
                       <div className="space-y-3">
                         <div>
-                          <h2 className="text-3xl leading-8 tracking-tight">
+                          <h2 className="flex gap-2 text-3xl items-center leading-8 tracking-tight">
+                            {logo ? (
+                              <Image
+                                src={logo}
+                                alt={title}
+                                className="w-12 h-12 rounded-full flex-shrink-0"
+                                width={200}
+                                height={200}
+                              />
+                            ) : (
+                              ''
+                            )}
                             {title}
                           </h2>
 
-                          <dl>
+                          {/* <dl>
                             <dt className="sr-only">Published on</dt>
                             <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
                               <time dateTime={date}>
                                 {formatDate(date, siteConfig.locale)}
                               </time>
                             </dd>
-                          </dl>
+                          </dl> */}
                         </div>
+                        <ReactMarkdown className="prose">{deal}</ReactMarkdown>
                         <div className="prose max-w-none text-gray-500 dark:text-gray-400">
                           {summary}
                         </div>
                       </div>
 
-                      <div className="flex flex-wrap relative">
+                      <div className="mt-4 flex flex-wrap relative">
                         {tags?.map((tag) => <Tag key={tag} text={tag} />)}
                       </div>
                     </article>
@@ -194,7 +194,7 @@ export default function ListLayoutWithTags({
                         <Link
                           href={`/tags/${slug(t)}`}
                           className="inline-block translate-x-0 transition-all  uppercase text-sm font-medium text-gray-500 dark:text-gray-300 hover:text-primary-500 dark:hover:text-primary-500"
-                          aria-label={`View posts tagged ${t}`}
+                          aria-label={`View deals tagged ${t}`}
                         >
                           {`${t} (${tagCounts[t]})`}
                         </Link>

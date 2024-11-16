@@ -24,7 +24,7 @@ export default async function Page() {
             Tags
           </h1>
           <p className="mt-6 md:text-xl">
-            Overview of all tags used across posts.
+            Overview of all tags used across deals.
           </p>
 
           <div className="w-full mt-12 flex flex-wrap">
@@ -36,7 +36,7 @@ export default async function Page() {
                   <Link
                     href={`/tags/${slug(t)}`}
                     className="-ml-2 text-sm font-semibold uppercase text-gray-600 dark:text-gray-300"
-                    aria-label={`View posts tagged ${t}`}
+                    aria-label={`View deals tagged ${t}`}
                   >
                     {` (${tagCounts[t]})`}
                   </Link>
