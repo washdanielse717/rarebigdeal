@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Check commit message
         id: check
@@ -33,6 +35,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v2
@@ -40,21 +44,20 @@ jobs:
           node-version: '20'
 
       - name: Install dependencies
-        run: cd shipixen && npm install
+        run: npm install
 
-      - name: Run update script
-        run: cd shipixen/scripts && node parse-app-info.js
+      - name: Run script
+        run: node parse-app-info.js
 
       - name: Commit and push changes
-        if: ${{ success() }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m 'Update app info'
-          git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+          git commit -m "Update app info"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
 
   update-stats:
     if: needs.check-commit-message.outputs.skip == 'false'
