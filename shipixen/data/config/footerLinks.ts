@@ -9,8 +9,8 @@ export const footerLinks: Array<{
     columnName: 'Company',
     links: [
       { href: '/', title: 'Home' },
-      { href: '/all-articles', title: 'All Deals' },
-      { href: '/all-articles', title: 'Blog' },
+      { href: '/all-deals', title: 'All Deals' },
+      { href: '/all-deals', title: 'Blog' },
     ],
   },
   { columnName: 'Product', links: [] },

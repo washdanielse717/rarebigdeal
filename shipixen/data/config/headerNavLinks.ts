@@ -3,6 +3,6 @@ export const headerNavLinks: Array<{
   title: string;
 }> = [
   { href: '/', title: 'Home' },
-  { href: '/all-articles', title: 'All Deals' },
+  { href: '/all-deals', title: 'All Deals' },
   { href: 'https://github.com/danmindru/rare-big-deal/pulls', title: 'Submit' },
 ];

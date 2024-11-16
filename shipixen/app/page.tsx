@@ -27,6 +27,7 @@ import {
   ThumbsUpIcon,
   ZapIcon,
 } from 'lucide-react';
+import { Button } from '@/components/shared/ui/button';
 
 export default function Home() {
   return (
@@ -48,8 +49,8 @@ export default function Home() {
       <Header className="mb-0 lg:mb-0" />
 
       <LandingPrimaryTextCtaSection
-        title="Rare Deals and Discounts on Software, Apps & SaaS"
-        description="Get rare limited time details on selected SaaS, software, apps and services. Discounts for Black Friday and beyond."
+        title="Rare Deals and Discounts "
+        descriptionComponent={<p className='max-w-2xl'>Save big on limited time details on selected SaaS, software, apps & services. Discounts for Black Friday, Cyber Monday & beyond.</p>}
         textPosition="left"
         withBackground
         // leadingComponent={<LandingProductHuntAward />}
@@ -58,6 +59,14 @@ export default function Home() {
           discountValueText="30% off"
           discountDescriptionText="for the first 10 customers (2 left)"
         /> */}
+
+         <Button size="xl" variant="secondary" asChild>
+        <a href="https://github.com/danmindru/rare-big-deal/pulls">Submit</a>
+      </Button>
+
+      <Button size="xl" variant="outlineSecondary">
+        <a href="/all-deals">All Deals</a>
+      </Button>
 
         <LandingSocialProof
           className="w-full mt-12"

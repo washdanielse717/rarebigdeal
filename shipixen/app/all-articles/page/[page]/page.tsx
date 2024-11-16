@@ -1,6 +1,6 @@
 import { allCoreContent, sortPosts } from '@shipixen/pliny/utils/contentlayer';
 import { allBlogs } from 'shipixen-contentlayer/generated';
-import { POSTS_PER_PAGE } from '@/app/all-articles/settings';
+import { POSTS_PER_PAGE } from '@/app/all-deals/settings';
 import ListLayout from '@/layouts/ListLayoutWithTags';
 import Header from '@/components/shared/Header';
 

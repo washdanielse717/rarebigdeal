@@ -14,10 +14,10 @@ export const searchLinks: Array<{
     href: '/',
   },
   {
-    id: 'all-articles',
+    id: 'all-deals',
     name: 'All Deals',
     keywords: '',
     section: 'Navigation',
-    href: '/all-articles',
+    href: '/all-deals',
   },
 ];
