@@ -159,10 +159,6 @@ export default function HomeList({
   return (
     <>
       <div className="flex flex-col gap-4">
-        <h2 className="text-3xl font-semibold leading-tight md:leading-tight max-w-xs sm:max-w-none md:text-4xl">
-          Latest deals
-        </h2>
-
         {sortedCategories.map((category) => (
           <CategorySection
             key={category}
@@ -212,23 +208,21 @@ function CategorySection({
   numberOfPosts: number;
   showImage: boolean;
 }) {
-  const handleCategoryClick = () => {
-    const query = new URLSearchParams(window.location.hash.replace('#', ''));
-    query.set('category', category);
-    window.history.replaceState(
-      null,
-      '',
-      `${window.location.pathname}#${query.toString()}`,
-    );
-  };
+  const [textToCopy, setTextToCopy] = useState<string>(category);
 
   const sortedPosts = posts.sort((a, b) => a.title.localeCompare(b.title));
+
+  useEffect(() => {
+    setTextToCopy(
+      `${window.location.origin}${window.location.pathname}#category=${category}`,
+    );
+  }, [category]);
 
   return (
     <div className="mb-8" id={category}>
       <div className="flex items-center mb-4 relative">
         <CopyToClipboardButton
-          textToCopy={`${window.location.origin}${window.location.pathname}#category=${category}`}
+          textToCopy={textToCopy}
           label={category}
           ariaLabel={`Set category to ${category}`}
         />
@@ -239,7 +233,7 @@ function CategorySection({
         selectedSubcategories={selectedSubcategories}
         handleSubcategoryFilter={handleSubcategoryFilter}
       />
-      <ul className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+      <ul className="grid gap-4">
         {sortedPosts
           .filter(
             (post) =>

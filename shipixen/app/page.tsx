@@ -32,6 +32,7 @@ import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 
 export default function Home() {
+  const users = stats.stars || 0 + stats.forks || 0;
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
       {/* <LandingSocialProofBand invert={false} className="hidden md:flex">
@@ -78,7 +79,7 @@ export default function Home() {
         <LandingSocialProof
           className="w-full mt-12"
           showRating
-          numberOfUsers={(stats.forks || 0) + (stats.stars || 0)}
+          numberOfUsers={users}
           suffixText="deal hunters"
           avatarItems={[
             {
@@ -97,7 +98,7 @@ export default function Home() {
         />
       </LandingPrimaryTextCtaSection>
 
-      <section className="container-wide mt-12 p-6">
+      <section className="container-narrow mt-12 p-6">
         <HomeList />
       </section>
 
@@ -200,12 +201,12 @@ export default function Home() {
       /> */}
 
       <LandingBandSection
-        title="4.9/5 stars"
-        description="Our customers love our product."
+        title="Stars! Starts everywhere!"
+        description="Our users love us! There's no place as beautiful to post a deal."
         supportingComponent={
           <LandingSocialProof
             showRating
-            numberOfUsers={99}
+            numberOfUsers={users}
             avatarItems={[
               {
                 imageSrc: 'https://picsum.photos/id/64/100/100',
