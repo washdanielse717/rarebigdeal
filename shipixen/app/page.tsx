@@ -294,7 +294,6 @@ export default function Home() {
             },
           ]}
           withBackgroundGlow
-          withBackground
         />
       </LandingTestimonialReadMoreWrapper>
 
