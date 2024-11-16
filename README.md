@@ -44,6 +44,7 @@ Total deals: 34+
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
 | --- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | ⭐   | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
+| 🚢   | [ShipFlutter](https://shipflutter.com) | Ship Everywhere with Flutter. More than a boilerplate. A fully customizable starter kit to seamlessly launch responsive Android, iOS, and Web apps with Flutter powered by Firebase and Vertex AI. | 60% OFF on Whitelabel version with code **BLACKFRIDAY60** |
 
 ## AI Tools
 ### AI Chat UI
@@ -58,6 +59,7 @@ Total deals: 34+
 | ⚡   | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  🗂️  | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 |  🎓  | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. Includes tools like Esquisse (image generation while training your typing), codeBloom (coding with natural language), Mind Maps (link ideas with study topics), memoPix (flashcards for younger learners), Arcania (immersive learning for younger and older learners) and more... Train AI tools (like Mentors, Quizzes and Flashcards) on your own school or training materials for personalized study assistance. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans|
+| 🚢   | [MumbleSort](https://mumblesort.com) | Turn messy thoughts into actionable tasks. Use voice, text or images to capture ideas and let our AI organize them into a simple actionable tasks. | 20% OFF with code **BLACKFRIDAY** |
 
 
 ## Other AI tools
