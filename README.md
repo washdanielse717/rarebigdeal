@@ -26,6 +26,8 @@ Total deals: XXX
 - [SEO Tools](#seo-tools)
 - [Startup SaaS/Tools](#startup-saastools)
 - [Themes, Plugins](#themes-plugins)
+- [Courses](#courses)
+  - [Programming Courses](#programming-courses)
 - [Books](#books)
   - [Programming Books](#programming-books)
     - [Web Dev \& Design](#web-dev--design)
@@ -52,7 +54,6 @@ Total deals: XXX
 |     | Name                                                                                                                                                     | Description                                                                                                                            | Discount Code & Terms                  |
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | ⚡   | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
-| 🪝   | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🗂️  | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 
 ## Other AI tools
@@ -70,7 +71,7 @@ Total deals: XXX
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
 | --- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
 |  🚢  | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
-| 🤑   | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited number of licenses with code **BLACKFRIDAY2024** |
+| 🤑   | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited no. of licenses **BLACKFRIDAY2024** |
 | ⭐   | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 
 ## Productivity
@@ -113,6 +114,11 @@ Total deals: XXX
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | ⭐   | [Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
+
+## Courses
+### Programming Courses
+|     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
+| 🪝   | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
 
 ## Books
 ### Programming Books

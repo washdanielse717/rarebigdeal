@@ -123,15 +123,15 @@ export function PostItem({
               )}
             </figure>
 
-            <div className="w-full h-full flex flex-col justify-between gap-1 dark:text-slate-300 truncate">
+            <div className="w-full h-full flex flex-col justify-between gap-1 dark:text-slate-300 truncate flex-shrink-0">
               <p className="text-xs sm:text-sm truncate">{processedTitle}</p>
             </div>
           </div>
 
-          <div className="flex-shrink-0 ml-auto flex gap-2 tabular-nums max-w-sm text-right">
+          <div className="ml-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-right">
             <span
               className={cn(
-                'flex-col flex gap-1 items-center text-xs p-2 min-w-[40px]',
+                'flex-col flex gap-1 items-center text-[0.7rem] sm:text-xs p-2 min-w-[40px]',
               )}
             >
               <ReactMarkdown className="text-gray-900 dark:text-gray-100">
