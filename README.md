@@ -87,6 +87,8 @@ Total deals: XXX
 |     | Name                            | Description                                                                | Discount Code & Terms                                 |
 | --- | ------------------------------- | -------------------------------------------------------------------------- | ----------------------------------------------------- |
 | ⭐   | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
+|  📦  | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+
 
 ### Productivity Tools & Services
 |     | Name                                    | Description                                                                                | Discount Code & Terms                                     |
