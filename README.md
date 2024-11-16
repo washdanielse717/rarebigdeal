@@ -38,6 +38,7 @@ Total deals: XXX
 |     | Name                                                 | Description                                                                                                                                  | Discount Code & Terms                  |
 | --- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 🖥️   | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
+|  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 
 ### Tools & Services
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
@@ -49,6 +50,7 @@ Total deals: XXX
 |     | Name                                      | Description                                                                                                  | Discount Code & Terms                                                                           |
 | --- | ----------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
 | ⚡   | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
+|  ✍️  | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF  |
 
 ### AI Productivity & Learning Tools
 |     | Name                                                                                                                                                     | Description                                                                                                                            | Discount Code & Terms                  |
