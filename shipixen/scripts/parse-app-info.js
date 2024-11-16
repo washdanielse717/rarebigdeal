@@ -139,8 +139,8 @@ async function fetchAssets(app) {
       app.images = [ogImagePath];
     }
 
-    if (faviconUrl) {
-      const faviconPath = path.join(appDir, 'favicon.ico');
+    if (faviconUrl && faviconUrl.endsWith('.png')) {
+      const faviconPath = path.join(appDir, 'favicon.png');
       await downloadImage(faviconUrl, faviconPath);
       app.logo = faviconPath;
     }
@@ -236,7 +236,7 @@ async function parseReadme() {
 async function main() {
   const apps = await parseReadme();
 
-  for (const app of apps) {
+  const fetchPromises = apps.map(async (app) => {
     try {
       await fetchAssets(app);
       await generateMDXContent(app);
@@ -246,7 +246,9 @@ async function main() {
         error.message,
       );
     }
-  }
+  });
+
+  await Promise.allSettled(fetchPromises);
 }
 
 main();

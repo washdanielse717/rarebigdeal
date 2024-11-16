@@ -30,9 +30,10 @@ import {
 import { Button } from '@/components/shared/ui/button';
 import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
+import { metadata } from '@/data/config/metadata';
 
 export default function Home() {
-  const users = stats.stars || 0 + stats.forks || 0;
+  const users = (stats.stars || 0) + (stats.forks || 0);
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
       {/* <LandingSocialProofBand invert={false} className="hidden md:flex">
@@ -98,7 +99,7 @@ export default function Home() {
         />
       </LandingPrimaryTextCtaSection>
 
-      <section className="container-narrow mt-12 p-6">
+      <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
         <HomeList />
       </section>
 
@@ -201,7 +202,7 @@ export default function Home() {
       /> */}
 
       <LandingBandSection
-        title="Stars! Starts everywhere!"
+        title="Stars! Stars everywhere!"
         description="Our users love us! There's no place as beautiful to post a deal."
         supportingComponent={
           <LandingSocialProof
@@ -251,43 +252,43 @@ export default function Home() {
 
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
-          title="Hear It from Our Users"
+          title="Hear It from Our Users (Coming soon)"
           description="Discover what our happy customers have to say about their experience with our AI app:"
           testimonialItems={[
             {
               name: 'John Smith',
-              text: 'This app transformed our operations, boosting productivity like never before. Highly customizable and incredibly efficient!',
+              text: 'Unbelievable Black Friday deals! I saved so much on top-quality products. Highly recommend checking it out!',
               handle: '@john_smith',
               imageSrc: 'https://picsum.photos/id/64/100/100',
             },
             {
               name: 'Emily Johnson',
-              text: "Even with minimal tech knowledge, I could create my own app from scratch. It's empowering to have full control!",
+              text: "The best deals I've ever seen! Managed to get everything on my wishlist at a fraction of the price.",
               handle: '@emily_johnson',
               imageSrc: 'https://picsum.photos/id/65/100/100',
             },
             {
               name: 'David Rodriguez',
-              text: 'Thanks to the analytics tools, we identified bottlenecks and saved significantly on costs. Truly impressive!',
+              text: 'Incredible savings! The analytics tools helped me find the best deals quickly. Highly impressive!',
               handle: '@david_rodriguez',
               imageSrc: 'https://picsum.photos/id/669/100/100',
               featured: true,
             },
             {
               name: 'Mandy',
-              text: 'Excellent product!',
+              text: 'Amazing Black Friday deals!',
               handle: '@mandy',
               imageSrc: 'https://picsum.photos/id/829/100/100',
             },
             {
               name: 'Alex',
-              text: 'Can easily recommend!',
+              text: 'Found the best deals here! Highly recommend!',
               handle: '@alex',
               imageSrc: 'https://picsum.photos/100/100.webp?random=2',
             },
             {
               name: 'Sam',
-              text: 'I am very happy with the results.',
+              text: 'Extremely satisfied with the Black Friday savings.',
               handle: '@sam',
               imageSrc: 'https://picsum.photos/100/100.webp?random=3',
             },
@@ -360,22 +361,95 @@ export default function Home() {
 
       <LandingFaqCollapsibleSection
         title="Got Questions? We've Got Answers!"
-        description="Find answers to common inquiries about our AI app:"
+        description="Find answers to common inquiries about our deal & discount platform:"
         faqItems={[
           {
-            question: 'Can I integrate my existing systems?',
-            answer:
-              'Absolutely! Our app seamlessly integrates with various other tools and systems.',
+            question: 'How do I submit a deal?',
+            answer: (
+              <>
+                You can submit a deal by creating a pull request at{' '}
+                <a
+                  href="https://github.com/danmindru/rare-big-deal/pulls"
+                  className="underline"
+                >
+                  github.com/danmindru/rare-big-deal/pulls
+                </a>
+                . All submissions are automatically accepted in order of
+                submission.
+              </>
+            ),
           },
           {
-            question: 'Do I need coding skills?',
-            answer:
-              'Nope! Our user-friendly interface empowers anyone to create and manage their own app.',
+            question: 'Where can I see the submitted deals?',
+            answer: (
+              <>
+                All submitted deals are featured on our webpage at{' '}
+                <a href="https://rarebigdeal.com" className="underline">
+                  rarebigdeal.com
+                </a>
+                . The submissions will be categorized and displayed
+                alphabetically and you'll get a standalone page for your deal.
+              </>
+            ),
           },
           {
-            question: 'Is my data secure?',
+            question: 'Are all deals accepted?',
             answer:
-              'Absolutely! We take data security seriously, employing robust measures to keep your information safe.',
+              'Yes, as long as you have a deal, it will be accepted and featured on our webpage.',
+          },
+          {
+            question: 'Is the process automated?',
+            answer:
+              'Yes, everything is automated after submission. If you need any manual changes, please raise a pull request.',
+          },
+          {
+            question: 'Can I make changes to my submitted deal?',
+            answer:
+              'Yes, you can make changes by raising a pull request with the necessary modifications.',
+          },
+          {
+            question: 'How are deals ordered?',
+            answer:
+              'Deals are ordered based on the time of submission on the Github repo, with the latest submissions appearing at the bottom. On the webpage, they ordered b alphabetically and grouped by category.',
+          },
+          {
+            question: 'Is there a limit to the number of deals I can submit?',
+            answer:
+              'No, there is no limit to the number of deals you can submit.',
+          },
+          {
+            question: 'Do I need coding skills to submit a deal?',
+            answer:
+              'No, you do not need coding skills. Simply create a pull request with your deal details.',
+          },
+          {
+            question:
+              'How long does it take for my deal to appear on the webpage?',
+            answer:
+              'Deals are processed automatically and should appear on the webpage shortly after submission.',
+          },
+          {
+            question: 'Can I feature my deal at the top of the list?',
+            answer: (
+              <>
+                There is no option to do that currently. Get in touch with us at{' '}
+                <a href={metadata.twitter} className="underline">
+                  here
+                </a>{' '}
+                for more information.
+              </>
+            ),
+          },
+          {
+            question:
+              'What information do I need to include in my deal submission?',
+            answer:
+              'Please take a previous deal as an example and include all the necessary information in your submission. You need a name, short description and a deal text as a minimum.',
+          },
+          {
+            question: 'Can I delete my submitted deal?',
+            answer:
+              'If you need to delete your submitted deal, please raise a pull request with the request for deletion.',
           },
         ]}
         withBackground

@@ -233,7 +233,7 @@ function CategorySection({
         selectedSubcategories={selectedSubcategories}
         handleSubcategoryFilter={handleSubcategoryFilter}
       />
-      <ul className="grid gap-4">
+      <ul className="grid 2xl:grid-cols-2 gap-4">
         {sortedPosts
           .filter(
             (post) =>
@@ -271,10 +271,10 @@ function SubcategoryFilter({
         <button
           key={subcategory}
           onClick={() => handleSubcategoryFilter(category, subcategory!)}
-          className={`px-4 py-2 rounded transition-colors ${
+          className={`text-xs px-4 py-2 rounded transition-colors font-display ${
             selectedSubcategories.includes(subcategory!)
               ? 'bg-primary-500 text-white'
-              : 'bg-gray-200 text-gray-700'
+              : 'bg-primary-100/30 text-gray-700 dark:bg-primary-800/20 dark:text-white'
           }`}
         >
           {subcategory}
