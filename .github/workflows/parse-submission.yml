@@ -7,7 +7,6 @@ on:
 
 jobs:
   update-app-info:
-    if: "!contains(github.event.head_commit.message, 'Update app info')"
     runs-on: ubuntu-latest
 
     steps:
@@ -28,8 +27,19 @@ jobs:
       - name: Run update script
         run: cd shipixen/scripts && node parse-app-info.js
 
+  commit-changes:
+    needs: update-app-info
+    runs-on: ubuntu-latest
+    if: "!contains(github.event.head_commit.message, 'Update app info')"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+          token: ${{ secrets.RBD_GITHUB_TOKEN }}
+
       - name: Commit and push changes
-        if: ${{ success() }}
         env:
           GITHUB_TOKEN: ${{ secrets.RBD_GITHUB_TOKEN }}
         run: |

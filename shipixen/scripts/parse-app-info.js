@@ -43,21 +43,23 @@ async function extractAppInfo() {
       currentCategory = line.replace('## ', '').trim();
     } else if (line.startsWith('### ')) {
       currentSubcategory = line.replace('### ', '').trim();
-    } else if (line.startsWith('| ⭐ ')) {
+    } else if (line.startsWith('|')) {
       const parts = line.split('|').map(part => part.trim());
-      const name = parts[2].match(/\[(.*?)\]/)[1];
-      const website = parts[2].match(/\((.*?)\)/)[1];
-      const description = parts[3];
-      const deal = parts[4];
+      if (parts.length >= 5 && parts[2].startsWith('[')) {
+        const name = parts[2].match(/\[(.*?)\]/)[1];
+        const website = parts[2].match(/\((.*?)\)/)[1];
+        const description = parts[3];
+        const deal = parts[4];
 
-      apps.push({
-        name,
-        website,
-        description,
-        deal,
-        category: currentCategory,
-        subcategory: currentSubcategory,
-      });
+        apps.push({
+          name,
+          website,
+          description,
+          deal,
+          category: currentCategory,
+          subcategory: currentSubcategory,
+        });
+      }
     }
   }
 
