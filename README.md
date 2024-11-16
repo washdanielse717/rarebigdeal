@@ -57,6 +57,8 @@ Total deals: XXX
 | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | ⚡   | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 |  🗂️  | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
+|  🎓  | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. Includes tools like Esquisse (image generation while training your typing), codeBloom (coding with natural language), Mind Maps (link ideas with study topics), memoPix (flashcards for younger learners), Arcania (immersive learning for younger and older learners) and more... Train AI tools (like Mentors, Quizzes and Flashcards) on your own school or training materials for personalized study assistance. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans|
+
 
 ## Other AI tools
 |     | Name                                | Description                                                                     | Discount Code & Terms                       |
@@ -98,6 +100,7 @@ Total deals: XXX
 |  💼 | [hiretool.io](https://hiretool.io?ref=awesomebf) | Cut out unqualified candidates before the interview— save your time and focus on the right talent | 50% off on monthly and yearly subscriptions (automatic) |
 |  🗃️  | [One Tab Group](https://onetab.group) | Your all-in-one browser tab/tab group manager | Lifetime 40% off with code **BLACKFRIDAY40**  |
 | ⭐   | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
+| 🤖  | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed|
 
 ## Marketing Tools
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
