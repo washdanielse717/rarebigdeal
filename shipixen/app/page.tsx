@@ -28,6 +28,8 @@ import {
   ZapIcon,
 } from 'lucide-react';
 import { Button } from '@/components/shared/ui/button';
+import HomeList from '@/components/blog/HomeList';
+import stats from '@/data/stats';
 
 export default function Home() {
   return (
@@ -50,7 +52,12 @@ export default function Home() {
 
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
-        descriptionComponent={<p className='max-w-2xl'>Save big on limited time details on selected SaaS, software, apps & services. Discounts for Black Friday, Cyber Monday & beyond.</p>}
+        descriptionComponent={
+          <p className="max-w-2xl">
+            Save big on limited time details on selected SaaS, software, apps &
+            services. Discounts for Black Friday, Cyber Monday & beyond.
+          </p>
+        }
         textPosition="left"
         withBackground
         // leadingComponent={<LandingProductHuntAward />}
@@ -60,19 +67,19 @@ export default function Home() {
           discountDescriptionText="for the first 10 customers (2 left)"
         /> */}
 
-         <Button size="xl" variant="secondary" asChild>
-        <a href="https://github.com/danmindru/rare-big-deal/pulls">Submit</a>
-      </Button>
+        <Button size="xl" variant="secondary" asChild>
+          <a href="https://github.com/danmindru/rare-big-deal/pulls">Submit</a>
+        </Button>
 
-      <Button size="xl" variant="outlineSecondary">
-        <a href="/all-deals">All Deals</a>
-      </Button>
+        <Button size="xl" variant="outlineSecondary">
+          <a href="/all-deals">All Deals</a>
+        </Button>
 
         <LandingSocialProof
           className="w-full mt-12"
           showRating
-          numberOfUsers={99}
-          suffixText="happy users"
+          numberOfUsers={(stats.forks || 0) + (stats.stars || 0)}
+          suffixText="deal hunters"
           avatarItems={[
             {
               imageSrc: 'https://picsum.photos/id/64/100/100',
@@ -90,8 +97,8 @@ export default function Home() {
         />
       </LandingPrimaryTextCtaSection>
 
-       <section className="container-wide mt-12 p-6">
-        <LatestArticles />
+      <section className="container-wide mt-12 p-6">
+        <HomeList />
       </section>
 
       {/* <LandingProductFeature
@@ -372,8 +379,6 @@ export default function Home() {
         ]}
         withBackground
       />
-
-
     </div>
   );
 }

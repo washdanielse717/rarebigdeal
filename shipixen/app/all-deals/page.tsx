@@ -26,7 +26,7 @@ export default function BlogPage() {
         posts={posts}
         initialDisplayPosts={initialDisplayPosts}
         pagination={pagination}
-        title="All Articles"
+        title="All Deals"
       />
     </div>
   );

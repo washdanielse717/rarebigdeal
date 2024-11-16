@@ -169,9 +169,9 @@ export default function PostLayout({
                   <Link
                     href={siteConfig.allArticlesPath}
                     className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                    aria-label="More articles"
+                    aria-label="More deals"
                   >
-                    More articles &rarr;
+                    More deals &rarr;
                   </Link>
                 </div>
               </div>

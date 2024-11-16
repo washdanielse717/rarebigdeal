@@ -94,7 +94,7 @@ export default function ListLayoutWithTags({
 
   return (
     <>
-      <SectionContainer type="ultrawide" className="fancy-overlay">
+      <SectionContainer type="ultrawide" className="fancy-overlay p-4">
         <div className="flex sm:gap-12">
           <div className="w-full">
             <div className="pb-6">
@@ -103,7 +103,7 @@ export default function ListLayoutWithTags({
               </h1>
             </div>
 
-            <ul className="flex flex-col w-full gap-4">
+            <ul className="flex flex-col w-full gap-4 py-4">
               {displayPosts.map((post) => {
                 const { path, date, title, summary, tags, images } = post;
                 const firstImage = images?.[0];
