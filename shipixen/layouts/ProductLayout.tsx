@@ -204,20 +204,6 @@ export default function PostLayout({
           </section>
 
           <footer>
-            <dl className="space-y-10">
-              <div>
-                <dt className="sr-only">Published on</dt>
-                <dd className="text-base font-medium leading-6 text-gray-500 dark:text-gray-400">
-                  <time dateTime={date}>
-                    {new Date(date).toLocaleDateString(
-                      siteConfig.locale,
-                      postDateTemplate,
-                    )}
-                  </time>
-                </dd>
-              </div>
-            </dl>
-
             <dl className="pb-10 pt-6 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
               <dt className="sr-only">Authors</dt>
               <dd>
@@ -259,6 +245,16 @@ export default function PostLayout({
                     </li>
                   ))}
                 </ul>
+              </dd>
+
+              <dt className="text-xs mt-8">Published on</dt>
+              <dd className="text-xs font-medium leading-6 text-gray-500 dark:text-gray-400">
+                <time dateTime={date}>
+                  {new Date(date).toLocaleDateString(
+                    siteConfig.locale,
+                    postDateTemplate,
+                  )}
+                </time>
               </dd>
             </dl>
           </footer>
