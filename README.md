@@ -142,8 +142,10 @@ SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license wi
 
 ## Courses
 ### Programming Courses
-|     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 🪝   | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
+|  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get a complete AI roadmap, personalized mentorship, early access to exclusive AI projects & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
 
 ## Books
 ### Programming Books
