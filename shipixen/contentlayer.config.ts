@@ -102,6 +102,8 @@ export const Blog = defineDocumentType(() => ({
     deal: { type: 'string' },
     subcategory: { type: 'string' },
     website: { type: 'string' },
+    metaDescription: { type: 'string' },
+    metaTitle: { type: 'string' },
   },
   computedFields: {
     ...computedFields,

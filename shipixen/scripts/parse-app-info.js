@@ -81,6 +81,13 @@ async function fetchWebsiteData(website) {
       $('link[rel="shortcut icon"]').attr('href');
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
 
+    const description = $('meta[name="description"]').attr('content');
+    const title =
+      $('title').text() || $('meta[property="og:title"]').attr('content');
+
+    // Log the extracted title
+    console.log(`Extracted title for ${website}:`, title);
+
     // Ensure the URLs are absolute
     if (faviconUrl && !faviconUrl.startsWith('http')) {
       faviconUrl = new URL(faviconUrl, website).href;
@@ -119,10 +126,15 @@ async function fetchWebsiteData(website) {
       }
     }
 
-    return { ogImageUrl, highestResFaviconUrl };
+    return { ogImageUrl, highestResFaviconUrl, description, title };
   } catch (error) {
     console.error(`Failed to fetch website data:`, error.message);
-    return {};
+    return {
+      ogImageUrl: null,
+      highestResFaviconUrl: null,
+      description,
+      title,
+    };
   }
 }
 
@@ -158,8 +170,14 @@ async function fetchAssets(app) {
   if (!override || !override.logo || !override.ogImage) {
     try {
       console.log(`Fetching website data for ${productName}`);
-      const { ogImageUrl, highestResFaviconUrl } =
+      const { ogImageUrl, highestResFaviconUrl, description, title } =
         await fetchWebsiteData(website);
+
+      // Log the fetched title
+      console.log(`Fetched title for ${productName}:`, title);
+
+      app.metaDescription = description;
+      app.metaTitle = title;
 
       if (ogImageUrl && !override?.ogImage) {
         const ogImagePath = path.join(appDir, 'og-image.png');
@@ -232,12 +250,22 @@ deal: >
   ${app.deal}
 subcategory: ${app.subcategory}
 website: ${app.website}
-layout: PostLayout
----
+layout: ProductLayout
+`;
 
-## [${app.name}](${app.website})
+  if (app.metaDescription) {
+    mdxContent += `metaDescription: >
+  ${app.metaDescription}
+`;
+  }
 
-${app.name} <br/>
+  if (app.metaTitle) {
+    mdxContent += `metaTitle: >
+  ${app.metaTitle}
+`;
+  }
+
+  mdxContent += `---
 ${app.description}
 
 ## Rare Deal

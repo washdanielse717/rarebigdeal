@@ -15,13 +15,14 @@ export function genPageMetadata({
   description,
   image,
   canonical,
+  metaTitle,
   ...rest
 }: PageSEOProps): Metadata {
   return {
     title,
     description,
     openGraph: {
-      title: `${title} | ${siteConfig.title}`,
+      title: `${metaTitle ? `${metaTitle} | ${siteConfig.title}` : title} | ${siteConfig.title}`,
       description: description || siteConfig.description,
       url: './',
       siteName: siteConfig.title,

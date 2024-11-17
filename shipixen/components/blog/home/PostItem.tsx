@@ -2,26 +2,13 @@
 import React, { useState } from 'react';
 import clsx from 'clsx';
 import { Blog } from 'shipixen-contentlayer/generated';
-import { formatDate } from '@shipixen/pliny/utils/formatDate';
-import { siteConfig } from '@/data/config/site.settings';
-import Link from '@/components/shared/Link';
-import Tag from '@/components/blog/Tag';
 import Image from '@/components/shared/Image';
-import { ChevronDown, ChevronUp, ExternalLink } from 'lucide-react';
 import { InteractiveStatCard } from '@/components/shared/InteractiveStatCard';
 import { StatCardButtonHoverComponent } from '@/components/shared/StatCardButtonHoverComponent';
 import { cn } from '@/lib/utils';
 import ReactMarkdown from 'react-markdown';
 import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
-
-function hashStringToColor(str: string): string {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = str.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  const color = `hsl(${hash % 360}, 50%, 70%)`;
-  return color;
-}
+import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 
 function processTitle(title: string): string {
   const delimiters = [':', ',', '.', '-'];

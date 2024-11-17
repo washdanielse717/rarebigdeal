@@ -18,6 +18,7 @@ import Header from '@/components/shared/Header';
 import PostSimple from '@/layouts/PostSimple';
 import PostLayout from '@/layouts/PostLayout';
 import PostBanner from '@/layouts/PostBanner';
+import ProductLayout from '@/layouts/ProductLayout';
 
 import { siteConfig } from '@/data/config/site.settings';
 
@@ -28,6 +29,7 @@ const layouts = {
   PostSimple,
   PostLayout,
   PostBanner,
+  ProductLayout,
 };
 
 export async function generateMetadata({
