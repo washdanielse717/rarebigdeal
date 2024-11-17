@@ -16,13 +16,18 @@ export function genPageMetadata({
   image,
   canonical,
   metaTitle,
+  deal,
   ...rest
 }: PageSEOProps): Metadata {
+  const seoTitle = deal
+    ? `${title} | ${deal}`
+    : `${title} | ${siteConfig.title}`;
+
   return {
-    title,
+    title: seoTitle,
     description,
     openGraph: {
-      title: `${metaTitle ? `${metaTitle} | ${siteConfig.title}` : title} | ${siteConfig.title}`,
+      title,
       description: description || siteConfig.description,
       url: './',
       siteName: siteConfig.title,
