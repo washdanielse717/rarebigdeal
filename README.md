@@ -130,6 +130,7 @@ Total deals: 34+
 SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
 | ⭐   | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
 | 💼   | [UptimeBeats](https://uptimebeats.com/) | Real-Time Uptime Monitoring to ensure 24/7 availability, track response times, receive downtime alerts, and create custom status pages. | 20% OFF on lifetime deal and monthly/yearly subscriptions with code **BLACKFRIDAY** |
+| ⭐   | [Guidejar](https://guidejar.com/) | Showcase your product's full potential with AI-powered interactive product demos and guides. | 40% OFF with code **BLACKFRIDAY24** |
 
 ## Themes, Plugins
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |
