@@ -49,8 +49,7 @@ Total deals: 46+
 ### Tools & Services
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
 | --- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls
-without the hassle. | **40% OFF** with discount code **BF2024** |
+| ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% OFF** with discount code **BF2024** |
 
 ## AI Tools
 ### AI Chat UI
