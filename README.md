@@ -39,6 +39,7 @@ Total deals: 34+
 | --- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
 | 🖥️   | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac | 40% OFF with code **BLACKFRIDAY_2024** |
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+|  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 
 ### Tools & Services
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
