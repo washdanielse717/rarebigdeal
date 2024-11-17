@@ -1,7 +1,12 @@
 import { cn } from '@/lib/utils';
 import { ReactNode } from 'react';
 import { ExternalLinkIcon } from 'lucide-react';
-import { CoreContent } from '@shipixen/pliny/utils/contentlayer';
+import {
+  CoreContent,
+  allCoreContent,
+} from '@shipixen/pliny/utils/contentlayer';
+import { allBlogs } from 'shipixen-contentlayer/generated';
+
 import type { Blog, Authors } from 'shipixen-contentlayer/generated';
 import Link from '@/components/shared/Link';
 import Header from '@/components/shared/Header';
@@ -11,6 +16,7 @@ import { siteConfig } from '@/data/config/site.settings';
 import ScrollTop from '@/components/shared/ScrollTop';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 import clsx from 'clsx';
+import { PostItem } from '@/components/blog/home/PostItem'; // Import PostItem
 
 const postDateTemplate: Intl.DateTimeFormatOptions = {
   weekday: 'long',
@@ -23,8 +29,6 @@ interface LayoutProps {
   className?: string;
   content: CoreContent<Blog>;
   authorDetails: CoreContent<Authors>[];
-  next?: { path: string; title: string };
-  prev?: { path: string; title: string };
   children: ReactNode;
 }
 
@@ -32,14 +36,32 @@ export default function PostLayout({
   className,
   content,
   authorDetails,
-  next,
-  prev,
   children,
 }: LayoutProps) {
-  const { path, slug, date, title, tags, logo, website } = content;
+  const { path, slug, date, title, tags, logo, website, category } = content;
   const firstImage = content.images?.[0];
   const tintColor = hashStringToColor(title);
   const fallbackImage = '/static/images/logo.png';
+
+  const allProducts = allCoreContent(allBlogs);
+
+  const getRecommendedProducts = () => {
+    const sameCategoryProducts = allProducts.filter(
+      (product) => product.category === category && product.slug !== slug,
+    );
+    const otherProducts = allProducts.filter(
+      (product) => product.category !== category && product.slug !== slug,
+    );
+
+    const recommendations = [
+      ...sameCategoryProducts.slice(0, 5),
+      ...otherProducts.slice(0, 10 - sameCategoryProducts.length),
+    ];
+
+    return recommendations;
+  };
+
+  const recommendedProducts = getRecommendedProducts();
 
   return (
     <div className="flex flex-col w-full items-center">
@@ -154,30 +176,20 @@ export default function PostLayout({
                   </a>
                 </div>
               )}
-              {(next || prev) && (
-                <div className="flex justify-between py-4 xl:block xl:space-y-8 xl:py-8">
-                  {prev && prev.path && (
-                    <div>
-                      <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                        Previous Deal
-                      </h2>
-                      <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                        <Link href={`/${prev.path}`}>{prev.title}</Link>
-                      </div>
+
+              <div className="py-4 xl:py-8">
+                <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
+                  Recommended Products
+                </h2>
+                <div className="flex flex-wrap">
+                  {recommendedProducts.map((product) => (
+                    <div key={product.slug} className="w-full p-2">
+                      <PostItem post={product} showImage={true} />{' '}
+                      {/* Use PostItem */}
                     </div>
-                  )}
-                  {next && next.path && (
-                    <div>
-                      <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
-                        Next Deal
-                      </h2>
-                      <div className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400">
-                        <Link href={`/${next.path}`}>{next.title}</Link>
-                      </div>
-                    </div>
-                  )}
+                  ))}
                 </div>
-              )}
+              </div>
 
               <div className="flex pt-4 xl:pt-8">
                 <Link

@@ -273,6 +273,14 @@ ${app.description}
 ${app.deal}
 `;
 
+  if (app.metaTitle || app.metaDescription) {
+    mdxContent += `## Product Details
+${app.metaTitle || ''}
+
+${app.metaDescription || ''}
+`;
+  }
+
   const markdownOutputPath = path.join(
     markdownDir,
     `${sanitizeName(app.name)}.mdx`,

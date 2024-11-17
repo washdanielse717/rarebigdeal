@@ -1,4 +1,5 @@
 import clsx from 'clsx';
+import Link from 'next/link';
 
 const Wrapper = ({
   children,
@@ -14,11 +15,7 @@ const Wrapper = ({
   }
 
   return (
-    <a
-      className="w-full h-full flex flex-col items-stretch"
-      href={href}
-      target="_blank"
-    >
+    <Link className="w-full h-full flex flex-col items-stretch" href={href}>
       <div
         className={clsx(
           'w-full h-full !absolute top-0 left-0 fancy-glass',
@@ -33,7 +30,7 @@ const Wrapper = ({
       <div className="z-10 w-full h-full flex items-center justify-center rounded-lg">
         {children}
       </div>
-    </a>
+    </Link>
   );
 };
 
