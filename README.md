@@ -116,6 +116,7 @@ Total deals: 34+
 |  🚀 | [Postiz](https://postiz.com) | The ultimate AI social media scheduling tool also open-source! | 50% OFF with code **BF2024** |
 |  ✉️ | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, lists, and campaigns. Use with Amazon SES, Postmark, Mailgun, and more! | 35% OFF with code **BF2024** |
 |  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** Limited time offer! |
+|  ⭐  | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 
 
 ## SEO Tools
