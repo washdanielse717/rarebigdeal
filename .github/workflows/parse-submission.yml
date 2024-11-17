@@ -66,6 +66,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.RBD_GITHUB_TOKEN }}
 
       - name: Get repository stats
         id: get_stats
