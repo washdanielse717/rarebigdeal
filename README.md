@@ -3,7 +3,7 @@ Get rare limited time deals on selected SaaS, software, apps, and services. Disc
 
 --
 
-Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls). Made with ❤️ by [Dan]( https://x.com/d4m1n).
+Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls). <br/> Made with ❤️ by [Dan]( https://x.com/d4m1n).
 
 ## Table of Contents
 Total deals: 34+
@@ -24,7 +24,12 @@ Total deals: 34+
   - [Productivity Tools \& Services](#productivity-tools--services)
 - [Marketing Tools](#marketing-tools)
 - [SEO Tools](#seo-tools)
-- [Startup SaaS/Tools](#startup-saastools)
+- [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
+  - [React/Next.js](#reactnextjs)
+  - [Flutter](#flutter)
+  - [Django](#django)
+  - [Rails](#rails)
+  - [Chrome Extensions](#chrome-extensions)
 - [Themes, Plugins](#themes-plugins)
 - [Courses](#courses)
   - [Programming Courses](#programming-courses)
@@ -63,8 +68,6 @@ Total deals: 34+
 | 🚢   | [MumbleSort](https://mumblesort.com) | Turn messy thoughts into actionable tasks. Use voice, text or images to capture ideas and let our AI organize them into a simple actionable tasks. | 20% OFF with code **BLACKFRIDAY** |
 | ✨   | [Reinspire](https://reinspire.io) |	Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy! |	20% OFF with code FRIDAY20 |
 
-
-
 ## Other AI tools
 |     | Name                                | Description                                                                     | Discount Code & Terms                       |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------- | ------------------------------------------- |
@@ -98,7 +101,6 @@ Total deals: 34+
 | ⭐   | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
 |  📦  | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 
-
 ### Productivity Tools & Services
 |     | Name                                    | Description                                                                                | Discount Code & Terms                                     |
 | --- | --------------------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
@@ -118,7 +120,6 @@ Total deals: 34+
 |  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** Limited time offer! |
 |  ⭐  | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 
-
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
 | --- | ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -126,14 +127,33 @@ Total deals: 34+
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
 
-## Startup SaaS/Tools
+## Boilerplates, Startup SaaS/Tools
+### React/Next.js
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| ⭐   | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions,
-SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
+|  🚢  | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
+| ⭐   | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
+| ⚡   | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code BF2024 |
+
+### Flutter
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 🚢   | [ShipFlutter](https://shipflutter.com) | Ship Everywhere with Flutter. More than a boilerplate. A fully customizable starter kit to seamlessly launch responsive Android, iOS, and Web apps with Flutter powered by Firebase and Vertex AI. | 60% OFF on Whitelabel version with code **BLACKFRIDAY60** |
+
+### Django
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ⭐   | [SaaS Pegasus](https://www.saaspegasus.com) | The most popular Django boilerplate for SaaS and AI apps. Trusted by over a thousand developers and businesses. | 50% OFF lifetime license with code **bf2024preview** |
-| 💼   | [UptimeBeats](https://uptimebeats.com/) | Real-Time Uptime Monitoring to ensure 24/7 availability, track response times, receive downtime alerts, and create custom status pages. | 20% OFF on lifetime deal and monthly/yearly subscriptions with code **BLACKFRIDAY** |
-| ⭐   | [Guidejar](https://guidejar.com/) | Showcase your product's full potential with AI-powered interactive product demos and guides. | 40% OFF with code **BLACKFRIDAY24** |
+
+### Rails
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| ⭐   | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
+
+### Chrome Extensions
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| ⭐   | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
 
 ## Themes, Plugins
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |

@@ -183,6 +183,10 @@ export default function HomeList({
           </div>
         )}
 
+        <footer className='opacity-50 text-xs flex items-center'>
+          {posts.length} total deals
+        </footer>
+
         {siteConfig.newsletter?.provider && (
           <div className="flex items-center justify-center pt-4">
             <NewsletterForm />
@@ -266,7 +270,7 @@ function SubcategoryFilter({
   ).sort();
 
   return (
-    <div className="flex flex-wrap gap-2 mb-4 overflow-x-auto">
+    <div className="flex gap-2 mb-4 overflow-x-auto">
       {subcategories.map((subcategory) => (
         <button
           key={subcategory}
