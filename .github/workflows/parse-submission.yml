@@ -90,5 +90,5 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add shipixen/data/stats.js
           git commit -m 'Update repository stats'
-          git pull
+          git pull --rebase
           git push https://x-access-token:${{ secrets.RBD_GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
