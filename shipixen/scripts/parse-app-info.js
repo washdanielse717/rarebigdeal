@@ -68,6 +68,9 @@ async function downloadImage(url, outputPath) {
 }
 
 async function fetchWebsiteData(website) {
+  let description = '';
+  let title = '';
+
   try {
     const response = await axios.get(website, {
       headers: {
@@ -81,9 +84,8 @@ async function fetchWebsiteData(website) {
       $('link[rel="shortcut icon"]').attr('href');
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
 
-    const description = $('meta[name="description"]').attr('content');
-    const title =
-      $('title').text() || $('meta[property="og:title"]').attr('content');
+    description = $('meta[name="description"]').attr('content');
+    title = $('title').text() || $('meta[property="og:title"]').attr('content');
 
     // Log the extracted title
     console.log(`Extracted title for ${website}:`, title);
