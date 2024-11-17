@@ -20,7 +20,7 @@ jobs:
         id: check
         run: |
           COMMIT_MESSAGE=$(git log -1 --pretty=%B)
-          if [[ "$COMMIT_MESSAGE" == "Update repository stars" || "$COMMIT_MESSAGE" == "Update app info" ]]; then
+          if [[ "$COMMIT_MESSAGE" == "Update repository stats" || "$COMMIT_MESSAGE" == "Update app info" ]]; then
             echo "skip=true" >> $GITHUB_ENV
             echo "::set-output name=skip::true"
           else
