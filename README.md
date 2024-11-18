@@ -23,6 +23,7 @@ Total deals: 62+
   - [Productivity Mobile Apps](#productivity-mobile-apps)
   - [Productivity Tools \& Services](#productivity-tools--services)
 - [Marketing Tools](#marketing-tools)
+- [Data Tools](#data-tools)
 - [SEO Tools](#seo-tools)
 - [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
   - [React/Next.js](#reactnextjs)
@@ -133,6 +134,10 @@ Total deals: 62+
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 | 📍   | [BlogToPin](https://blogtopin.com) | BlogToPin helps you automate Pinterest for your website. Created hundreds of Pins within a few minutes, start growing on autopilot | 35% OFF on Monthly/Annual plans with code **BF35** |
 
+## Data Tools
+|     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
+| --- | ---------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 🗃️ | [findmassleads](https://findmassleads.com) | Download thousands of good leads from a database of 90,983,688 websites and get tons of potential customers... | 70% OFF with code **BLACKFRIDAY2024** |
 
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
