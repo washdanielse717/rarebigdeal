@@ -202,6 +202,11 @@ Total deals: 62+
 | --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
 | 💰   | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 
+#### Data Science
+|     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
+| --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| 📚   | [Machine Learning for Soccer betting - 3 Books Bundle](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Apply Machine Learning to predict the results of soccer matcehs and learn how to build an automated betting strategy (discount can be applied separately or to the whole 3 books bundle)  | 50% OFF with code **D43474C** |
+
 ## Health and Fitness
 |     | Name                                       | Description                               | Discount Code & Terms                                              |
 | --- | ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------ |
