@@ -163,6 +163,7 @@ Total deals: 46+
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 🪝   | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
 |  🤑  | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get a complete AI roadmap, personalized mentorship, early access to exclusive AI projects & resources, and join a supportive learning community.| 50% OFF with code **BLACKFRIDAY** |
+|  ✍️  | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BLACKFRIDAY_2024** |
 
 ## Books
 ### Programming Books
