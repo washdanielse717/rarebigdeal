@@ -150,6 +150,11 @@ Total deals: 46+
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ⭐   | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
 
+### Laravel
+|     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
+| --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| 🐌   | [Larafast](https://larafast.com) | #1 Laravel SaaS Starter Kit | 50% OFF on all Starter Kits (Livewire, Vue, Directories, API) with code **BLACKFRIDAY2024** |
+
 ### Chrome Extensions
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
