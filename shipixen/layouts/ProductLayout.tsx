@@ -78,12 +78,12 @@ export default function PostLayout({
           <header className="pt-6 -mt-12 lg:-mt-16">
             <div className="space-y-1 text-center">
               <div className="flex flex-col items-center">
-                <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 relative backdrop-blur-xl rounded-lg py-4 px-6 items-center z-20">
-                  {logo || firstImage ? (
+                <div className="flex gap-4 w-auto bg-white/80 dark:bg-black/80 relative backdrop-blur-xl rounded-lg py-4 px-6 items-center">
+                  {logo ? (
                     <Image
                       aria-hidden="true"
                       className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-                      src={logo || firstImage}
+                      src={logo}
                       alt={title}
                       width={200}
                       height={200}
@@ -100,12 +100,12 @@ export default function PostLayout({
 
                   <figure
                     className={clsx(
-                      'w-16 h-16 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
+                      'w-10 h-10 md:w-12 md:h-12 lg:w-16 lg:h-16 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
                     )}
                   >
-                    {logo || firstImage ? (
+                    {logo ? (
                       <Image
-                        src={logo || firstImage}
+                        src={logo}
                         alt="Product Thumbnail"
                         width={200}
                         height={200}
@@ -120,7 +120,9 @@ export default function PostLayout({
                       />
                     )}
                   </figure>
-                  <h1 className="text-4xl font-light">{title}</h1>
+                  <h1 className="text-xl md:text-2xl lg:text-4xl font-light">
+                    {title}
+                  </h1>
                 </div>
 
                 {firstImage && (
@@ -129,7 +131,7 @@ export default function PostLayout({
                     alt={title}
                     width={1240}
                     height={640}
-                    className="rounded-t-lg w-full h-auto relative -mt-12"
+                    className="bg-white rounded-t-lg w-full h-auto relative -mt-12 -z-10"
                   />
                 )}
               </div>

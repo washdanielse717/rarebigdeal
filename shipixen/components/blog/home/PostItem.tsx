@@ -66,11 +66,11 @@ export function PostItem({
       )}
     >
       <div className="w-full px-3 py-1">
-        {logo || images?.[0] ? (
+        {logo ? (
           <Image
             aria-hidden="true"
             className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-            src={logo || images?.[0]}
+            src={logo}
             alt={title}
             width={200}
             height={200}
@@ -96,9 +96,9 @@ export function PostItem({
                 'w-8 h-8 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50 border-1 border-solid border-white dark:border-black',
               )}
             >
-              {logo || images?.[0] ? (
+              {logo ? (
                 <Image
-                  src={logo || images?.[0]}
+                  src={logo}
                   alt="Product Thumbnail"
                   width={200}
                   height={200}

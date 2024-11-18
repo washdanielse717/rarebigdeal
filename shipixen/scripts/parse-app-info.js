@@ -7,6 +7,7 @@ const { generateMDXContent } = require('./generate-mdx-content');
 const { parseReadme } = require('./parse-readme');
 const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
+const sharp = require('sharp');
 
 async function downloadImage(url, outputPath) {
   try {
@@ -78,6 +79,9 @@ async function fetchWebsiteData(website) {
       '/favicon-16x16.png',
       '/apple-touch-icon.png',
       '/favicon.png',
+      // Get .ico too
+      $('link[rel="icon"]').attr('href'),
+      $('link[rel="shortcut icon"]').attr('href'),
     ]
       .filter(Boolean)
       .map((url) => new URL(url, website).href);
@@ -91,7 +95,11 @@ async function fetchWebsiteData(website) {
           },
           validateStatus: (status) => status < 400,
         });
-        if (headResponse.status === 200) {
+
+        if (
+          headResponse.status === 200 &&
+          headResponse.headers['content-type'].startsWith('image/')
+        ) {
           highestResFaviconUrl = url;
           break;
         }
@@ -163,7 +171,8 @@ async function fetchAssets(app) {
 
       if (
         highestResFaviconUrl &&
-        highestResFaviconUrl.endsWith('.png') &&
+        (highestResFaviconUrl.endsWith('.png') ||
+          highestResFaviconUrl.endsWith('.ico')) &&
         !override?.logo
       ) {
         const logoPath = path.join(appDir, 'logo.png');
@@ -171,7 +180,17 @@ async function fetchAssets(app) {
           highestResFaviconUrl,
           logoPath,
         );
+
         if (isValidImage) {
+          if (highestResFaviconUrl.endsWith('.ico')) {
+            const icoPath = path.join(appDir, 'logo.png');
+            await fs.promises.rename(logoPath, icoPath); // Rename the downloaded file to .ico
+
+            await sharp(icoPath).png().toFile(logoPath); // Convert .ico to .png
+
+            await fs.promises.unlink(icoPath); // Remove the .ico file
+          }
+
           app.logo = `/static/images/product/${productName}/logo.png`;
         }
       } else {
