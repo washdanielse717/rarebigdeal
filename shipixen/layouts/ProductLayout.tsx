@@ -109,6 +109,7 @@ export default function PostLayout({
                         alt="Product Thumbnail"
                         width={200}
                         height={200}
+                        className="dark:bg-white/20"
                       />
                     ) : (
                       <div
