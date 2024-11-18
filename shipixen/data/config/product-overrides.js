@@ -98,6 +98,7 @@ module.exports = {
       tags: ['Productivity', 'Efficiency', 'Tools', 'Mobile Apps'],
     },
     swiftylaunch: {
+      logo: '/public/static/images/overrides/swiftylaunch/logo.png',
       tags: [
         'Xcode',
         'Project Generator',
