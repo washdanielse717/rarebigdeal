@@ -1,6 +1,8 @@
 const { readmePath } = require('./settings');
 const fs = require('fs');
 
+const skipProductNames = [];
+
 async function parseReadme() {
   const readmeContent = fs.readFileSync(readmePath, 'utf-8');
   const lines = readmeContent.split('\n');
@@ -21,6 +23,10 @@ async function parseReadme() {
         const website = parts[2].match(/\((.*?)\)/)[1];
         const description = parts[3];
         const deal = parts[4];
+
+        if (skipProductNames.includes(name)) {
+          continue;
+        }
 
         apps.push({
           name,

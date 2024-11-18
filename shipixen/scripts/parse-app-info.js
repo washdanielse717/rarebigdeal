@@ -134,7 +134,7 @@ async function fetchAssets(app) {
       const logoPath = path.join(appDir, 'logo.png');
       fs.copyFileSync(path.join(__dirname, '..', override.logo), logoPath);
       app.logo = `/static/images/product/${productName}/logo.png`;
-      console.log(`Copied override logo for ${productName}`);
+      console.log(`Copied override logo for ${productName} ${app.logo}`);
     }
     if (override.ogImage) {
       const ogImagePath = path.join(appDir, 'og-image.png');
@@ -143,10 +143,8 @@ async function fetchAssets(app) {
         ogImagePath,
       );
       app.images = [`/static/images/product/${productName}/og-image.png`];
-      console.log(`Copied override ogImage for ${productName}`);
+      console.log(`Copied override ogImage for ${productName} ${app.images}`);
     }
-    // Apply other overrides if any
-    Object.assign(app, override);
   }
 
   if (!override || !override.logo || !override.ogImage) {

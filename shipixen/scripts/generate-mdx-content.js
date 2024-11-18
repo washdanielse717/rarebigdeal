@@ -1,11 +1,16 @@
-const { applyOverrides } = require('./apply-overrides');
+const {
+  applyCategoryOverrides,
+  applyMetaOverrides,
+} = require('./apply-overrides');
 const { sanitizeName } = require('./sanitize-name');
 const { markdownDir } = require('./settings');
 const fs = require('fs');
 const path = require('path');
 
 async function generateMDXContent(app) {
-  const tags = applyOverrides(app.category, sanitizeName(app.name));
+  const tags = applyCategoryOverrides(app.category, sanitizeName(app.name));
+  const { description, metaDescription, metaTitle, website, deal } =
+    applyMetaOverrides(sanitizeName(app.name), app);
 
   let mdxContent = `---
 title: >
@@ -27,40 +32,40 @@ ${tags.map((tag) => `  - ${tag}`).join('\n')}
   }
 
   mdxContent += `summary: >
-  ${app.description}
+  ${description}
 category: ${app.category}
 deal: >
-  ${app.deal}
+  ${deal}
 subcategory: ${app.subcategory}
-website: ${app.website}
+website: ${website}
 layout: ProductLayout
 `;
 
-  if (app.metaDescription) {
+  if (metaDescription) {
     mdxContent += `metaDescription: >
-  ${app.metaDescription}
+  ${metaDescription}
 `;
   }
 
-  if (app.metaTitle) {
+  if (metaTitle) {
     mdxContent += `metaTitle: >
-  ${app.metaTitle}
+  ${metaTitle}
 `;
   }
 
   mdxContent += `---
-${app.description}
+${description}
 
 ## Rare Deal
 
-${app.deal}
+${deal}
 `;
 
-  if (app.metaTitle || app.metaDescription) {
+  if (metaTitle || metaDescription) {
     mdxContent += `## Product Details
-${app.metaTitle || ''}
+${metaTitle || ''}
 
-${app.metaDescription || ''}
+${metaDescription || ''}
 `;
   }
 

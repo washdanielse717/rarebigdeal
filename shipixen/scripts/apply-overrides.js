@@ -15,10 +15,25 @@ const categoryTags = {
   'Health and Fitness': ['Health', 'Fitness', 'Wellness'],
 };
 
-function applyOverrides(category, productName) {
+function applyCategoryOverrides(category, productName) {
   const overrideTags = overrides[productName]?.tags || [];
   const categoryTagsList = categoryTags[category] || [];
   return [...new Set([...overrideTags, ...categoryTagsList])];
 }
 
-module.exports = { applyOverrides };
+function applyMetaOverrides(productName, app) {
+  const productOverrides = overrides[productName] || {};
+
+  return {
+    description: productOverrides.description || app.description,
+    metaDescription: productOverrides.metaDescription || app.metaDescription,
+    metaTitle: productOverrides.metaTitle || app.metaTitle,
+    website: productOverrides.website || app.website,
+    deal: productOverrides.deal || app.deal,
+    category: productOverrides.category || app.category,
+    subcategory: productOverrides.subcategory || app.subcategory,
+    tags: productOverrides.tags || app.tags,
+  };
+}
+
+module.exports = { applyCategoryOverrides, applyMetaOverrides };
