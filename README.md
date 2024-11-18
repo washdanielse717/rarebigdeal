@@ -167,6 +167,7 @@ Total deals: 62+
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | 🚢   | [ShipFlutter](https://shipflutter.com) | Ship Everywhere with Flutter. More than a boilerplate. A fully customizable starter kit to seamlessly launch responsive Android, iOS, and Web apps with Flutter powered by Firebase and Vertex AI. | 60% OFF on Whitelabel version with code **BLACKFRIDAY60** |
+| 💜   | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 
 ### Django
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
