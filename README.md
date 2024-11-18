@@ -131,6 +131,8 @@ Total deals: 62+
 |  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** Limited time offer! |
 |  ⭐  | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
+| 📍   | [BlogToPin](https://blogtopin.com) | BlogToPin helps you automate Pinterest for your website. Created hundreds of Pins within a few minutes, start growing on autopilot | 35% OFF on Monthly/Annual plans with code **BF35** |
+
 
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
