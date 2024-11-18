@@ -98,6 +98,7 @@ Total deals: 54+
 | 💰   | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 | 🧐   | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 |  💸  | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
+|  📝  | [Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF Yearly Plan - no code needed|
 
 ### Productivity Mobile Apps
 |     | Name                            | Description                                                                | Discount Code & Terms                                 |
@@ -105,6 +106,8 @@ Total deals: 54+
 | ⭐   | [Blurs](https://www.blurs.app/) | Protect your browser privacy while screen sharing, streaming, or browsing. | 20% off with **BLACKFRIDAY** code for lifetime access |
 |  📦  | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 |  ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off the 1st year of Pro subscriptions with code **BF24** |
+|  📝  | [Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF Yearly Plan - no code needed|
+
 
 ### Productivity Tools & Services
 |     | Name                                    | Description                                                                                | Discount Code & Terms                                     |
