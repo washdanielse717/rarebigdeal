@@ -89,6 +89,7 @@ Total deals: 54+
 |  🚢  | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 | 🤑   | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited no. of licenses **BLACKFRIDAY2024** |
 | ⚡   | [NextReady](https://nextready.dev) | A ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code BF2024 |
+| ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 
 ## Productivity
 ### Productivity Desktop Apps
@@ -139,6 +140,7 @@ Total deals: 54+
 |  🚢  | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 | ⭐   | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 | ⭐   | [Supaboost - NextJS Boilerplate](https://supaboost.dev) | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS. | €50 off with code **SUPABOOST20** |
+| ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
 
 ### Flutter
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
