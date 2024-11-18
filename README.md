@@ -77,6 +77,7 @@ Total deals: 46+
 |     | Name                              | Description                                                                         | Discount Code & Terms                     |
 | --- | --------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------- |
 | ⭐   | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
+| 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
@@ -117,6 +118,7 @@ Total deals: 46+
 |  ✉️ | [Broadcast](https://sendbroadcast.net) | Self-hosted email marketing and automation software. Unlimited subscribers, lists, and campaigns. Use with Amazon SES, Postmark, Mailgun, and more! | 35% OFF with code **BF2024** |
 |  🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** Limited time offer! |
 |  ⭐  | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
+| 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 
 ## SEO Tools
 |     | Name                            | Description                                                                                                                                                 | Discount Code & Terms               |
