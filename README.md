@@ -49,6 +49,7 @@ Total deals: 62+
 |  🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 |  🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 |  🖥️ | [SwiftyLaunch](https://www.swiftylaun.ch) | SwiftyLaunch is a full-fledged Xcode Project Generator. Trusted by 150+ iOS developers. | 40% OFF with code **BLACKFRIDAY2024** |
+|  🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | 50% OFF (26 Nov - 3 Dec) **No Code Needed** |
 
 ### Tools & Services
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
