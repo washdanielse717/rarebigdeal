@@ -51,6 +51,7 @@ Total deals: 54+
 |     | Name                                    | Description                                                                                                                 | Discount Code & Terms                                    |
 | --- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2024** |
+| 🧩   | [ExtReviewBot](https://www.extreviewbot.com/) | Browser extension review tracking & analytics | **30% off** with code **BLACKFRIDAY30** |
 
 ## AI Tools
 ### AI Chat UI
