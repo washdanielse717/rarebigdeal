@@ -3,38 +3,10 @@ const path = require('path');
 const axios = require('axios');
 const cheerio = require('cheerio');
 const { overrides } = require('../data/config/product-overrides');
-
-const readmePath = '../../README.md';
-const outputDir = '../public/static/images';
-const markdownDir = '../data/products';
-
-const categoryTags = {
-  'Developer Tools': ['Developer', 'Tools', 'macOS'],
-  'AI Tools': ['AI', 'Machine Learning', 'Automation'],
-  'Other AI tools': ['AI', 'Voice', 'Text to Speech'],
-  'Design Tools': ['Design', 'Graphics', 'Marketing'],
-  'Code Libraries': ['NextJs', 'React', 'SaaS'],
-  Productivity: ['Productivity', 'Efficiency', 'Tools'],
-  'Marketing Tools': ['Marketing', 'SEO', 'Promotion'],
-  'SEO Tools': ['SEO', 'Optimization', 'Marketing'],
-  'Startup SaaS/Tools': ['Startup', 'SaaS', 'Business'],
-  'Themes, Plugins': ['Themes', 'Plugins', 'Customization'],
-  Books: ['Books', 'Learning', 'Programming'],
-  'Health and Fitness': ['Health', 'Fitness', 'Wellness'],
-};
-
-function applyOverrides(category, productName) {
-  const overrideTags = overrides[productName]?.tags || [];
-  const categoryTagsList = categoryTags[category] || [];
-  return [...new Set([...overrideTags, ...categoryTagsList])];
-}
-
-function sanitizeName(name) {
-  return name
-    .replace(/[^a-zA-Z0-9]/g, '-')
-    .replace(/-+/g, '-')
-    .toLowerCase();
-}
+const { generateMDXContent } = require('./generate-mdx-content');
+const { parseReadme } = require('./parse-readme');
+const { sanitizeName } = require('./sanitize-name');
+const { outputDir } = require('./settings');
 
 async function downloadImage(url, outputPath) {
   try {
@@ -221,109 +193,6 @@ async function fetchAssets(app) {
       }
     }
   }
-}
-
-async function generateMDXContent(app) {
-  const tags = applyOverrides(app.category, sanitizeName(app.name));
-
-  let mdxContent = `---
-title: >
-  ${app.name}
-date: ${new Date().toISOString().split('T')[0]}
-tags:
-${tags.map((tag) => `  - ${tag}`).join('\n')}
-`;
-
-  if (app.images && app.images.length > 0) {
-    mdxContent += `images:
-  - ${app.images[0]}
-`;
-  }
-
-  if (app.logo) {
-    mdxContent += `logo: ${app.logo}
-`;
-  }
-
-  mdxContent += `summary: >
-  ${app.description}
-category: ${app.category}
-deal: >
-  ${app.deal}
-subcategory: ${app.subcategory}
-website: ${app.website}
-layout: ProductLayout
-`;
-
-  if (app.metaDescription) {
-    mdxContent += `metaDescription: >
-  ${app.metaDescription}
-`;
-  }
-
-  if (app.metaTitle) {
-    mdxContent += `metaTitle: >
-  ${app.metaTitle}
-`;
-  }
-
-  mdxContent += `---
-${app.description}
-
-## Rare Deal
-
-${app.deal}
-`;
-
-  if (app.metaTitle || app.metaDescription) {
-    mdxContent += `## Product Details
-${app.metaTitle || ''}
-
-${app.metaDescription || ''}
-`;
-  }
-
-  const markdownOutputPath = path.join(
-    markdownDir,
-    `${sanitizeName(app.name)}.mdx`,
-  );
-  fs.writeFileSync(markdownOutputPath, mdxContent);
-}
-
-async function parseReadme() {
-  const readmeContent = fs.readFileSync(readmePath, 'utf-8');
-  const lines = readmeContent.split('\n');
-
-  let currentCategory = '';
-  let currentSubcategory = '';
-  const apps = [];
-
-  for (const line of lines) {
-    if (line.startsWith('## ')) {
-      currentCategory = line.replace('## ', '').trim();
-    } else if (line.startsWith('### ')) {
-      currentSubcategory = line.replace('### ', '').trim();
-    } else if (line.startsWith('|')) {
-      const parts = line.split('|').map((part) => part.trim());
-      if (parts.length >= 5 && parts[2].startsWith('[')) {
-        const name = parts[2].match(/\[(.*?)\]/)[1];
-        const website = parts[2].match(/\((.*?)\)/)[1];
-        const description = parts[3];
-        const deal = parts[4];
-
-        apps.push({
-          name,
-          website,
-          description,
-          deal,
-          category: currentCategory,
-          subcategory: currentSubcategory,
-        });
-      }
-    }
-  }
-
-  return apps;
 }
 
 async function main() {
