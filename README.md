@@ -1,5 +1,5 @@
-# 💵 Rare Big Deal - 2024 🤑
-Get rare limited time deals on selected SaaS, software, apps, and services. Discounts for Black Friday and beyond.
+# 💵 Rare Big App Deals, 2024 edition ✨
+Get rare limited time deals on selected **SaaS**, **software**, **apps**, **courses**, **books**, tools and services. Discounts for Black Friday and beyond.
 
 --
 
@@ -8,37 +8,36 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 ## Table of Contents
 Total deals: 46+
 
-- [💵 Rare Big Deal - 2024 🤑](#-rare-big-deal---2024-)
-  - [Table of Contents](#table-of-contents)
-  - [Developer Tools](#developer-tools)
-    - [Developer macOS Apps](#developer-macos-apps)
-    - [Tools \& Services](#tools--services)
-  - [AI Tools](#ai-tools)
-    - [AI Chat UI](#ai-chat-ui)
-    - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
-  - [Other AI tools](#other-ai-tools)
-  - [Design Tools](#design-tools)
-  - [Code Libraries](#code-libraries)
-  - [Productivity](#productivity)
-    - [Productivity Desktop Apps](#productivity-desktop-apps)
-    - [Productivity Mobile Apps](#productivity-mobile-apps)
-    - [Productivity Tools \& Services](#productivity-tools--services)
-  - [Marketing Tools](#marketing-tools)
-  - [SEO Tools](#seo-tools)
-  - [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
-    - [React/Next.js](#reactnextjs)
-    - [Flutter](#flutter)
-    - [Django](#django)
-    - [Rails](#rails)
-    - [Laravel](#laravel)
-    - [Chrome Extensions](#chrome-extensions)
-  - [Themes, Plugins](#themes-plugins)
-  - [Courses](#courses)
-    - [Programming Courses](#programming-courses)
-  - [Books](#books)
-    - [Programming Books](#programming-books)
-      - [Web Dev \& Design](#web-dev--design)
-  - [Health and Fitness](#health-and-fitness)
+- [Table of Contents](#table-of-contents)
+- [Developer Tools](#developer-tools)
+  - [Developer macOS Apps](#developer-macos-apps)
+  - [Tools \& Services](#tools--services)
+- [AI Tools](#ai-tools)
+  - [AI Chat UI](#ai-chat-ui)
+  - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
+- [Other AI tools](#other-ai-tools)
+- [Design Tools](#design-tools)
+- [Code Libraries](#code-libraries)
+- [Productivity](#productivity)
+  - [Productivity Desktop Apps](#productivity-desktop-apps)
+  - [Productivity Mobile Apps](#productivity-mobile-apps)
+  - [Productivity Tools \& Services](#productivity-tools--services)
+- [Marketing Tools](#marketing-tools)
+- [SEO Tools](#seo-tools)
+- [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
+  - [React/Next.js](#reactnextjs)
+  - [Flutter](#flutter)
+  - [Django](#django)
+  - [Rails](#rails)
+  - [Laravel](#laravel)
+  - [Chrome Extensions](#chrome-extensions)
+- [Themes, Plugins](#themes-plugins)
+- [Courses](#courses)
+  - [Programming Courses](#programming-courses)
+- [Books](#books)
+  - [Programming Books](#programming-books)
+    - [Web Dev \& Design](#web-dev--design)
+- [Health and Fitness](#health-and-fitness)
 
 ## Developer Tools
 ### Developer macOS Apps
