@@ -8,35 +8,37 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 ## Table of Contents
 Total deals: 46+
 
-- [Table of Contents](#table-of-contents)
-- [Developer Tools](#developer-tools)
-  - [Developer macOS Apps](#developer-macos-apps)
-  - [Tools \& Services](#tools--services)
-- [AI Tools](#ai-tools)
-  - [AI Chat UI](#ai-chat-ui)
-  - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
-- [Other AI tools](#other-ai-tools)
-- [Design Tools](#design-tools)
-- [Code Libraries](#code-libraries)
-- [Productivity](#productivity)
-  - [Productivity Desktop Apps](#productivity-desktop-apps)
-  - [Productivity Mobile Apps](#productivity-mobile-apps)
-  - [Productivity Tools \& Services](#productivity-tools--services)
-- [Marketing Tools](#marketing-tools)
-- [SEO Tools](#seo-tools)
-- [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
-  - [React/Next.js](#reactnextjs)
-  - [Flutter](#flutter)
-  - [Django](#django)
-  - [Rails](#rails)
-  - [Chrome Extensions](#chrome-extensions)
-- [Themes, Plugins](#themes-plugins)
-- [Courses](#courses)
-  - [Programming Courses](#programming-courses)
-- [Books](#books)
-  - [Programming Books](#programming-books)
-    - [Web Dev \& Design](#web-dev--design)
-- [Health and Fitness](#health-and-fitness)
+- [💵 Rare Big Deal - 2024 🤑](#-rare-big-deal---2024-)
+  - [Table of Contents](#table-of-contents)
+  - [Developer Tools](#developer-tools)
+    - [Developer macOS Apps](#developer-macos-apps)
+    - [Tools \& Services](#tools--services)
+  - [AI Tools](#ai-tools)
+    - [AI Chat UI](#ai-chat-ui)
+    - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
+  - [Other AI tools](#other-ai-tools)
+  - [Design Tools](#design-tools)
+  - [Code Libraries](#code-libraries)
+  - [Productivity](#productivity)
+    - [Productivity Desktop Apps](#productivity-desktop-apps)
+    - [Productivity Mobile Apps](#productivity-mobile-apps)
+    - [Productivity Tools \& Services](#productivity-tools--services)
+  - [Marketing Tools](#marketing-tools)
+  - [SEO Tools](#seo-tools)
+  - [Boilerplates, Startup SaaS/Tools](#boilerplates-startup-saastools)
+    - [React/Next.js](#reactnextjs)
+    - [Flutter](#flutter)
+    - [Django](#django)
+    - [Rails](#rails)
+    - [Laravel](#laravel)
+    - [Chrome Extensions](#chrome-extensions)
+  - [Themes, Plugins](#themes-plugins)
+  - [Courses](#courses)
+    - [Programming Courses](#programming-courses)
+  - [Books](#books)
+    - [Programming Books](#programming-books)
+      - [Web Dev \& Design](#web-dev--design)
+  - [Health and Fitness](#health-and-fitness)
 
 ## Developer Tools
 ### Developer macOS Apps
@@ -79,6 +81,7 @@ Total deals: 46+
 | --- | --------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------- |
 | ⭐   | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service | 40% OFF on All plans with code **BF2024** |
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
+| 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
@@ -134,6 +137,7 @@ Total deals: 46+
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 |  🚢  | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
 | ⭐   | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
+| ⭐   | [Supaboost - NextJS Boilerplate](https://supaboost.dev) | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS. | €50 off with code **SUPABOOST20** |
 
 ### Flutter
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
