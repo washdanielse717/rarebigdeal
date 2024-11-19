@@ -93,6 +93,7 @@ Total deals: 62+
 | 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
 | ✨ | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | 75% OFF with code **PH75OFF** |
+| 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
