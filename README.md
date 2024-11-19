@@ -75,6 +75,7 @@ Total deals: 62+
 |  🎓  | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. Includes tools like Esquisse (image generation while training your typing), codeBloom (coding with natural language), Mind Maps (link ideas with study topics), memoPix (flashcards for younger learners), Arcania (immersive learning for younger and older learners) and more... Train AI tools (like Mentors, Quizzes and Flashcards) on your own school or training materials for personalized study assistance. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans|
 | 🚢   | [MumbleSort](https://mumblesort.com) | Turn messy thoughts into actionable tasks. Use voice, text or images to capture ideas and let our AI organize them into a simple actionable tasks. | 20% OFF with code **BLACKFRIDAY** |
 | ✨   | [Reinspire](https://reinspire.io) |	Transform your Audio/Video Content into Transcripts, Newsletters, Blog Posts, Timestamps and more. Content Repurposing Made Easy! |	20% OFF with code FRIDAY20 |
+| ✍️ | [Resmume](https://resmume.com) | Resmume is a CV maker that helps you create a CV in minutes with ease. It also provides AI features that automatically make your CV stand out from the crowd. | 37% OFF Lifetime deal |
 |  🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 
 ## Other AI tools
@@ -94,6 +95,7 @@ Total deals: 62+
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
 | ✨ | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | 75% OFF with code **PH75OFF** |
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
+| 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
