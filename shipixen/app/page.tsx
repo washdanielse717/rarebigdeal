@@ -78,7 +78,7 @@ export default function Home() {
           </Button>
 
           <Button size="xl" variant="outlinePrimary">
-            <a href="/all-deals">All Deals</a>
+            <a href="/categories/productivity">All Categories</a>
           </Button>
         </div>
 

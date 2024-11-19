@@ -212,13 +212,15 @@ export default function HomeList({
   );
 }
 
-function CategorySection({
+export function CategorySection({
   category,
   posts,
   selectedSubcategories,
   handleSubcategoryFilter,
   numberOfPosts,
   showImage,
+  overrideClassName,
+  showTitle = true,
 }: {
   category: string;
   posts: CoreContent<Blog>[];
@@ -226,6 +228,8 @@ function CategorySection({
   handleSubcategoryFilter: (category: string, subcategory: string) => void;
   numberOfPosts: number;
   showImage: boolean;
+  overrideClassName?: string;
+  showTitle?: boolean;
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
@@ -239,20 +243,24 @@ function CategorySection({
 
   return (
     <div className="mb-8" id={category}>
-      <div className="flex items-center mb-4 relative">
-        <CopyToClipboardButton
-          textToCopy={textToCopy}
-          label={category}
-          ariaLabel={`Set category to ${category}`}
-        />
-      </div>
+      {showTitle ? (
+        <div className="flex items-center mb-4 relative">
+          <CopyToClipboardButton
+            textToCopy={textToCopy}
+            label={category}
+            ariaLabel={`Set category to ${category}`}
+          />
+        </div>
+      ) : null}
+
       <SubcategoryFilter
         category={category}
         posts={sortedPosts}
         selectedSubcategories={selectedSubcategories}
         handleSubcategoryFilter={handleSubcategoryFilter}
       />
-      <ul className="grid 2xl:grid-cols-2 gap-4">
+
+      <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
         {sortedPosts
           .filter(
             (post) =>
@@ -269,7 +277,7 @@ function CategorySection({
   );
 }
 
-function SubcategoryFilter({
+export function SubcategoryFilter({
   category,
   posts,
   selectedSubcategories,
@@ -290,7 +298,7 @@ function SubcategoryFilter({
         <button
           key={subcategory}
           onClick={() => handleSubcategoryFilter(category, subcategory!)}
-          className={`text-xs px-4 py-2 rounded transition-colors font-display ${
+          className={`flex-shrink-0 text-xs px-4 py-2 rounded transition-colors font-display ${
             selectedSubcategories.includes(subcategory!)
               ? 'bg-primary-500 text-white'
               : 'bg-primary-100/30 text-purple-700/80 dark:bg-primary-800/20 dark:text-white'
