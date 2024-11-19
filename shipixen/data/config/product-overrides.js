@@ -1,7 +1,6 @@
 module.exports = {
   overrides: {
     'one-tab-group': {
-      logo: '/public/static/images/overrides/one-tab-group/logo.png',
       tags: [
         'Browser Tabs',
         'Tab Management',
@@ -11,7 +10,6 @@ module.exports = {
       ],
     },
     'side-space': {
-      logo: '/public/static/images/overrides/side-space/logo.png',
       tags: [
         'Vertical Tabs',
         'Browser Management',
@@ -27,6 +25,8 @@ module.exports = {
         'macOS',
         'Developer Tools',
         'Efficiency',
+        'Developer',
+        'Tools',
       ],
     },
     'verbatik-ai': {
@@ -73,6 +73,9 @@ module.exports = {
       ],
     },
     'swim-coach-app': {
+      metaTitle: 'The #1 Training App for Swimmers and Triathletes',
+      metaDescription:
+        'Swim Coach creates fun and effective swim workouts designed to enhance your swimming skills based on your specific needs.',
       tags: [
         'Swimming',
         'Triathlon',
@@ -95,10 +98,12 @@ module.exports = {
       tags: ['Flutter', 'Courses', 'Programming', 'Learning', 'Productivity'],
     },
     'trio-mindful-todo-list-app': {
+      metaTitle: 'Trio: Your gentle guide to focused productivity',
+      metaDescription:
+        "In today's fast-paced world, it's easy to feel overwhelmed by endless to-do lists and competing priorities. Trio offers a refreshing approach to productivity, helping you achieve more while maintaining balance in your life. \n\n Trio is designed for those who want to make real progress without sacrificing their wellbeing. By focusing on the three most important tasks each day, you'll simplify your workflow and amplify your impact.",
       tags: ['Productivity', 'Efficiency', 'Tools', 'Mobile Apps'],
     },
     swiftylaunch: {
-      logo: '/public/static/images/overrides/swiftylaunch/logo.png',
       tags: [
         'Xcode',
         'Project Generator',
@@ -134,6 +139,8 @@ module.exports = {
         'macOS',
         'Productivity',
         'Collaboration',
+        'Developer',
+        'Tools',
       ],
     },
     shootmail: {
@@ -203,6 +210,7 @@ module.exports = {
       ],
     },
     'quick-notes-email-me': {
+      metaTitle: 'Quickly and Easily Email Yourself',
       tags: ['Productivity', 'Efficiency', 'Tools', 'Mobile Apps'],
     },
     postiz: {
@@ -288,6 +296,8 @@ module.exports = {
         'macOS',
         'Developer Tools',
         'Productivity',
+        'Developer',
+        'Tools',
       ],
     },
     'link-building-software': {
@@ -368,6 +378,9 @@ module.exports = {
         'Browser Extensions',
         'Review Tracking',
         'Analytics',
+        'Developer',
+        'Tools',
+        'macOS',
       ],
     },
     donkeycarrot: {
@@ -386,7 +399,13 @@ module.exports = {
       tags: ['React', 'Hooks', 'Programming', 'Courses', 'Learning'],
     },
     crontap: {
-      tags: ['Developer Tools', 'API Scheduling', 'macOS', 'Productivity'],
+      tags: [
+        'Developer Tools',
+        'API Scheduling',
+        'Productivity',
+        'Developer',
+        'Tools',
+      ],
     },
     'creatorscrown-creators-hub': {
       tags: ['Design', 'Graphics', 'Marketing', 'Content Creation'],
@@ -438,6 +457,7 @@ module.exports = {
         'AI Tools',
         'Automation',
         'Machine Learning',
+        'AI',
       ],
     },
     blurs: {
@@ -455,6 +475,107 @@ module.exports = {
     },
     'anotherwrapper-ai-demo-apps': {
       tags: ['AI Demo Apps', 'Next.js', 'Boilerplate', 'SaaS', 'Productivity'],
+    },
+    'affonso-io': {
+      metaTitle: 'Scale your SaaS with Affiliates',
+      metaDescription:
+        'Turn affiliate marketing into a reliable growth channel for your SaaS. Our automated platform helps you launch, manage and scale profitable partner programs without the technical hassle.',
+      tags: ['Design', 'Graphics', 'Marketing'],
+    },
+    writemore: {
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    vectorubi: {
+      tags: ['Design', 'Graphics', 'Marketing'],
+    },
+    todobar: {
+      ogImage: '/public/static/images/overrides/todobar/ogimage.png',
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    stellaflow: {
+      metaTitle:
+        'Automatic Generation and Scheduling for All Your Social Networks',
+      metaDescription:
+        "Create, schedule, and automate your posts on all your social platforms with StellaFlow's AI. Save time, increase your visibility, and always stay present.",
+      tags: ['Marketing', 'SEO', 'Promotion'],
+    },
+    smartgantt: {
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    'screen-canvas': {
+      tags: ['Design', 'Graphics', 'Marketing'],
+    },
+    sawad: {
+      metaDescription:
+        'Sawad is a sleek and modern portfolio template designed for creatives. It features a clean layout, intuitive navigation, and customizable sections to showcase your work in the best light, making it perfect for leaving a lasting impression across various creative fields.',
+      tags: ['Themes', 'Plugins', 'Customization'],
+    },
+    resmume: {
+      tags: ['AI', 'Machine Learning', 'Automation'],
+    },
+    presentify: {
+      ogImage: '/public/static/images/overrides/presentify/ogimage.png',
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    'nexi-launch': {
+      tags: ['Boilerplates', 'Startup SaaS/Tools'],
+    },
+    'mood-lights': {
+      tags: ['Health', 'Fitness', 'Wellness'],
+    },
+    minizones: {
+      tags: ['Developer', 'Tools', 'macOS'],
+    },
+    meetingmenu: {
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    'machine-learning-for-soccer-betting-3-books-bundle': {
+      tags: ['Books', 'Learning', 'Programming'],
+    },
+    fridaygpt: {
+      tags: ['AI', 'Machine Learning', 'Automation'],
+    },
+    focu: {
+      tags: ['AI', 'Machine Learning', 'Automation'],
+    },
+    'flutterflow-templates': {
+      tags: ['Boilerplates', 'Startup SaaS/Tools'],
+    },
+    findmassleads: {
+      tags: ['Data Tools'],
+    },
+    feedbackglow: {
+      tags: ['Productivity', 'Efficiency', 'Tools'],
+    },
+    'dark-sleep': {
+      tags: ['Health', 'Fitness', 'Wellness'],
+    },
+    collectiveintelligence: {
+      tags: ['Design', 'Graphics', 'Marketing'],
+    },
+    chatsy: {
+      tags: ['Boilerplates', 'Startup SaaS/Tools'],
+    },
+    blogtopin: {
+      metaTitle: 'BlogToPin - Best Pinterest Automation Tool',
+      tags: ['Marketing', 'SEO', 'Promotion'],
+    },
+    'alter-ai-built-for-macos': {
+      tags: ['AI', 'Machine Learning', 'Automation'],
+    },
+    'ai-learning-hub': {
+      tags: ['Courses', 'Programming', 'Learning', 'AI'],
+    },
+    'gleam-so': {
+      metaTitle: 'OG Image Generator & Social Card Maker',
+      tags: [
+        'Social Media',
+        'Image Generation',
+        'Design Tools',
+        'Marketing',
+        'Graphics',
+        'Productivity',
+      ],
     },
   },
 };

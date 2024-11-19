@@ -62,7 +62,8 @@ ${deal}
 `;
 
   if (metaTitle || metaDescription) {
-    mdxContent += `## Product Details
+    mdxContent += `
+## Product Details
 ${metaTitle || ''}
 
 ${metaDescription || ''}
