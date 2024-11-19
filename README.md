@@ -161,6 +161,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 📧   | [Shootmail](https://shootmail.app)                          | Notion like email builder with pre-built email templates compatible with major email clients like Apple Mail, Outlook, Gmail etc. Supports dark mode.                           | 50% OFF on Lifetime access with code **50POFF**                  |
 | 📍   | [BlogToPin](https://blogtopin.com)                          | BlogToPin helps you automate Pinterest for your website. Created hundreds of Pins within a few minutes, start growing on autopilot                                              | 35% OFF on Monthly/Annual plans with code **BF35**               |
 | 🧑‍🚀   | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal)  | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks.                                                       | 42% OFF with code **BLACKFRIDAY2024**                            |
+| 🧑‍🚀   | [Loomos](https://loomos.co/login)  | Create Stunning Training Videos In Minutes.                                                       | 50% OFF till BLACKFRIDAY                            |
 
 ## Data Tools
 |     | Name                                       | Description                                                                                                    | Discount Code & Terms                 |
