@@ -96,8 +96,7 @@ Total deals: 62+
 | ✨ | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | 75% OFF with code **PH75OFF** |
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
-| ⭐ | [Screen Canvas](https://www.screencanvas.app) | Create Custom Designs on Your Apple TV.
-The simplest, fastest, and most budget-friendly way to instantly create digital signs on your TV, all from your remote. | 60% OFF |
+| ⭐ | [Screen Canvas](https://www.screencanvas.app) | Create Custom Designs on Your Apple TV. The simplest, fastest, and most budget-friendly way to instantly create digital signs on your TV, all from your remote. | 60% OFF |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
