@@ -123,6 +123,8 @@ Total deals: 62+
 |  🗃️  | [One Tab Group](https://onetab.group) | Your all-in-one browser tab/tab group manager | Lifetime 40% off with code **BLACKFRIDAY40**  |
 | ⭐   | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤖  | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed|
+| 🖊  | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times. | 25% off on the App Store. No code needed. |
+| ✅  | [ToDoBar](https://apps.apple.com/app/id6470928617) | Your tasks on your menu bar. | 50% off on the App Store. No code needed. |
 
 ## Marketing Tools
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
