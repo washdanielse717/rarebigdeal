@@ -17,6 +17,7 @@ Total deals: 82+
   - [AI Productivity \& Learning Tools](#ai-productivity--learning-tools)
 - [Other AI tools](#other-ai-tools)
 - [Design Tools](#design-tools)
+- [Video Tools](#video-tools)
 - [Code Libraries](#code-libraries)
 - [Productivity](#productivity)
   - [Productivity Desktop Apps](#productivity-desktop-apps)
@@ -98,6 +99,12 @@ Total deals: 82+
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 | ⭐ | [Screen Canvas](https://www.screencanvas.app) | Create Custom Designs on Your Apple TV. The simplest, fastest, and most budget-friendly way to instantly create digital signs on your TV, all from your remote. | 60% OFF |
+
+## Video Tools
+
+|     | Name                              | Description                                                                         | Discount Code & Terms                     |
+| --- | --------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🎬  | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | $50 OFF lifetime plan |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
