@@ -86,6 +86,7 @@ Total deals: 62+
 | 📧   | [Shootmail](https://shootmail.app) | Notion like email builder with pre-built email templates compatible with major email clients like Apple mail, Outlook, Gmail etc. Supports dark mode. | 50% OFF on Lifetime access with code **50POFF** |
 | 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
+| ✨ | [gleam.so](https://gleam.so) | Create beautiful social share images (Open Graph/OG images) for your website and social media in seconds. No design skills needed. | 75% OFF with code **PH75OFF** |
 
 ## Code Libraries
 |     | Name                                                         | Description                                                                                                 | Discount Code & Terms                                                                            |
