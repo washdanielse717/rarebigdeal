@@ -198,6 +198,7 @@ Total deals: 62+
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |
 | --- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | ⭐   | [Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
+| ⭐   | [Sawad](https://mejed.lemonsqueezy.com/buy/626bae75-7eee-45cb-a91f-6f2eb1fbfd1f) | Framer Portfolio Template | 10% OFF with code **G3ODQYMQ** |
 
 ## Courses
 ### Programming Courses
