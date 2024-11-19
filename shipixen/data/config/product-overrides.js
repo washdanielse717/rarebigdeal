@@ -100,7 +100,7 @@ module.exports = {
     'trio-mindful-todo-list-app': {
       metaTitle: 'Trio: Your gentle guide to focused productivity',
       metaDescription:
-        "In today's fast-paced world, it's easy to feel overwhelmed by endless to-do lists and competing priorities. Trio offers a refreshing approach to productivity, helping you achieve more while maintaining balance in your life. \n\n Trio is designed for those who want to make real progress without sacrificing their wellbeing. By focusing on the three most important tasks each day, you'll simplify your workflow and amplify your impact.",
+        "In today's fast-paced world, it's easy to feel overwhelmed by endless to-do lists and competing priorities. Trio offers a refreshing approach to productivity, helping you achieve more while maintaining balance in your life.",
       tags: ['Productivity', 'Efficiency', 'Tools', 'Mobile Apps'],
     },
     swiftylaunch: {
