@@ -187,6 +187,7 @@ Total deals: 62+
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
 | --- | ------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
 | ⭐   | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
+| ✨   | [Chatsy](https://chromewebstore.google.com/detail/netflix-comments-and-chat/nidobicjgndldknjcgfclehmlleibflh) | The Chrome extension to add comments on your favourite Netflix Movies and Shows | **Lifetime Free** |
 
 ## Themes, Plugins
 |     | Name                                | Description                                                                                                                                                               | Discount Code & Terms         |
