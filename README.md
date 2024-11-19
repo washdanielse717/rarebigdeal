@@ -100,6 +100,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤖   | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing                                                                                                         | 50% off with code **BLACKFRIDAY50**                                  |
 | 🖌️   | [VectorUbi](https://vectorubi.com)                           | AI professional illustration generator in seconds                                                                                                               | 20% OFF limited offer                                                |
 | ⭐   | [Screen Canvas](https://www.screencanvas.app)                | Create Custom Designs on Your Apple TV. The simplest, fastest, and most budget-friendly way to instantly create digital signs on your TV, all from your remote. | 60% OFF                                                              |
+| 🎨   | [tincto](https://www.tincto.co/)                | Create beautiful color palettes in seconds using the generator, or let AI handle the vibe matching for you. | Limited-time lifetime deal                                                              |
 
 ## Video Tools
 
