@@ -137,6 +137,7 @@ Total deals: 82+
 | ✅  | [ToDoBar](https://apps.apple.com/app/id6470928617) | Your tasks on your menu bar. | 50% off on the App Store. No code needed. |
 | 📊  | [SmartGantt](https://smartgantt.net) | Instant Gantt Chart Creator. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🔄  | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
+| 📝  | [WriteMore](https://writemore.io) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
 
 ## Marketing Tools
 |     | Name                         | Description                                                                                                                                                                 | Discount Code & Terms                                     |
