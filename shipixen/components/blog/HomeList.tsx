@@ -1,5 +1,5 @@
 'use client';
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useMemo } from 'react';
 import { usePathname } from 'next/navigation';
 import Link from '@/components/shared/Link';
 import { siteConfig } from '@/data/config/site.settings';
@@ -63,20 +63,35 @@ export default function HomeList({
   }, [scrolledToCategory]);
 
   const sortedPosts = sortPosts(allBlogs);
-  const posts = allCoreContent(sortedPosts);
-
-  const categories = posts.reduce(
-    (acc, post) => {
-      const { category } = post;
-      if (category) {
-        if (!acc[category]) {
-          acc[category] = [];
+  const posts = allCoreContent(sortedPosts); // not unique
+  const totalNumberOfUniquePosts = useMemo(
+    () =>
+      posts.reduce((acc, post) => {
+        if (!acc[post.slug]) {
+          acc++;
+          return acc;
         }
-        acc[category].push(post);
-      }
-      return acc;
-    },
-    {} as Record<string, CoreContent<Blog>[]>,
+        return acc;
+      }, 0),
+    [posts],
+  );
+
+  const categories = useMemo(
+    () =>
+      posts.reduce(
+        (acc, post) => {
+          const { category } = post;
+          if (category) {
+            if (!acc[category]) {
+              acc[category] = [];
+            }
+            acc[category].push(post);
+          }
+          return acc;
+        },
+        {} as Record<string, CoreContent<Blog>[]>,
+      ),
+    [posts],
   );
 
   const sortedCategories = Object.keys(categories).sort();
@@ -171,7 +186,7 @@ export default function HomeList({
           />
         ))}
 
-        {posts.length > MAX_DISPLAY && (
+        {totalNumberOfUniquePosts > MAX_DISPLAY && (
           <div className="mt-12 flex text-base font-medium leading-6">
             <Link
               href={siteConfig.allArticlesPath}
@@ -183,8 +198,8 @@ export default function HomeList({
           </div>
         )}
 
-        <footer className='opacity-50 text-xs flex items-center'>
-          {posts.length} total deals
+        <footer className="opacity-50 text-xs flex items-center">
+          {totalNumberOfUniquePosts} total deals
         </footer>
 
         {siteConfig.newsletter?.provider && (

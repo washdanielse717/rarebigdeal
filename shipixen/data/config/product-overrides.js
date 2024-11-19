@@ -561,7 +561,7 @@ module.exports = {
       tags: ['Marketing', 'SEO', 'Promotion'],
     },
     'alter-ai-built-for-macos': {
-      tags: ['AI', 'Machine Learning', 'Automation'],
+      tags: ['AI', 'Machine Learning', 'Automation', 'macOS'],
     },
     'ai-learning-hub': {
       tags: ['Courses', 'Programming', 'Learning', 'AI'],
