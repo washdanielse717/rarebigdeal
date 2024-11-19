@@ -115,6 +115,8 @@ Total deals: 82+
 | 🧐   | [Observely](https://www.observely.app) | Observely is an app for building personal dashboards. It's a productivity tool that combines various tools, apps, and feeds into a single dashboard. An example would be a Dashboard with your favorite newsfeeds, newsletter reader, notes (including voice notes), todos, bookmarks, calendars, timezones tool, AI Chat, and more... | 70% OFF with code **BLACKBLACK24** |
 |  💸  | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOs menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 |  📝  | [Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & taks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF Yearly Plan - no code needed|
+| 👥  | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 60% OFF |
+
 
 ### Productivity Mobile Apps
 |     | Name                            | Description                                                                | Discount Code & Terms                                 |
@@ -240,5 +242,7 @@ Total deals: 82+
 |     | Name                                       | Description                               | Discount Code & Terms                                              |
 | --- | ------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------------ |
 | ⭐   | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon | 6 extra months for free when purchasing a 1-year Gold subscription |
+| 💤 | [Dark Sleep](https://www.darksleep.app) | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning. | 50% Off |
+| 💡 | [Mood Lights](https://www.moodlights.app) | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off |
 
 [⬆️ Go to Top](#table-of-contents)
