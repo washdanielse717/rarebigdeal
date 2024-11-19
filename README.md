@@ -6,7 +6,7 @@ Get rare limited time deals on selected **SaaS**, **software**, **apps**, **cour
 Hi there! Feel free to submit your own deal via a [Pull Request](https://github.com/danmindru/rare-big-deal/pulls). <br/> Made with ❤️ by [Dan]( https://x.com/d4m1n).
 
 ## Table of Contents
-Total deals: 81+
+Total deals: 82+
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -173,6 +173,7 @@ Total deals: 81+
 | ⭐   | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
 | ⭐   | [Supaboost - NextJS Boilerplate](https://supaboost.dev) | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS. | €50 off with code **SUPABOOST20** |
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
+| 🚀   | [Nexi Launch](https://nexilaunch.com/?ref=rare-big-deal) | Launch faster and with confidence with landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed.| 50% off with code **BF2024**, limited spots left |
 
 ### iOS
 |     | Name                                        | Description                                                                                                     | Discount Code & Terms                                |
