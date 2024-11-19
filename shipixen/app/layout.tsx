@@ -9,6 +9,9 @@ import { colors } from '@/data/config/colors.js';
 import '@/css/globals.css';
 import { SearchProvider } from '@/components/shared/SearchProvider';
 import { AnalyticsWrapper } from '@/components/shared/Analytics';
+import PostHogPageView from '@/app/posthog-page-view';
+import { Suspense } from 'react';
+import { PHProvider } from '@/app/providers';
 
 const displayFont = Roboto({
   subsets: ['latin'],
@@ -136,11 +139,17 @@ export default function RootLayout({
           <AnalyticsWrapper />
 
           <div className="w-full flex flex-col justify-between items-center font-sans">
-            <SearchProvider>
-              <main className="w-full flex flex-col items-center mb-auto">
-                {children}
-              </main>
-            </SearchProvider>
+            <PHProvider>
+              <SearchProvider>
+                <main className="w-full flex flex-col items-center mb-auto">
+                  {children}
+                </main>
+              </SearchProvider>
+
+              <Suspense>
+                <PostHogPageView />
+              </Suspense>
+            </PHProvider>
           </div>
 
           <Footer />
