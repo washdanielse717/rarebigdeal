@@ -55,6 +55,7 @@ Total deals: 62+
 | --- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
 | ⌛   | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2024** |
 | 🧩   | [ExtReviewBot](https://www.extreviewbot.com/) | Browser extension review tracking & analytics | **30% off** with code **BLACKFRIDAY30** |
+| 🖱️   | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension with tools to enhance your web development experience and take your productivity to the next level. | **30% off** OFF |
 
 ## AI Tools
 ### AI Chat UI
