@@ -92,6 +92,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤖   | [cyberBots](https://bots.cyberesia.com)               | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed            |
 | 💸   | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary!                                                                                                                                                                                                                   | 30% OFF with code **BLACKFRIDAY30**  |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
+| 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
 
 ## AI Tools
 ### Chat UI
