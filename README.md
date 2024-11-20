@@ -284,6 +284,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY**                              |
 | 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
+| ⚡   | [DirectoryFast](https://directoryfa.st?via=rarebigdeal)                       | Launch Trending Directories in Minutes                                                                                                                   | **50% OFF** with code **BLACKFRIDAY50**                                                           |
 
 ### iOS
 |     | Name                                      | Description                                                                             | Discount Code & Terms                 |
