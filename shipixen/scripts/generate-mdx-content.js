@@ -14,7 +14,7 @@ async function generateMDXContent(app) {
 
   let mdxContent = `---
 title: >
-  ${app.name}
+  ${app.name?.trim()}
 date: ${new Date().toISOString().split('T')[0]}
 tags:
 ${tags.map((tag) => `  - ${tag}`).join('\n')}
@@ -32,10 +32,10 @@ ${tags.map((tag) => `  - ${tag}`).join('\n')}
   }
 
   mdxContent += `summary: >
-  ${description}
+  ${description?.trim()}
 category: ${app.category}
 deal: >
-  ${deal}
+  ${deal?.trim()}
 subcategory: ${app.subcategory}
 website: ${website}
 layout: ProductLayout
