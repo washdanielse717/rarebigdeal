@@ -55,7 +55,7 @@ export default function PostLayout({
 
     const recommendations = [
       ...sameCategoryProducts.slice(0, 5),
-      ...otherProducts.slice(0, 10 - sameCategoryProducts.length),
+      ...otherProducts.slice(0, 5),
     ];
 
     return recommendations;
