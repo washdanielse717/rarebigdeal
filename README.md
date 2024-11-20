@@ -118,6 +118,9 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🎬   | [Recut](https://getrecut.com)                       | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools                                                                                                                                                                                                                                                                                                                                                                                                                        | $50 OFF lifetime plan                                                   |
 | 🤖   | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing                                                                                                         | 50% off with code **BLACKFRIDAY50**                                  |
 
+| 🔖   | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine                                                                                                         | 60% off with code **BLACKFRIDAY60**                                  |
+
+
 ### Other
 
 |     | Name                                                 | Description                                                                                                                                  | Discount Code & Terms                           |
