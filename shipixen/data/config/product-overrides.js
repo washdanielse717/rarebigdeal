@@ -577,5 +577,42 @@ module.exports = {
         'Productivity',
       ],
     },
+    typingmind: {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+        'Chat UI',
+        'Todo Apps',
+        'Notes',
+        'Writing',
+      ],
+    },
+    macaw: {
+      tags: [
+        'AI',
+        'Content Creation',
+        'SEO',
+        'Optimization',
+        'Marketing',
+        'Developer Tools',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+      ],
+    },
+    'a11y-boost-reports': {
+      tags: [
+        'Accessibility',
+        'Developer Tools',
+        'Web Development',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+      ],
+    },
   },
 };

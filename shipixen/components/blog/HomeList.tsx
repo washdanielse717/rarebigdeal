@@ -76,23 +76,18 @@ export default function HomeList({
     [posts],
   );
 
-  const categories = useMemo(
-    () =>
-      posts.reduce(
-        (acc, post) => {
-          const { category } = post;
-          if (category) {
-            if (!acc[category]) {
-              acc[category] = [];
-            }
-            acc[category].push(post);
-          }
-          return acc;
-        },
-        {} as Record<string, CoreContent<Blog>[]>,
-      ),
-    [posts],
-  );
+  const categories = useMemo(() => {
+    const categoryMap = {};
+    posts.forEach((post) => {
+      (post.categories || []).forEach((category) => {
+        if (!categoryMap[category]) {
+          categoryMap[category] = [];
+        }
+        categoryMap[category].push(post);
+      });
+    });
+    return categoryMap;
+  }, [posts]);
 
   const sortedCategories = Object.keys(categories).sort();
 
@@ -262,12 +257,15 @@ export function CategorySection({
 
       <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
         {sortedPosts
-          .filter(
-            (post) =>
+          .filter((post) => {
+            return (
               !selectedSubcategories.length ||
-              (post.subcategory &&
-                selectedSubcategories.includes(post.subcategory)),
-          )
+              (post.subcategories &&
+                post.subcategories.some((subcategory) =>
+                  selectedSubcategories.includes(subcategory),
+                ))
+            );
+          })
           .slice(0, numberOfPosts)
           .map((post) => (
             <PostItem key={post.slug} post={post} showImage={showImage} />
@@ -288,23 +286,35 @@ export function SubcategoryFilter({
   selectedSubcategories: string[];
   handleSubcategoryFilter: (category: string, subcategory: string) => void;
 }) {
-  const subcategories = Array.from(
-    new Set(posts.map((post) => post.subcategory).filter(Boolean)),
-  ).sort();
+  const subcategoryCounts = useMemo(() => {
+    const countMap = posts.reduce(
+      (acc, post) => {
+        (post.subcategories || []).forEach((subcategory) => {
+          acc[subcategory] = (acc[subcategory] || 0) + 1;
+        });
+        return acc;
+      },
+      {} as Record<string, number>,
+    );
+
+    return Object.entries(countMap)
+      .sort((a, b) => b[1] - a[1])
+      .map(([subcategory, count]) => ({ subcategory, count }));
+  }, [posts]);
 
   return (
-    <div className="flex gap-2 mb-4 overflow-x-auto">
-      {subcategories.map((subcategory) => (
+    <div className="flex gap-2 mb-4 overflow-x-auto no-scrollbar">
+      {subcategoryCounts.map(({ subcategory, count }) => (
         <button
           key={subcategory}
-          onClick={() => handleSubcategoryFilter(category, subcategory!)}
+          onClick={() => handleSubcategoryFilter(category, subcategory)}
           className={`flex-shrink-0 text-xs px-4 py-2 rounded transition-colors font-display ${
-            selectedSubcategories.includes(subcategory!)
+            selectedSubcategories.includes(subcategory)
               ? 'bg-primary-500 text-white'
               : 'bg-primary-100/30 text-purple-700/80 dark:bg-primary-800/20 dark:text-white'
           }`}
         >
-          {subcategory}
+          {subcategory} ({count})
         </button>
       ))}
     </div>

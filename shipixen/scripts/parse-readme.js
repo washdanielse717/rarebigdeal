@@ -9,6 +9,7 @@ async function parseReadme() {
 
   let currentCategory = '';
   let currentSubcategory = '';
+  const appMap = {};
   const apps = [];
 
   for (const line of lines) {
@@ -28,14 +29,31 @@ async function parseReadme() {
           continue;
         }
 
-        apps.push({
-          name,
-          website,
-          description,
-          deal,
-          category: currentCategory,
-          subcategory: currentSubcategory,
-        });
+        if (!appMap[name]) {
+          appMap[name] = {
+            name,
+            website,
+            description,
+            deal,
+            categories: [],
+            subcategories: [],
+          };
+          apps.push(appMap[name]);
+        }
+
+        if (
+          currentCategory &&
+          !appMap[name].categories.includes(currentCategory)
+        ) {
+          appMap[name].categories.push(currentCategory);
+        }
+
+        if (
+          currentSubcategory &&
+          !appMap[name].subcategories.includes(currentSubcategory)
+        ) {
+          appMap[name].subcategories.push(currentSubcategory);
+        }
       }
     }
   }

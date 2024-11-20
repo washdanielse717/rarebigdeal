@@ -20,7 +20,9 @@ export default function CategoryPage({
   const sortedPosts = useMemo(() => {
     return allCoreContent(
       allBlogs.filter(
-        (post) => post.category && slug(post.category) === params.category,
+        (post) =>
+          post.categories &&
+          post.categories.some((cat) => slug(cat) === params.category),
       ),
     );
   }, [params.category]);
@@ -28,8 +30,10 @@ export default function CategoryPage({
   const totalNumberOfPosts = sortedPosts.length;
   const numberOfPostsForSelectedCategory = sortedPosts.filter(
     (post) =>
-      (post.subcategory &&
-        selectedSubcategories[params.category]?.includes(post.subcategory)) ||
+      (post.subcategories &&
+        post.subcategories.some((subcat) =>
+          selectedSubcategories[params.category]?.includes(subcat),
+        )) ||
       !selectedSubcategories[params.category],
   ).length;
 

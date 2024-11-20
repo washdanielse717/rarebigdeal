@@ -69,8 +69,8 @@ export default function Footer({ className }: { className?: string }) {
           <div
             className={cn(
               'grid md:grid-cols-2 gap-12 items-start mt-6 md:mt-0',
-              columnNumber === 3 ? 'md:grid-cols-3' : '',
-              columnNumber === 4 ? 'lg:grid-cols-4' : '',
+              columnNumber === 3 ? 'lg:grid-cols-3' : '',
+              columnNumber === 4 ? 'xl:grid-cols-4' : '',
             )}
           >
             {footerLinks
@@ -80,6 +80,7 @@ export default function Footer({ className }: { className?: string }) {
                   <ul
                     key={index}
                     className={cn(
+                      column.columnName === 'Categories' ? 'md:col-span-2' : '',
                       'flex flex-col flex-wrap gap-4 justify-center w-full text-xs',
                     )}
                   >

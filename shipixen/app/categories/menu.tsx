@@ -42,23 +42,18 @@ export const Menu = ({ className }: { className?: string }) => {
 
   const sortedPosts = sortPosts(allBlogs);
   const posts = allCoreContent(sortedPosts); // not unique
-  const categories = useMemo(
-    () =>
-      posts.reduce(
-        (acc, post) => {
-          const { category } = post;
-          if (category) {
-            if (!acc[category]) {
-              acc[category] = [];
-            }
-            acc[category].push(post);
-          }
-          return acc;
-        },
-        {} as Record<string, CoreContent<Blog>[]>,
-      ),
-    [posts],
-  );
+  const categories = useMemo(() => {
+    const categoryMap = {};
+    posts.forEach((post) => {
+      (post.categories || []).forEach((category) => {
+        if (!categoryMap[category]) {
+          categoryMap[category] = [];
+        }
+        categoryMap[category].push(post);
+      });
+    });
+    return categoryMap;
+  }, [posts]);
 
   // Categories by number of posts
   const sortedCategories = Object.keys(categories).sort(
