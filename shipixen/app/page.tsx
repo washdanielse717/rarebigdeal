@@ -56,7 +56,7 @@ export default function Home() {
         title="Rare Deals and Discounts"
         descriptionComponent={
           <p className="max-w-2xl">
-            Save big on limited time details on selected SaaS, software, apps &
+            Save big on limited time deals on selected SaaS, software, apps &
             services. Discounts for Black Friday, Cyber Monday & beyond.
           </p>
         }
