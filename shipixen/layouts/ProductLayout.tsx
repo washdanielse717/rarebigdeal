@@ -1,5 +1,6 @@
 import { cn } from '@/lib/utils';
 import { ReactNode } from 'react';
+import { slug as githubSlugger } from 'github-slugger';
 import { ExternalLinkIcon } from 'lucide-react';
 import {
   CoreContent,
@@ -194,19 +195,27 @@ export default function PostLayout({
                 </div>
               </div>
 
-              <div className="flex pt-4 xl:pt-8">
+              <div className="flex gap-4 pt-4 xl:pt-8">
+                <Link
+                  href={'/categories/' + githubSlugger(category)}
+                  className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                  aria-label={`More ${category} Deals`}
+                >
+                  More deals in {category} ✨
+                </Link>
+
                 <Link
                   href={siteConfig.allArticlesPath}
-                  className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                  aria-label="More deals"
+                  className="ml-auto text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                  aria-label={'All Deals'}
                 >
-                  More Deals &rarr;
+                  All Deals &rarr;
                 </Link>
               </div>
             </div>
           </section>
 
-          <footer>
+          <footer className="mt-8">
             <dl className="pb-10 pt-6 xl:border-b xl:border-gray-200 xl:pt-11 xl:dark:border-gray-700">
               <dt className="sr-only">Authors</dt>
               <dd>
