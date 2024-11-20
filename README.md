@@ -163,6 +163,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 📍   | [BlogToPin](https://blogtopin.com)                          | BlogToPin helps you automate Pinterest for your website. Created hundreds of Pins within a few minutes, start growing on autopilot                                              | 35% OFF on Monthly/Annual plans with code **BF35**               |
 | 🧑‍🚀   | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal)  | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks.                                                       | 42% OFF with code **BLACKFRIDAY2024**                            |
 | 🧑‍🚀   | [Loomos](https://loomos.co/login)  | Create Stunning Training Videos In Minutes.                                                       | 50% OFF till BLACKFRIDAY                            |
+| ✨ | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 
 ## Data Tools
 |     | Name                                       | Description                                                                                                    | Discount Code & Terms                 |
@@ -178,6 +179,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🚀   | [Boringlaunch](https://www.boringlaunch.com)                    | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales                                                                                                                   | 30% OFF with code **BLACKFRIDAY2024**                  |
 | 🤩   | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal)  | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings!                                                | 30% OFF with code **BF30**                             |
 | 🤖   | [Checkbot: SEO checker extension](https://www.checkbot.io)      | Tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages and redirect chains | 50% off first year on yearly plans with code **NOV24** |
+|  ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 
 ## Boilerplates, Startup SaaS/Tools
 ### React/Next.js
