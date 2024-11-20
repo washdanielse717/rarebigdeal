@@ -47,7 +47,6 @@ export default function PostLayout({
     tags,
     logo,
     website,
-    category,
     categories,
     subcategories,
   } = content;

@@ -50,6 +50,7 @@ module.exports = {
       ],
     },
     'tim-time-tracker': {
+      logo: '/public/static/images/overrides/tim-time-tracker/logo.png',
       tags: [
         'Time Tracking',
         'macOS',
