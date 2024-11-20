@@ -282,6 +282,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🚀   | [Nexi Launch](https://nexilaunch.com/?ref=rare-big-deal)                       | Launch faster and with confidence with landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | 50% off with code **BF2024**, limited spots left                                                 |
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY**                              |
 | 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
+| 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 
 ### iOS
 |     | Name                                      | Description                                                                             | Discount Code & Terms                 |
@@ -308,6 +309,16 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |     | Name                             | Description                 | Discount Code & Terms                                                                       |
 | --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
 | 🐌   | [Larafast](https://larafast.com) | #1 Laravel SaaS Starter Kit | 50% OFF on all Starter Kits (Livewire, Vue, Directories, API) with code **BLACKFRIDAY2024** |
+
+### Astro
+|     | Name                             | Description                 | Discount Code & Terms                                                                       |
+| --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
+| 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
+
+### SvelteKit
+|     | Name                             | Description                 | Discount Code & Terms                                                                       |
+| --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
+| 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 
 ### Chrome Extensions
 |     | Name                                                                                                          | Description                                                                                                                 | Discount Code & Terms                                    |
