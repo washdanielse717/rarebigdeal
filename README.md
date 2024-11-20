@@ -50,6 +50,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
   - [Courses](#courses)
   - [Books](#books)
 - [Health and Fitness](#health-and-fitness)
+- [Finance](#finance)
 
 ## Developer Tools
 ### macOS Apps
@@ -198,7 +199,6 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🖊   | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times.                                                                                                        | 25% off on the App Store. No code needed.                                     |
 | 📊   | [SmartGantt](https://smartgantt.net)                  | Instant Gantt Chart Creator.                                                                                                                                       | 40% off with code **BF2024** on 3 months subscriptions.                       |
 | 🏆   | [Yappa](https://goyappa.com)                          | The ultimate toolkit for freelancers                                                                                                                               | 2 months off with code **TRYYAPPA-2MONTHS**                                   |
-| 🛠️   | [AlbusBit](https://albusbit.com/blackfriday/)                   | Tools for Active Directory management, permissions auditing, and sysadmin reporting.                                                                               | 40% OFF with code **BF2024**                                                  |
 
 ## Marketing
 
@@ -339,5 +339,11 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon                                                                                                                   | 6 extra months for free when purchasing a 1-year Gold subscription |
 | 💤   | [Dark Sleep](https://www.darksleep.app)    | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning.        | 50% Off                                                            |
 | 💡   | [Mood Lights](https://www.moodlights.app)  | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off                                                            |
+
+
+## Finance
+|     | Name                                       | Description                                                                                                                                                 | Discount Code & Terms                                              |
+| --- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 👻   | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions.         | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** |
 
 [⬆️ Go to Top](#table-of-contents)
