@@ -44,6 +44,8 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
   - [Django](#django)
   - [Rails](#rails)
   - [Laravel](#laravel)
+  - [Astro](#astro)
+  - [SvelteKit](#sveltekit)
   - [Chrome Extensions](#chrome-extensions)
   - [Libraries](#libraries)
 - [Learning](#learning)
@@ -67,6 +69,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤖   | [MindPal](https://mindpal.io)                        | Build AI agents & multi-agent workflows to automate business processes.                               | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
 | 🖊   | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times.                                                                                                        | 25% off on the App Store. No code needed.                                     |
 | 💰   | [Tim Time Tracker](https://tim.neat.software)              | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO**       |
+| 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 💻   | [Aptakube](https://aptakube.com)              | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux.  |  30% OFF with code **BLACKFRIDAY2024** |
 
 ### APIs, Tools & SaaS
@@ -89,6 +92,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 ### Productivity & AI
 |     | Name                                          | Description                                                                                                                      | Discount Code & Terms                     |
 | --- | --------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------- |
+| 🚢   | [Shipixen](https://shipixen.com)                                               | Create an entire codebase and use AI to deploy your website today                                                                                 | **$100 OFF** on all licenses with code **BF2024**                                                |
 | ⭐   | [Verbatik AI](https://verbatik.com)                  | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak                       | 40% OFF on All plans with code **BFCM2024**          |
 | 🤖   | [cyberBots](https://bots.cyberesia.com)               | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed            |
 | 💸   | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary!                                                                                                                                                                                                                   | 30% OFF with code **BLACKFRIDAY30**  |
@@ -120,8 +124,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🎬   | [Recut](https://getrecut.com)                       | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools                                                                                                                                                                                                                                                                                                                                                                                                                        | $50 OFF lifetime plan                                                   |
 | 🤖   | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing                                                                                                         | 50% off with code **BLACKFRIDAY50**                                  |
 
-| 🔖   | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine                                                                                                         | 60% off with code **BLACKFRIDAY60**                                  |
-
+| 🔖 | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine | 60% off with code **BLACKFRIDAY60** |
 
 ### Other
 
@@ -180,6 +183,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ✅   | [ToDoBar](https://apps.apple.com/app/id6470928617)    | Your tasks on your menu bar.                                                                                                                                       | 50% off on the App Store. No code needed.                                     |
 | 📝   | [WriteMore](https://writemore.io)                     | Build Your Writing Muscle with Tools and Analytics Across All Devices                                                                                              | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year.      |
 | ✍️   | [Kerlig™](https://www.kerlig.com/)                                                                                       | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice                                                                         | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF                                                                                    |
+| ⏰ | [Timebox.so](https://www.timebox.so) | The #1 timeboxing app designed for focus. Drag and drop timeboxing scheduler, to-do lists, progress tracker, Notion-style notes, and Google calendar syncing - all in one place. | 50% OFF with code **BLACKFRIDAY50** |
 
 ### Marketing
 |     | Name                          | Description                                                                                      | Discount Code & Terms |
@@ -283,7 +287,6 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Supaboost - NextJS Boilerplate](https://supaboost.dev)                        | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS.                                  | €50 off with code **SUPABOOST20**                                                                |
 | ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly.       | €100 off with code **BLACKFRIDAY**                                                               |
 | 🚀   | [Nexi Launch](https://nexilaunch.com/?ref=rare-big-deal)                       | Launch faster and with confidence with landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | 50% off with code **BF2024**, limited spots left                                                 |
-| ✨   | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY**                              |
 | 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | ⚡   | [DirectoryFast](https://directoryfa.st?via=rarebigdeal)                       | Launch Trending Directories in Minutes                                                                                                                   | **50% OFF** with code **BLACKFRIDAY50**                                                           |
@@ -345,6 +348,8 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤑   | [AI Learning Hub](https://ailearninghub.io)                                                                                                              | Master AI from Zero to Advanced. Get a complete AI roadmap, personalized mentorship, early access to exclusive AI projects & resources, and join a supportive learning community. | 50% OFF with code **BLACKFRIDAY**      |
 | ✍️   | [Ultimate Technical Writing Course](https://technicalwriting.online)                                                                                     | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money.                                                   | 30% OFF with code **BF2024**           |
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |                                                                                                         |
+| 💡 | [Build Production-grade Web Apps With Golang](https://golangblogcourse.com/) | Go from zero to building full-stack production-grade web application in Go | 10% OFF Early Bird Plan (already at a reduced price while in development) with code **BLACKFRIDAY** |
+
 ### Books
 |     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
 | --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
@@ -359,6 +364,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon                                                                                                                   | 6 extra months for free when purchasing a 1-year Gold subscription |
 | 💤   | [Dark Sleep](https://www.darksleep.app)    | Sleep Sounds & Sunrise Alarm for Apple TV. Enjoy a total black screen with relaxing sounds at night and a gentle sunrise alarm clock in the morning.        | 50% Off                                                            |
 | 💡   | [Mood Lights](https://www.moodlights.app)  | Make Your TV a Mood Lamp. Transform your space with the Mood Lights Apple TV app – endless colors and sounds for relaxation, focus, and beautiful ambiance. | 50% Off                                                            |
+| 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 
 
 ## Finance

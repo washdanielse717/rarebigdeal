@@ -76,7 +76,7 @@ export default function CategoryPage({
           </div>
         )}
 
-        <footer className="opacity-50 text-xs flex items-center">
+        <footer className="my-6 opacity-50 text-xs flex items-center">
           {numberOfPostsForSelectedCategory} total deals
         </footer>
       </div>
