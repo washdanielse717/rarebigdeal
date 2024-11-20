@@ -199,6 +199,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🖊   | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times.                                                                                                        | 25% off on the App Store. No code needed.                                     |
 | 📊   | [SmartGantt](https://smartgantt.net)                  | Instant Gantt Chart Creator.                                                                                                                                       | 40% off with code **BF2024** on 3 months subscriptions.                       |
 | 🏆   | [Yappa](https://goyappa.com)                          | The ultimate toolkit for freelancers                                                                                                                               | 2 months off with code **TRYYAPPA-2MONTHS**                                   |
+| 🛠️   | [AlbusBit](https://albusbit.com/blackfriday/)                   | Tools for Active Directory management, permissions auditing, and sysadmin reporting.                                                                               | 40% OFF with code **BF2024**                                                  |
 
 ## Marketing
 
