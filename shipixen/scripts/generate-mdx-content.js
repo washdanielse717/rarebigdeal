@@ -39,10 +39,8 @@ subcategories:
 ${(app.subcategories || [])
   .map((subcategory) => `  - ${subcategory}`)
   .join('\n')}
-category: ${app.category}
 deal: >
   ${deal?.trim()}
-subcategory: ${app.subcategory}
 website: ${website}
 layout: ProductLayout
 `;
