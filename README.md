@@ -161,6 +161,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🎬   | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | $50 OFF lifetime plan |
 | ⭐   | [Krumzi](https://www.krumzi.com)                            | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences.                                                         | 50% OFF for a year with code **BLACKFRIDAY24**                   |
 | 🧑‍🚀   | [Loomos](https://loomos.co/login)  | Create Stunning Training Videos In Minutes.                                                       | 50% OFF till BLACKFRIDAY                            |
+| 🎬   | [FastShorts](https://fastshorts.app)  | fully automated video creation for TikTok and YouTube for your faceless channels.                                                       | 50% OFF All Plans BLACKFRIDAY2024                            |
 
 ### Social
 |     | Name                              | Description                                                                                                                        | Discount Code & Terms                     |
