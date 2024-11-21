@@ -223,7 +223,9 @@ export default function Footer({ className }: { className?: string }) {
             <span>{` • `}</span>
             <Link href="/">{siteConfig.businessName}</Link>
             <span>{` • `}</span>
-            <Link href="https://shipixen.com">Made with Shipixen</Link>
+            <Link className="animated-fancy-text" href="https://shipixen.com">
+              Made with Shipixen
+            </Link>
           </div>
         </div>
       </div>

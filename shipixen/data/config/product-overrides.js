@@ -683,7 +683,162 @@ module.exports = {
       ],
     },
     chatwith: {
-      tags: ['Developer', 'Tools', 'macOS', 'AI', 'Chatbots', 'Productivity'],
+      tags: ['Developer', 'Tools', 'AI', 'Chatbots', 'Productivity'],
+    },
+    'saas-ui': {
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'React',
+        'Next.js',
+        'SaaS',
+        'Productivity',
+      ],
+    },
+    'oscar-stories': {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Storytelling',
+        'Kids',
+      ],
+    },
+    'mail-mastery': {
+      tags: [
+        'Miscellaneous',
+        'Books',
+        'Email Templates',
+        'Business Documents',
+        'Marketing',
+      ],
+    },
+    loomos: {
+      tags: [
+        'Design',
+        'Graphics',
+        'Marketing',
+        'Video Tools',
+        'Content Creation',
+      ],
+    },
+    'ink-studio-ai': {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Tattoo Design',
+        'Image Generation',
+      ],
+    },
+    iconbuddy: {
+      tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Productivity'],
+    },
+    hoverify: {
+      tags: [
+        'Developer',
+        'Tools',
+        'macOS',
+        'Developer Tools',
+        'Browser Extensions',
+      ],
+    },
+    'honeypot-newsletters-database': {
+      tags: ['Mailing Lists', 'Newsletters', 'Blogs', 'Books', 'Marketing'],
+    },
+    gumtrends: {
+      tags: ['Miscellaneous', 'Books', 'Gumroad', 'Marketing', 'Revenue'],
+    },
+    'gsctool-com': {
+      tags: ['Developer', 'Tools', 'macOS', 'SEO', 'Optimization', 'Marketing'],
+    },
+    'ghosthunt-ghost-org-newsletters-database': {
+      tags: ['Mailing Lists', 'Newsletters', 'Blogs', 'Books', 'Marketing'],
+    },
+    'gamedevtools-pro': {
+      tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Productivity'],
+    },
+    'game-design-checklist': {
+      tags: ['Miscellaneous', 'Books', 'Game Design', 'Templates', 'Notion'],
+    },
+    fragdaspdf: {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Productivity',
+      ],
+    },
+    filtergrade: {
+      tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Productivity'],
+    },
+    fastshorts: {
+      tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Video Tools'],
+    },
+    facescreen: {
+      metaDescription:
+        'FaceScreen is a mac menu bar app that allows you to show a highly customizable live camera feed and text on your screen on top of everything else.',
+      tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Video Tools'],
+    },
+    devutils: {
+      tags: ['Developer', 'Tools', 'macOS', 'Developer Tools', 'Productivity'],
+    },
+    branding5: {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Marketing',
+        'Analytics',
+      ],
+    },
+    braindump: {
+      tags: ['Developer', 'Tools', 'macOS', 'Developer Tools', 'Productivity'],
+    },
+    blitzbear: {
+      tags: [
+        'SEO',
+        'Optimization',
+        'Marketing',
+        'SEO Tools',
+        'Content Refresh',
+      ],
+    },
+    'avo-admin-for-rails': {
+      tags: ['Developer', 'Tools', 'macOS', 'Developer Tools', 'APIs', 'Tools'],
+    },
+    aptakube: {
+      tags: [
+        'Developer',
+        'Tools',
+        'macOS',
+        'Developer Tools',
+        'Kubernetes',
+        'GUI',
+      ],
+    },
+    albusbit: {
+      tags: [
+        'Productivity',
+        'Efficiency',
+        'Tools',
+        'Active Directory',
+        'Sysadmin',
+      ],
+    },
+    'ai-dev-assess': {
+      logo: '/public/static/images/overrides/ai-dev-assess/logo.png',
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Developer Assessment',
+      ],
     },
   },
 };

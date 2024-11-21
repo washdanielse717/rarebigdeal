@@ -53,7 +53,7 @@ const Header = ({ className }: { className?: string }) => {
           href="https://www.youtube.com/live/F7cs6tB_iX0?si=NSdAvCJyicar61zj&t=2924"
           target="_blank"
           rel="noopener noreferrer"
-          className="animated-fancy-text"
+          className="animated-fancy-text hidden lg:flex"
         >
           Made with Shipixen in hours
         </a>
