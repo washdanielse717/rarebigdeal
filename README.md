@@ -126,6 +126,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🎬   | [Recut](https://getrecut.com)                       | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools                                                                                                                                                                                                                                                                                                                                                                                                                        | $50 OFF lifetime plan                                                   |
 | 🤖   | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing                                                                                                         | 50% off with code **BLACKFRIDAY50**                                  |
 | 🔖 | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine | 60% off with code **BLACKFRIDAY60** |
+|  🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
 
 
 ### Other
