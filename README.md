@@ -309,17 +309,18 @@ It's free & open-source. Enjoy! 🚀
 
 ## Boilerplates, Starters & Libraries
 ### React/Next.js
-| | Name | Description | Deal |
-| - | - | - | - |
-| 🚢 | [Shipixen](https://shipixen.com) | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024** |
-| ⭐ | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com) | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
-| ⭐ | [Supaboost - NextJS Boilerplate](https://supaboost.dev) | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS. | €50 off with code **SUPABOOST20** |
-| ✨ | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY** |
-| 🚀 | [Nexi Launch](https://nexilaunch.com/?ref=rare-big-deal) | Launch faster and with confidence with landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | 50% off with code **BF2024**, limited spots left |
-| 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
-| 🚀 | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
-| ⚡ | [DirectoryFast](https://directoryfa.st?via=rarebigdeal) | Launch Trending Directories in Minutes | **50% OFF** with code **BLACKFRIDAY50** |
-| 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+| | Name                                                                           | Description | Deal                                                                                             |
+| - |--------------------------------------------------------------------------------| - |--------------------------------------------------------------------------------------------------|
+| 🚢 | [Shipixen](https://shipixen.com)                                               | In 5 minutes, go from nothing → deployed codebase. | **$100 OFF** on all licenses with code **BF2024**                                                |
+| ⭐ | [Nextless.js React SaaS Boilerplate](https://nextlessjs.com)                   | NextJs SaaS Boilerplate and React Starter Kit written in TypeScript styled with Tailwind CSS hosted on AWS. | 66% OFF: Get access to the 3 databases instead of one for a single license until end of November |
+| ⭐ | [Supaboost - NextJS Boilerplate](https://supaboost.dev)                        | Supaboost is a Next.js SaaS boilerplate with a beautiful UI, authentication, Supabase as a database, and TailwindCSS. | €50 off with code **SUPABOOST20**                                                                |
+| ✨ | [AnotherWrapper - AI Demo Apps](https://anotherwrapper.com/?ref=rare-big-deal) | 10 customizable AI demo apps bundled together into an all-in-one Next.js AI starter kit with everything you need to launch your startup quickly. | €100 off with code **BLACKFRIDAY**                                                               |
+| 🚀 | [Nexi Launch](https://nexilaunch.com/?ref=rare-big-deal)                       | Launch faster and with confidence with landing page templates, copywriting prompts, and email sequences for SaaS—no marketing or design skills needed. | 50% off with code **BF2024**, limited spots left                                                 |
+| 🏆 | [ZexaNext](https://next.zexa.app/)                                             | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers                                                               |
+| 🚀 | [LaunchFast](https://www.launchfa.st)                                          | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024**                                                            |
+| ⚡ | [DirectoryFast](https://directoryfa.st?via=rarebigdeal)                        | Launch Trending Directories in Minutes | **50% OFF** with code **BLACKFRIDAY50**                                                          |
+| 🚀 | [supastarter for Next.js](https://supastarter.dev)                             | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY**                                                           |
+| 🚀 | [Launchway](https://www.launchway.dev)                                         | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**                                                                 |
 
 ### iOS
 | | Name | Description | Deal |
@@ -352,6 +353,11 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🚀 | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+
+### Remix
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🚀 | [Launchway](https://www.launchway.dev)                                         | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**                                                                 |
 
 ### SvelteKit
 | | Name | Description | Deal |
