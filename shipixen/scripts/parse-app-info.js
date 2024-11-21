@@ -40,7 +40,7 @@ async function downloadImage(url, outputPath) {
   }
 }
 
-async function fetchWebsiteData(website) {
+async function fetchWebsiteData(website, hasLogoOverride) {
   let description = '';
   let title = '';
 
@@ -52,9 +52,6 @@ async function fetchWebsiteData(website) {
     });
     const $ = cheerio.load(response.data);
 
-    let faviconUrl =
-      $('link[rel="icon"]').attr('href') ||
-      $('link[rel="shortcut icon"]').attr('href');
     let ogImageUrl = $('meta[property="og:image"]').attr('content');
 
     description = $('meta[name="description"]').attr('content');
@@ -64,47 +61,46 @@ async function fetchWebsiteData(website) {
     console.log(`Extracted title for ${website}:`, title);
 
     // Ensure the URLs are absolute
-    if (faviconUrl && !faviconUrl.startsWith('http')) {
-      faviconUrl = new URL(faviconUrl, website).href;
-    }
     if (ogImageUrl && !ogImageUrl.startsWith('http')) {
       ogImageUrl = new URL(ogImageUrl, website).href;
     }
 
-    // Try to find the highest resolution PNG favicon
-    const possibleFaviconUrls = [
-      $('link[rel="apple-touch-icon"]').attr('href'),
-      $('link[rel="icon"][type="image/png"]').attr('href'),
-      '/favicon-32x32.png',
-      '/favicon-16x16.png',
-      '/apple-touch-icon.png',
-      '/favicon.png',
-      // Get .ico too
-      $('link[rel="icon"]').attr('href'),
-      $('link[rel="shortcut icon"]').attr('href'),
-    ]
-      .filter(Boolean)
-      .map((url) => new URL(url, website).href);
-
     let highestResFaviconUrl = null;
-    for (const url of possibleFaviconUrls) {
-      try {
-        const headResponse = await axios.head(url, {
-          headers: {
-            'User-Agent': 'Mozilla/5.0',
-          },
-          validateStatus: (status) => status < 400,
-        });
+    if (!hasLogoOverride) {
+      // Try to find the highest resolution PNG favicon
+      const possibleFaviconUrls = [
+        $('link[rel="apple-touch-icon"]').attr('href'),
+        $('link[rel="icon"][type="image/png"]').attr('href'),
+        '/favicon-32x32.png',
+        '/favicon-16x16.png',
+        '/apple-touch-icon.png',
+        '/favicon.png',
+        // Get .ico too
+        $('link[rel="icon"]').attr('href'),
+        $('link[rel="shortcut icon"]').attr('href'),
+      ]
+        .filter(Boolean)
+        .map((url) => new URL(url, website).href);
 
-        if (
-          headResponse.status === 200 &&
-          headResponse.headers['content-type'].startsWith('image/')
-        ) {
-          highestResFaviconUrl = url;
-          break;
+      for (const url of possibleFaviconUrls) {
+        try {
+          const headResponse = await axios.head(url, {
+            headers: {
+              'User-Agent': 'Mozilla/5.0',
+            },
+            validateStatus: (status) => status < 400,
+          });
+
+          if (
+            headResponse.status === 200 &&
+            headResponse.headers['content-type'].startsWith('image/')
+          ) {
+            highestResFaviconUrl = url;
+            break;
+          }
+        } catch (error) {
+          console.warn(`Favicon URL not found: ${url}`);
         }
-      } catch (error) {
-        console.warn(`Favicon URL not found: ${url}`);
       }
     }
 
@@ -153,7 +149,7 @@ async function fetchAssets(app) {
     try {
       console.log(`Fetching website data for ${productName}`);
       const { ogImageUrl, highestResFaviconUrl, description, title } =
-        await fetchWebsiteData(website);
+        await fetchWebsiteData(website, !!override?.logo);
 
       // Log the fetched title
       console.log(`Fetched title for ${productName}:`, title);
@@ -218,6 +214,7 @@ async function main() {
   const apps = await parseReadme();
 
   const fetchPromises = apps.map(async (app) => {
+    const startTime = Date.now();
     try {
       await fetchAssets(app);
       await generateMDXContent(app);
@@ -225,6 +222,15 @@ async function main() {
       console.error(
         `💥 Could not generate markdown for ${app.name}:`,
         error.message,
+      );
+    }
+    const endTime = Date.now();
+    const duration = (endTime - startTime) / 1000;
+    if (duration > 2) {
+      console.warn(
+        `\x1b[33m⚠️  Warning: Processing ${app.name} took ${duration.toFixed(
+          2,
+        )} seconds\x1b[0m`,
       );
     }
   });
