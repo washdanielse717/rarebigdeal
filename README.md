@@ -151,6 +151,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Iconbuddy](https://iconbuddy.com)                | Over 200k+ open source icons. | Limited-time lifetime deal - $100 off                                                            |
 | ⭐   | [Sawad](https://mejed.lemonsqueezy.com/buy/626bae75-7eee-45cb-a91f-6f2eb1fbfd1f) | Framer Portfolio Template                                                                                                                                                 | 10% OFF with code **G3ODQYMQ** |
 | 🎨   | [FilterGrade](https://filtergrade.com)                      | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers.             | 30% off marketplace with code **BLACKFRIDAY2024**                |
+| 🧰  | [GameDevTools.Pro](https://gamedevtools.pro)                      | Find the best game development, design and art tools.              | 50% off with code **BF2024**                |
 
 ### AI Design Tools
 |     | Name                                                         | Description                                                                                                                                                     | Discount Code & Terms                                                |
@@ -388,5 +389,6 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | --- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 |  📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
 |  💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
+|  🎲 | [Game Design Checklist](https://gamedesignchecklist.com) | Game design document templates, game studio dashboard templates for Notion. | 50% OFF with code **BF2024** |
 
 [⬆️ Go to Top](#table-of-contents)
