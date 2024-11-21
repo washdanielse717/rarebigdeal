@@ -80,6 +80,7 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
 | 💻 | [Voice Type-Dictation Tool](https://carelesswhisper.app) | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Great if you suffer from RSI. | 50% OFF till Nov-30 |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030) | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. | 50% OFF **BFS2024** |
+| 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -121,6 +122,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Alter, AI built for MacOS](https://alterhq.com?utm_source=github&utm_campaign=rarebigdeals&utm_content=blackfriday2024) | Skip lengthy conversations, use 80+ AI-driven actions on any apps. Chat instantly from the Finder, native apps, webpages and YouTube videos. 30+ models provided or bring your own (cloud, local). Use codes at checkout after downloading the app. | Power User Plan: 3x 50% OFF **BF2024LIMITED** / 25% OFF **BF2024** |
 | ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
+| 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 
 ### Productivity
 | | Name | Description | Deal |
