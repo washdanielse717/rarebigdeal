@@ -295,6 +295,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |     | Name                                                        | Description                                                                                                                                                                     | Discount Code & Terms                                            |
 | --- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | 🤩   | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal)  | Boost your website’s ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings!                                                | 30% OFF with code **BF30**                             |
+| 👾   | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend)  | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive**                             |
 
 
 ## Boilerplates, Starters & Libraries
