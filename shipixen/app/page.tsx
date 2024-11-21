@@ -32,6 +32,33 @@ import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 import { metadata } from '@/data/config/metadata';
 
+const avatars = [
+  {
+    imageSrc: '/static/images/people/13.png',
+    name: 'Daniel Nguyen',
+  },
+  {
+    imageSrc: '/static/images/people/1.png',
+    name: 'Matthias',
+  },
+  {
+    imageSrc: '/static/images/people/2.jpeg',
+    name: 'Tropiano',
+  },
+  {
+    imageSrc: '/static/images/people/4.jpeg',
+    name: 'Catalin',
+  },
+  {
+    imageSrc: '/static/images/people/14.png',
+    name: 'Fekri',
+  },
+  {
+    imageSrc: '/static/images/people/15.jpeg',
+    name: 'Serg',
+  },
+];
+
 export default function Home() {
   const users = (stats.stars || 0) + (stats.forks || 0);
   return (
@@ -87,21 +114,8 @@ export default function Home() {
             className="w-full mt-12"
             showRating
             numberOfUsers={users}
-            suffixText="deal hunters"
-            avatarItems={[
-              {
-                imageSrc: 'https://picsum.photos/id/64/100/100',
-                name: 'John Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/65/100/100',
-                name: 'Jane Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/669/100/100',
-                name: 'Alice Doe',
-              },
-            ]}
+            suffixText="happy users"
+            avatarItems={avatars}
           />
         </div>
       </LandingPrimaryTextCtaSection>
@@ -215,20 +229,7 @@ export default function Home() {
           <LandingSocialProof
             showRating
             numberOfUsers={users}
-            avatarItems={[
-              {
-                imageSrc: 'https://picsum.photos/id/64/100/100',
-                name: 'John Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/65/100/100',
-                name: 'Jane Doe',
-              },
-              {
-                imageSrc: 'https://picsum.photos/id/669/100/100',
-                name: 'Alice Doe',
-              },
-            ]}
+            avatarItems={avatars}
           />
         }
       />
@@ -259,39 +260,45 @@ export default function Home() {
 
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
-          title="Hear It from Our Users (Coming soon)"
+          title="Hear It from Our Users"
           description="Discover what our happy customers have to say about their experience with our AI app:"
           testimonialItems={[
             {
               name: 'John Smith',
-              text: 'Unbelievable Black Friday deals! I saved so much on top-quality products. Highly recommend checking it out!',
-              handle: '@john_smith',
-              imageSrc: 'https://picsum.photos/id/64/100/100',
+              text: 'A person of the people!',
+              handle: '@CranQnow',
+              imageSrc: '/static/images/people/17.jpg',
+              url: 'https://x.com/CranQnow/status/1859549466879025423',
             },
             {
-              name: 'Emily Johnson',
-              text: "The best deals I've ever seen! Managed to get everything on my wishlist at a fraction of the price.",
-              handle: '@emily_johnson',
-              imageSrc: 'https://picsum.photos/id/65/100/100',
+              name: 'AP',
+              text: 'Great work 💪',
+              handle: '@anhphong_dev',
+              imageSrc: '/static/images/people/18.jpg',
+              url: 'https://x.com/anhphong_dev/status/1859277954091712711',
             },
             {
-              name: 'David Rodriguez',
-              text: 'Incredible savings! The analytics tools helped me find the best deals quickly. Highly impressive!',
-              handle: '@david_rodriguez',
-              imageSrc: 'https://picsum.photos/id/669/100/100',
+              name: 'Sam',
+              text: 'Thats a great list of discounts. Super helpful.',
+              handle: '@sambruce23',
+              imageSrc: '/static/images/people/19.webp',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxu9y37/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
               featured: true,
             },
             {
-              name: 'Mandy',
-              text: 'Amazing Black Friday deals!',
-              handle: '@mandy',
-              imageSrc: 'https://picsum.photos/id/829/100/100',
+              name: 'Adam R.',
+              text: 'Oh great idea [...]',
+              handle: '@adam_riha',
+              imageSrc: '/static/images/people/3.jpeg',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxttiqv/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
             },
+
             {
-              name: 'Alex',
-              text: 'Found the best deals here! Highly recommend!',
-              handle: '@alex',
-              imageSrc: 'https://picsum.photos/100/100.webp?random=2',
+              name: 'Martin B.',
+              text: 'Very nice idea to pull the metadata from the websites and create standalone pages instead of just a table!',
+              handle: '@martin_buur',
+              imageSrc: '/static/images/people/20.png',
+              url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxw0vk5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
             },
             {
               name: 'Sam',
