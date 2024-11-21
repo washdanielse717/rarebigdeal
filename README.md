@@ -141,6 +141,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🧑‍🚀   | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal)  | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks.                                                       | 42% OFF with code **BLACKFRIDAY2024**                            |
 | 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
+| 📄 | [AI Dev Assess](https://www.aidevassess.com) | Create comprehensive role-specific developer assessment toolkits with AI. Perfect for both outsourcing teams and hiring managers | 50% off till the end of the year with BLACKFRIDAY50 |
 
 
 ## Design Tools
