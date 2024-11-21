@@ -370,6 +370,16 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |                                                                                                         |
 | 💡 | [Build Production-grade Web Apps With Golang](https://golangblogcourse.com/) | Go from zero to building full-stack production-grade web application in Go | 10% OFF Early Bird Plan (already at a reduced price while in development) with code **BLACKFRIDAY** |
 
+### Art Courses
+|     | Name                                                                                                                                                     | Description                                                                                                                                                                       | Discount Code & Terms                  |
+| --- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------- |
+| 💃  | [Complete Figure Drawing Course: Create Dynamic Characters](https://doncorgi.gumroad.com/l/figure-drawing/DANDEAL) | Draw amazing portraits and people without memorizing muscle names! Anybody can draw. | +75% OFF with code **DANDEAL** (link already discounted) |
+| 🕺  | [Complete Character Design Course - Create Your Dream Character](https://doncorgi.gumroad.com/l/character-design-course/DANDEAL) | Design your own Characters from scratch with easy-to-follow content! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
+| 🥰  | [Complete Chibi Drawing Course: Draw Adorable Characters!](https://doncorgi.gumroad.com/l/chibi-drawing/DANDEAL) | Draw adorable pint-sized characters step by step! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
+| 🧑‍🎨  | [Character Quest: Create Characters For Personal Projects](https://doncorgi.gumroad.com/l/characterquest/DANDEAL) | Use this repeatable, easy-to-follow blueprint to create all the characters you want! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
+
+
+
 ### Books
 |     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
 | --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
