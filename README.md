@@ -379,7 +379,6 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🧑‍🎨  | [Character Quest: Create Characters For Personal Projects](https://doncorgi.gumroad.com/l/characterquest/DANDEAL) | Use this repeatable, easy-to-follow blueprint to create all the characters you want! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
 
 
-
 ### Books
 |     | Name                                                                                                                              | Description                                                                                               | Discount Code & Terms               |
 | --- | --------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------- |
