@@ -181,6 +181,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍🚀 | [Loomos](https://loomos.co/login) | Create Stunning Training Videos In Minutes. | 50% OFF till BLACKFRIDAY |
 | 📽️ | [FaceScreen](https://apps.apple.com/app/id6702028512) | Put your face and name on top of your screen. Great for making engaging content. | 50% OFF on the App Store, no code needed. |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
+| 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 
 ### Social
 | | Name | Description | Deal |
@@ -289,6 +290,7 @@ It's free & open-source. Enjoy! 🚀
 | 👀 | [Link Building Software](https://linkdr.com) | Build backlinks on auto pilot with LinkDR | 10% OFF with code **BF24** |
 | 📈 | [Refined Directories](https://refined.so/tools/seo-directories) | Kickstart your project's SEO by submitting to all relevant directories. Increase your DR and backlinks to rank higher on search engines and get your first customers. | 30% OFF with code **BF30** |
 | 🚀 | [Boringlaunch](https://www.boringlaunch.com) | Submit Your Startup To 100+ Platforms To Boost Your SEO & Sales | 30% OFF with code **BLACKFRIDAY2024** |
+| 🔗 | [DA 59 backlinks](https://worldclass.domains/) | Create your profile page and showcase all your projects with DA 59 backlinks | $30/yr(56% OFF) with code **BFLIFETIME** for lifetime |
 
 ### Tools
 | | Name | Description | Deal |
