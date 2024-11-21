@@ -79,6 +79,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⌛   | [Crontap](https://crontap.com/)               | Schedule recurring API calls without the hassle.                                                                                 | **40% off** with discount code **BF2024** |
 | ⭐   | [Bannerify](https://bannerify.co)                            | API for Automated Image. Scale your marketing with fastest image generation service                                                                             | 40% OFF on All plans with code **BF2024**                            |
 | ♿️ | [A11Y Boost Reports](https://a11yboost.com/reports) | Instant accessibility reports and expert guidance for your website. | **50% off** until 30/11 no code needed. |
+| 📸 | [Siteshot Pro](https://www.siteshot.pro) | An API for developers to capture automated, high-quality website screenshots. | **20% off** on Premium plans for 1 year with code **BLACK20** |
 
 ### Browser Extensions
 |     | Name                                          | Description                                                                                                                      | Discount Code & Terms                     |
