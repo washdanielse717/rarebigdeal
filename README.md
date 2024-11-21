@@ -353,6 +353,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | --- | ---------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- |
 | 🤑   | [Tailkit](https://tailkit.com)     | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited no. of licenses **BLACKFRIDAY2024** |
 | ⚡   | [NextReady](https://nextready.dev) | Ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc.                                      | 63% OFF with code **BF2024**                                    |
+| 🚚   | [Saas UI](https://saas-ui.dev) | React toolkit for building beautiful SaaS products. Design system, component library, Next.js starterkit, TypeScript, Chakra UI, Stripe and more.                                     | 30% OFF with code **BLACKFRIDAY30**                                    |
 
 
 ## Learning
