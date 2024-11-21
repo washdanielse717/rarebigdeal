@@ -784,6 +784,7 @@ module.exports = {
       tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Video Tools'],
     },
     devutils: {
+      ogImage: '/public/static/images/overrides/devutils/ogimage.png',
       tags: ['Developer', 'Tools', 'macOS', 'Developer Tools', 'Productivity'],
     },
     branding5: {
