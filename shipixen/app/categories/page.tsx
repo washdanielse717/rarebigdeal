@@ -23,12 +23,14 @@ export default function CategoryPage({
     () =>
       posts.reduce(
         (acc, post) => {
-          const { category } = post;
-          if (category) {
-            if (!acc[category]) {
-              acc[category] = [];
-            }
-            acc[category].push(post);
+          const { categories: postCategories } = post;
+          if (postCategories) {
+            postCategories.forEach((category) => {
+              if (!acc[category]) {
+                acc[category] = [];
+              }
+              acc[category].push(post);
+            });
           }
           return acc;
         },

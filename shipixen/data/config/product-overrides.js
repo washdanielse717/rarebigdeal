@@ -50,6 +50,7 @@ module.exports = {
       ],
     },
     'tim-time-tracker': {
+      logo: '/public/static/images/overrides/tim-time-tracker/logo.png',
       tags: [
         'Time Tracking',
         'macOS',
@@ -576,6 +577,113 @@ module.exports = {
         'Graphics',
         'Productivity',
       ],
+    },
+    typingmind: {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+        'Chat UI',
+        'Todo Apps',
+        'Notes',
+        'Writing',
+      ],
+    },
+    macaw: {
+      tags: [
+        'AI',
+        'Content Creation',
+        'SEO',
+        'Optimization',
+        'Marketing',
+        'Developer Tools',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+      ],
+    },
+    'a11y-boost-reports': {
+      tags: [
+        'Accessibility',
+        'Developer Tools',
+        'Web Development',
+        'Productivity',
+        'Efficiency',
+        'Tools',
+      ],
+    },
+    zexanext: {
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'React',
+        'Next.js',
+        'SaaS',
+        'Productivity',
+      ],
+    },
+    'wifi-money-bundle': {
+      metaDescription:
+        'Get all my guides in one single package: Wifi Money Bible: My complete guide on starting, growing and automating an online business',
+      tags: ['Learning', 'Books', 'Marketing', 'Business'],
+    },
+    taprefer: {
+      tags: ['Marketing', 'Affiliate Marketing', 'Promotion'],
+    },
+    stacks: {
+      tags: [
+        'AI',
+        'Machine Learning',
+        'Automation',
+        'AI Tools',
+        'Productivity',
+      ],
+    },
+    'sortpin-com': {
+      tags: ['Marketing', 'Social', 'Pinterest', 'Tools'],
+    },
+    launchfast: {
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'SvelteKit',
+        'SaaS',
+        'SEO',
+        'Productivity',
+      ],
+    },
+    'build-production-grade-web-apps-with-golang': {
+      tags: ['Learning', 'Courses', 'Golang', 'Programming', 'Web Development'],
+    },
+    ghostfolio: {
+      tags: ['Finance', 'Books', 'Wealth Management', 'Open Source'],
+    },
+    directoryfast: {
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'React',
+        'Next.js',
+        'Directories',
+        'Productivity',
+      ],
+    },
+    deskrest: {
+      tags: [
+        'Developer',
+        'Tools',
+        'macOS',
+        'Health',
+        'Fitness',
+        'Wellness',
+        'Productivity',
+      ],
+    },
+    chatwith: {
+      tags: ['Developer', 'Tools', 'macOS', 'AI', 'Chatbots', 'Productivity'],
     },
   },
 };

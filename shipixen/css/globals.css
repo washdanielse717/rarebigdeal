@@ -420,3 +420,8 @@ input:-webkit-autofill:focus {
   background-color: var(--primary-darker);
   color: white;
 }
+
+.no-scrollbar {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}

@@ -15,9 +15,12 @@ const categoryTags = {
   'Health and Fitness': ['Health', 'Fitness', 'Wellness'],
 };
 
-function applyCategoryOverrides(category, productName) {
+function applyCategoryOverrides(categories, productName) {
   const overrideTags = overrides[productName]?.tags || [];
-  const categoryTagsList = categoryTags[category] || [];
+  const categoryTagsList = (categories || []).reduce((acc, category) => {
+    const tags = categoryTags[category] || [];
+    return acc.concat(tags);
+  }, []);
   return [...new Set([...overrideTags, ...categoryTagsList])];
 }
 
@@ -33,6 +36,8 @@ function applyMetaOverrides(productName, app) {
     category: productOverrides.category || app.category,
     subcategory: productOverrides.subcategory || app.subcategory,
     tags: productOverrides.tags || app.tags,
+    categories: productOverrides.categories || app.categories,
+    subcategories: productOverrides.subcategories || app.subcategories,
   };
 }
 

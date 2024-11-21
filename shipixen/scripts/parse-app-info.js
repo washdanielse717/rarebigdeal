@@ -145,6 +145,8 @@ async function fetchAssets(app) {
       app.images = [`/static/images/product/${productName}/og-image.png`];
       console.log(`Copied override ogImage for ${productName} ${app.images}`);
     }
+    app.categories = override.categories || app.categories;
+    app.subcategories = override.subcategories || app.subcategories;
   }
 
   if (!override || !override.logo || !override.ogImage) {

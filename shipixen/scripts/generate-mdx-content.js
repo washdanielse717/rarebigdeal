@@ -8,7 +8,7 @@ const fs = require('fs');
 const path = require('path');
 
 async function generateMDXContent(app) {
-  const tags = applyCategoryOverrides(app.category, sanitizeName(app.name));
+  const tags = applyCategoryOverrides(app.categories, sanitizeName(app.name));
   const { description, metaDescription, metaTitle, website, deal } =
     applyMetaOverrides(sanitizeName(app.name), app);
 
@@ -33,10 +33,14 @@ ${tags.map((tag) => `  - ${tag}`).join('\n')}
 
   mdxContent += `summary: >
   ${description?.trim()}
-category: ${app.category}
+categories:
+${(app.categories || []).map((category) => `  - ${category}`).join('\n')}
+subcategories:
+${(app.subcategories || [])
+  .map((subcategory) => `  - ${subcategory}`)
+  .join('\n')}
 deal: >
   ${deal?.trim()}
-subcategory: ${app.subcategory}
 website: ${website}
 layout: ProductLayout
 `;

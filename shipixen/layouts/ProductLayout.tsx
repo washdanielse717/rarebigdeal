@@ -1,6 +1,6 @@
 import { cn } from '@/lib/utils';
 import { ReactNode } from 'react';
-import { slug as githubSlugger } from 'github-slugger';
+import { slug as githubSlugger, slug as slugify } from 'github-slugger';
 import { ExternalLinkIcon } from 'lucide-react';
 import {
   CoreContent,
@@ -39,7 +39,17 @@ export default function PostLayout({
   authorDetails,
   children,
 }: LayoutProps) {
-  const { path, slug, date, title, tags, logo, website, category } = content;
+  const {
+    path,
+    slug,
+    date,
+    title,
+    tags,
+    logo,
+    website,
+    categories,
+    subcategories,
+  } = content;
   const firstImage = content.images?.[0];
   const tintColor = hashStringToColor(title);
   const fallbackImage = '/static/images/logo.png';
@@ -48,17 +58,21 @@ export default function PostLayout({
 
   const getRecommendedProducts = () => {
     const sameCategoryProducts = allProducts.filter(
-      (product) => product.category === category && product.slug !== slug,
+      (product) =>
+        product.slug !== slug &&
+        product.categories &&
+        product.categories.some((cat) => categories?.includes(cat)),
     );
     const otherProducts = allProducts.filter(
-      (product) => product.category !== category && product.slug !== slug,
+      (product) =>
+        product.slug !== slug &&
+        (!product.categories ||
+          !product.categories.some((cat) => categories?.includes(cat))),
     );
-
     const recommendations = [
       ...sameCategoryProducts.slice(0, 5),
       ...otherProducts.slice(0, 5),
     ];
-
     return recommendations;
   };
 
@@ -157,8 +171,23 @@ export default function PostLayout({
             </div>
           </div>
 
+          {(categories || subcategories) && (
+            <div className="-mt-4 flex flex-wrap gap-4 lg:justify-end">
+              {categories &&
+                categories.map((category) => (
+                  <Link
+                    key={category}
+                    href={`/categories/${slugify(category)}`}
+                    className="px-3 py-2 text-sm font-medium text-white dark:text-black bg-primary-500 hover:bg-primary-700 dark:hover:bg-primary-400"
+                  >
+                    {category}
+                  </Link>
+                ))}
+            </div>
+          )}
+
           <section>
-            <div className="divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
+            <div className="mt-6 divide-gray-200 text-sm font-medium leading-5 dark:divide-gray-700 xl:col-start-1 xl:row-start-2 xl:divide-y">
               {tags && (
                 <div className="py-4 xl:py-8">
                   <h2 className="text-xs uppercase tracking-wide text-gray-500 dark:text-gray-400">
@@ -196,14 +225,15 @@ export default function PostLayout({
               </div>
 
               <div className="flex gap-4 pt-4 xl:pt-8">
-                <Link
-                  href={'/categories/' + githubSlugger(category)}
-                  className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
-                  aria-label={`More ${category} Deals`}
-                >
-                  More deals in {category} ✨
-                </Link>
-
+                {categories && categories.length > 0 && (
+                  <Link
+                    href={'/categories/' + slugify(categories[0])}
+                    className="text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
+                    aria-label={`More ${categories[0]} Deals`}
+                  >
+                    More deals in {categories[0]} ✨
+                  </Link>
+                )}
                 <Link
                   href={siteConfig.allArticlesPath}
                   className="ml-auto text-primary-500 hover:text-primary-600 dark:hover:text-primary-400"
@@ -212,6 +242,39 @@ export default function PostLayout({
                   All Deals &rarr;
                 </Link>
               </div>
+            </div>
+          </section>
+
+          <section>
+            <p className="mt-8 text-sm font-medium leading-5 text-gray-500 dark:text-gray-400">
+              This product was categorized under
+            </p>
+            <div className="mt-2 flex flex-wrap gap-4">
+              {categories &&
+                categories.map((category) => (
+                  <Link
+                    key={category}
+                    href={`/categories/${slugify(category)}`}
+                    className="px-3 py-2 text-sm font-medium text-white dark:text-black bg-primary-500 hover:bg-primary-700 dark:hover:bg-primary-400"
+                  >
+                    {category}
+                  </Link>
+                ))}
+            </div>
+
+            <p className="mt-8 text-sm font-medium leading-5 text-gray-500 dark:text-gray-400">
+              And under the following subcategories
+            </p>
+            <div className="mt-2 flex flex-wrap gap-4">
+              {subcategories &&
+                subcategories.map((subcategory) => (
+                  <span
+                    key={subcategory}
+                    className="px-3 py-2 text-sm font-medium text-white dark:text-black bg-primary-500 grayscale"
+                  >
+                    {subcategory}
+                  </span>
+                ))}
             </div>
           </section>
 
