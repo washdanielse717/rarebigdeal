@@ -322,6 +322,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |     | Name                                           | Description                                                                                     | Discount Code & Terms                            |
 | --- | ---------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------ |
 | ⭐   | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
+| 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
 
 ### Laravel
 |     | Name                             | Description                 | Discount Code & Terms                                                                       |
