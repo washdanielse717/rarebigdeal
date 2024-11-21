@@ -264,12 +264,13 @@ export default function Home() {
           description="Discover what our happy customers have to say about their experience with our AI app:"
           testimonialItems={[
             {
-              name: 'John Smith',
-              text: 'A person of the people!',
-              handle: '@CranQnow',
-              imageSrc: '/static/images/people/17.jpg',
-              url: 'https://x.com/CranQnow/status/1859549466879025423',
+              name: 'Csaba Kissi',
+              text: 'Nice work!',
+              handle: '@csaba.bsky.social',
+              imageSrc: '/static/images/people/22.jpg',
+              url: 'https://bsky.app/profile/csaba.bsky.social/post/3lbfwvsk4us2c',
             },
+
             {
               name: 'AP',
               text: 'Great work 💪',
@@ -301,10 +302,18 @@ export default function Home() {
               url: 'https://www.reddit.com/r/SaaS/comments/1gucxgx/comment/lxw0vk5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button',
             },
             {
-              name: 'Sam',
-              text: 'Extremely satisfied with the Black Friday savings.',
-              handle: '@sam',
-              imageSrc: 'https://picsum.photos/100/100.webp?random=3',
+              name: 'Isaac',
+              text: '[...] the site is awesome [...]',
+              handle: '@IMadeAGlitch',
+              imageSrc: '/static/images/people/21.jpg',
+              url: 'https://x.com/IMadeAGlitch/status/1858975664025817236',
+            },
+            {
+              name: 'CranQ',
+              text: 'A person of the people!',
+              handle: '@CranQnow',
+              imageSrc: '/static/images/people/17.jpg',
+              url: 'https://x.com/CranQnow/status/1859549466879025423',
             },
           ]}
           withBackgroundGlow

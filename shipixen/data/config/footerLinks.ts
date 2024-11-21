@@ -11,7 +11,6 @@ export const footerLinks: Array<{
       { href: '/', title: 'Home' },
       { href: '/categories', title: 'All Categories' },
       { href: '/all-deals', title: 'All Deals' },
-      { href: '/all-deals', title: 'Blog' },
     ],
   },
   {

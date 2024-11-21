@@ -126,7 +126,10 @@ export function PostItem({
                 'flex-col flex gap-1 items-center text-[0.7rem] sm:text-xs p-2 min-w-[40px]',
               )}
             >
-              <ReactMarkdown className="text-gray-900 dark:text-gray-100">
+              <ReactMarkdown
+                className="text-gray-900 dark:text-gray-100"
+                disallowedElements={['a']}
+              >
                 {deal}
               </ReactMarkdown>
             </span>

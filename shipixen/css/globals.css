@@ -249,7 +249,7 @@
   }
 
   /**
-   * Fancy Text
+   * Text
    */
   .fancy-text-black {
     @apply bg-clip-text bg-gradient-to-r text-transparent from-black to-neutral-500;
@@ -268,7 +268,31 @@
   }
 
   .fancy-text-purple {
-    @apply bg-clip-text bg-gradient-to-r text-transparent from-purple-500 to-fuchsia-800 dark:from-purple-400 dark:to-fuchsia-600;
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-purple-500 to-fuchsia-800;
+  }
+
+  @keyframes fancyTextAnimation {
+    0% {
+      background-position: 100% 50%;
+    }
+    50% {
+      background-position: 0% 50%;
+    }
+    100% {
+      background-position: 100% 50%;
+    }
+  }
+
+  .animated-fancy-text {
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-pink-500 via-amber-500 to-sky-600;
+    background-size: 300% 100%;
+    animation: fancyTextAnimation 7s ease infinite;
+  }
+
+  .animated-fancy-text:hover {
+    @apply bg-clip-text bg-gradient-to-r text-transparent from-amber-500 to-fuchsia-800;
+
+    animation: fancyTextAnimation 14s ease infinite reverse;
   }
 
   /**
