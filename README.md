@@ -127,6 +127,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🤖   | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing                                                                                                         | 50% off with code **BLACKFRIDAY50**                                  |
 
 | 🔖 | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine | 60% off with code **BLACKFRIDAY60** |
+| 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 
 ### Other
 
@@ -135,6 +136,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [Verbatik AI](https://verbatik.com)                  | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak                       | 40% OFF on All plans with code **BFCM2024**          |
 | 🤖   | [MindPal](https://mindpal.io)                        | Build AI agents & multi-agent workflows to automate business processes.                               | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
 | 🧑‍🚀   | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal)  | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks.                                                       | 42% OFF with code **BLACKFRIDAY2024**                            |
+| 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 
 
 ## Design Tools
@@ -195,7 +197,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ⭐   | [ReadReviews](https://readreviews.dev/)               | A handy tool to read yours and your competitor App Store reviews and analyze them with AI.                                                                         | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal                     |
 | 🤖   | [cyberBots](https://bots.cyberesia.com)               | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed            |
 | 🔄   | [FeedbackGlow](https://feedbackglow.com)              | A Customer Feedback Management Software.                                                                                                                           | 40% off with code **BF2024** on 3 months subscriptions.                       |
-
+| 📊   | [Branding5](https://feedbackglow.com)              | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy                                                                                                                           | 50% off with code **BLACK50** on all products                   |
 
 ### Other
 |     | Name                          | Description                                                                                      | Discount Code & Terms |
