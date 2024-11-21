@@ -32,6 +32,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
   - [Email Marketing](#email-marketing)
   - [Content Creation](#content-creation)
   - [Affiliate Marketing](#affiliate-marketing)
+  - [Analytics](#analytics)
   - [Other](#other-2)
 - [SEO Tools](#seo-tools)
   - [Backlinks](#backlinks)
@@ -46,6 +47,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
   - [Laravel](#laravel)
   - [Astro](#astro)
   - [SvelteKit](#sveltekit)
+  - [Nuxt](#nuxt)
   - [Chrome Extensions](#chrome-extensions)
   - [Libraries](#libraries)
 - [Learning](#learning)
@@ -54,6 +56,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 - [Health and Fitness](#health-and-fitness)
 - [Finance](#finance)
 - [Miscellaneous](#miscellaneous)
+- [Mailing Lists, Newsletters \& Blogs](#mailing-lists-newsletters--blogs)
 
 ## Developer Tools
 ### macOS Apps
@@ -237,6 +240,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | ✨ | [SortPin.com](https://sortpin.com) | SortPin for Pinterest is the ultimate tool for Pinterest lovers. Unlock hidden pin data, discover viral pins, filter ads effortlessly, find relevant boards, and download images and videos easily. Step up your Pinterest game with SortPin. | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 | 👑   | [Creatorscrown - Creators Hub](https://creatorscrown.com)    | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work.                                                 | 100% off with code **CREATORSCROWN2024**                             |
 | ⭐   | [Redreach](https://redreach.ai)                                 | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales.                       | 30% OFF with code **BLACKFRIDAY24**                    |
+| 🔗 | [Nuelink](https://nuelink.com/) | Nuelink is a social media management and automation tool designed for a wide range of professionals including but not limited to agencies, e-commerce brands, podcasters, creators, and agencies. Manage, schedule, analyze, and automate on 12+ platforms such as Instagram, TikTok, and Pinterest. | [50% OFF on all yearly plans](https://nuelink.com/pricing) (Nov 5 - Dec 9) |
 
 ### Email Marketing
 |     | Name                                                        | Description                                                                                                                                                                     | Discount Code & Terms                                            |
@@ -312,6 +316,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 🏆 | [ZexaNext](https://next.zexa.app/) | All in one Next.js boilerplate with all you need to build and launch your next SaaS product. Get it for just 39$ (limited time offer). | **70% OFF** for first 50 customers |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | ⚡   | [DirectoryFast](https://directoryfa.st?via=rarebigdeal)                       | Launch Trending Directories in Minutes                                                                                                                   | **50% OFF** with code **BLACKFRIDAY50**                                                           |
+| 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 
 ### iOS
 |     | Name                                      | Description                                                                             | Discount Code & Terms                 |
@@ -343,11 +348,17 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |     | Name                             | Description                 | Discount Code & Terms                                                                       |
 | --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
+| 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 
 ### SvelteKit
 |     | Name                             | Description                 | Discount Code & Terms                                                                       |
 | --- | -------------------------------- | --------------------------- | ------------------------------------------------------------------------------------------- |
 | 🚀   | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
+
+### Nuxt
+|     | Name                                                 | Description                                                               | Discount Code & Terms                  |
+| --- | ---------------------------------------------------- | ------------------------------------------------------------------------- | -------------------------------------- |
+| 🚀   | [supastarter for Nuxt](https://supastarter.dev/nuxt) | The ultimate Nuxt starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 
 ### Chrome Extensions
 |     | Name                                                                                                          | Description                                                                                                                 | Discount Code & Terms                                    |
@@ -410,5 +421,16 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 |  📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
 |  💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
 |  🎲 | [Game Design Checklist](https://gamedesignchecklist.com) | Game design document templates, game studio dashboard templates for Notion. | 50% OFF with code **BF2024** |
+| 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
+| 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
+| 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML  | 60% OFF with code **60OFF50** |
+
+## Mailing Lists, Newsletters & Blogs
+|     | Name                                       | Description                                                                                                                                                 | Discount Code & Terms                                              |
+| --- | ------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| 🗃️   | [findmassleads](https://findmassleads.com) | Download thousands of good leads from a database of 90,983,688 websites and get tons of potential customers... | 70% OFF with code **BLACKFRIDAY2024** |
+| 💰 | [HoneyPot Newsletters Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters - including details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF with code **50BEEHIIV** |
+| 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
+| 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
 
 [⬆️ Go to Top](#table-of-contents)
