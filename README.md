@@ -72,6 +72,8 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 💰   | [Tim Time Tracker](https://tim.neat.software)              | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO**       |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 💻   | [Aptakube](https://aptakube.com)              | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux.  |  30% OFF with code **BLACKFRIDAY2024** |
+| 💻  | [Voice Type-Dictation Tool](https://carelesswhisper.app)              | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Voice types technical terms really fast and accurate. ++ if you suffer from RSI, wrist or neck pain from extended desk work. One time purchase since it runs locally. |  50% OFF till Nov-30 |
+| 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. Can also live transcribe without the need of an internet connection. |  50% OFF **BFS2024** |
 
 ### APIs, Tools & SaaS
 |     | Name                                          | Description                                                                                                                      | Discount Code & Terms                     |
@@ -100,6 +102,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 | 💸   | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary!                                                                                                                                                                                                                   | 30% OFF with code **BLACKFRIDAY30**  |
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 | 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
+| 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030)              | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. Can also live transcribe without the need of an internet connection. |  50% OFF **BFS2024** |
 
 ## AI Tools
 ### Chat UI
