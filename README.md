@@ -48,6 +48,7 @@ It's free & open-source. Enjoy! 🚀
   - [Rails](#rails)
   - [Laravel](#laravel)
   - [Astro](#astro)
+  - [Remix](#remix)
   - [SvelteKit](#sveltekit)
   - [Nuxt](#nuxt)
   - [Chrome Extensions](#chrome-extensions)
@@ -322,6 +323,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | ⚡ | [DirectoryFast](https://directoryfa.st?via=rarebigdeal) | Launch Trending Directories in Minutes | **50% OFF** with code **BLACKFRIDAY50** |
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+| 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**  |
 
 ### iOS
 | | Name | Description | Deal |
@@ -354,6 +356,11 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🚀 | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+
+### Remix
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK** |
 
 ### SvelteKit
 | | Name | Description | Deal |
