@@ -840,5 +840,62 @@ module.exports = {
         'Developer Assessment',
       ],
     },
+    'character-quest-create-characters-for-personal-projects': {
+      tags: [
+        'Learning',
+        'Art Courses',
+        'Character Design',
+        'Drawing',
+        'Creativity',
+      ],
+    },
+    'complete-character-design-course-create-your-dream-character': {
+      tags: [
+        'Learning',
+        'Art Courses',
+        'Character Design',
+        'Drawing',
+        'Creativity',
+      ],
+    },
+    'complete-chibi-drawing-course-draw-adorable-characters-': {
+      tags: [
+        'Learning',
+        'Art Courses',
+        'Chibi Drawing',
+        'Drawing',
+        'Creativity',
+      ],
+    },
+    'complete-figure-drawing-course-create-dynamic-characters': {
+      tags: [
+        'Learning',
+        'Art Courses',
+        'Figure Drawing',
+        'Drawing',
+        'Creativity',
+      ],
+    },
+    'supastarter-for-nuxt': {
+      metaTitle: 'Supastarter - SaaS starter kit for Nuxt',
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'Nuxt',
+        'SaaS',
+        'Productivity',
+      ],
+    },
+    'supastarter-for-next-js': {
+      metaTitle: 'Supastarter - SaaS starter kit for Next.js',
+      tags: [
+        'Boilerplates',
+        'Starters & Libraries',
+        'Next.js',
+        'React',
+        'SaaS',
+        'Productivity',
+      ],
+    },
   },
 };
