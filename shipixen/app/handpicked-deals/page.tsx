@@ -63,7 +63,7 @@ export default async function AllBundles() {
         withBackground
         className="relative"
       >
-        <div className="flex gap-2">
+        <div className="flex flex-wrap justify-center gap-2">
           <Button size="xl" variant="primary" asChild>
             <Link href="/handpicked-deals">Best Deals</Link>
           </Button>

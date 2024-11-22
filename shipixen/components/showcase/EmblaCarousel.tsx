@@ -193,7 +193,7 @@ const EmblaCarousel: React.FC<PropType> = ({
       </div>
 
       {/* Navigation buttons */}
-      <div className="absolute z-10 w-full h-full pointer-events-none flex items-center justify-between">
+      <div className="hidden md:flex absolute z-10 w-full h-full pointer-events-none items-center justify-between">
         <Button
           onClick={onPrevButtonClick}
           disabled={prevBtnDisabled}

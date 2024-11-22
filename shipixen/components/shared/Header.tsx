@@ -13,7 +13,7 @@ const Header = ({ className }: { className?: string }) => {
   return (
     <header
       className={cn(
-        'flex items-center gap-10 py-10 flex-wrap w-full mb-20 lg:mb-32 pt-6 p-6 max-w-full container-wide',
+        'flex items-center gap-4 sm:gap-6 md:gap-10 py-10 flex-wrap w-full mb-20 lg:mb-32 pt-6 p-6 max-w-full container-wide',
         className,
       )}
     >
@@ -25,10 +25,10 @@ const Header = ({ className }: { className?: string }) => {
               alt="Rare Big Deal logo"
               height={54}
               width={54}
-              className="group-hover:animate-wiggle w-10 h-10 md:w-14 md:h-14"
+              className="group-hover:animate-wiggle w-8 h-8 sm:w-10 sm:h-10 md:w-14 md:h-14"
             />
 
-            <div className="text-md sm:text-xl font-semibold h-full">
+            <div className="text-xs sm:text-xl font-semibold h-full">
               Rare Big Deal
             </div>
           </div>
@@ -58,9 +58,13 @@ const Header = ({ className }: { className?: string }) => {
           Made with Shipixen in hours
         </a>
 
-        <a href="https://github.com/danmindru/rare-big-deal">
-          <GithubIcon size={24} />
+        <a
+          className="hidden sm:flex"
+          href="https://github.com/danmindru/rare-big-deal"
+        >
+          <GithubIcon size={24} className="w-4 h-4 md:w-6 md:h-6" />
         </a>
+
         <SearchButton />
         <ThemeSwitch />
         <MobileNav />
