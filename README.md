@@ -291,6 +291,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 💳 | [Carrd](https://carrd.co?ref=rarebigdeal) | Simple, free, fully responsive one-page sites for pretty much anything. | 40% off all Carrd Pro plans using BF2024 |
+| 🍍  | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout. |
 
 ### Other
 | | Name | Description | Deal |
