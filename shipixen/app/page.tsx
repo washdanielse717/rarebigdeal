@@ -122,7 +122,7 @@ export default function Home() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      <Showcase bundle={macApps} />
+      <Showcase className="mt-4" bundle={macApps} />
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
         <HomeList />

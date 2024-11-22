@@ -72,7 +72,13 @@
   margin: auto;
   --slide-height: 19rem;
   --slide-spacing: 1rem;
-  --slide-size: 70%;
+  --slide-size: 98%;
+}
+
+@media (min-width: theme('screens.sm')) {
+  .embla {
+    --slide-size: 80%;
+  }
 }
 
 .embla__container {

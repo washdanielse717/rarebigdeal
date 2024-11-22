@@ -132,7 +132,7 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
                   height={1600}
                   src={app.images[0]}
                   alt={app.title}
-                  className="w-full h-auto rounded-xl"
+                  className="w-full h-auto rounded-xl aspect-video"
                 />
 
                 <div className="flex flex-col items-center justify-center -mt-8">
@@ -197,7 +197,7 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
       </div>
 
       {/* Additional markup such as progress indicators */}
-      <div className="absolute w-full -top-12 flex gap-2 items-center justify-end p-2">
+      <div className="absolute w-full -top-24 flex gap-2 items-center justify-end p-2">
         <div className="flex gap-1 items-end flex-col">
           <Button
             variant="ghost"
