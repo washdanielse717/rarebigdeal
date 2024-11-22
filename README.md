@@ -143,6 +143,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🔖 | [Stacks](https://betterstacks.com) | Your unified content workspace and personal search engine | 60% off with code **BLACKFRIDAY60** |
 | 🖌️ | [FragDasPDF](https://www.fragdaspdf.de) | Chat directly with your PDFs, conduct AI-powered literature research across over 200 million scientific articles, and write texts efficiently with our smart AI editor — all in one tool. | 50% off with code **BLACK50** on all plans |
+| 🐰 | [CodeRabbit](https://coderabbit.ai) | AI-powered code review bot providing detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. | Free for open-source projects. Use code **BLACKFRIDAY** for 1 month free on the pro version. [Learn more](https://www.coderabbit.ai/pricing) |
 
 ### Other
 | | Name | Description | Deal |
