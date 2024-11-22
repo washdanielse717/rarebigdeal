@@ -37,8 +37,8 @@ const avatars = [
 const loadBundles = () => {
   return Promise.all(
     picksIndex.map(async (bundleName) => {
-      const module = await import(`@/data/picks/${bundleName}`);
-      return module.default;
+      const m = await import(`@/data/picks/${bundleName}`);
+      return m.default;
     }),
   );
 };
