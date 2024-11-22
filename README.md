@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-147+ awesome deals inside 🔥
+155+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -35,6 +35,7 @@ It's free & open-source. Enjoy! 🚀
   - [Content Creation](#content-creation)
   - [Affiliate Marketing](#affiliate-marketing)
   - [Analytics](#analytics)
+  - [Website Builders](#website-builders)
   - [Other](#other-2)
 - [SEO Tools](#seo-tools)
   - [Backlinks](#backlinks)
@@ -276,6 +277,11 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 📊 | [Branding5](https://feedbackglow.com) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
+
+### Website Builders
+| | Name | Description | Deal |
+| - | - | - | - |
+| 💳 | [Carrd](https://carrd.com?ref=rarebigdeal) | Simple, free, fully responsive one-page sites for pretty much anything. | 40% off all Carrd Pro plans using BF2024 |
 
 ### Other
 | | Name | Description | Deal |

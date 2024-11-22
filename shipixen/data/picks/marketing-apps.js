@@ -5,6 +5,7 @@ module.exports = {
     'Branding5',
     'Link Building Software',
     'BlogToPin',
+    'Carrd',
     'Shootmail',
     'Nuelink',
     'PostFlow',

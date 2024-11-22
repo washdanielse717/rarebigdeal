@@ -65,23 +65,23 @@ export default function CategoryPage({
       <div className="flex flex-col gap-4 w-full">
         {slug(params.category) ===
         slug('Boilerplates, Starters & Libraries') ? (
-          <Showcase className="mt-4" bundle={shipApps} />
+          <Showcase bundle={shipApps} />
         ) : null}
 
         {slug(params.category) === slug('Learning') ? (
-          <Showcase className="mt-4" bundle={nicheApps} />
+          <Showcase bundle={nicheApps} />
         ) : null}
 
         {slug(params.category) === slug('Marketing') ? (
-          <Showcase className="mt-4" bundle={marketingApps} />
+          <Showcase bundle={marketingApps} />
         ) : null}
 
         {slug(params.category) === slug('Developer Tools') ? (
-          <Showcase className="mt-4" bundle={developerTools} />
+          <Showcase bundle={developerTools} />
         ) : null}
 
         {slug(params.category) === slug('AI Tools') ? (
-          <Showcase className="mt-4" bundle={aiApps} />
+          <Showcase bundle={aiApps} />
         ) : null}
 
         <CategorySection
