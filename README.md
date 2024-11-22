@@ -371,6 +371,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🚀 | [supastarter for Nuxt](https://supastarter.dev/nuxt) | The ultimate Nuxt starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+| 🚀 | [Nuxt SaaS Kit](https://nuxtsaaskit.com) | The complete Nuxt starter kit to build a robust and market-ready SaaS | **Get it for just $69** - Apply code **IZNDE5NQ** at checkout! |
 
 ### Chrome Extensions
 | | Name | Description | Deal |
