@@ -357,7 +357,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 | ⭐ | [SEO Gets](https://seogets.com) | Dashboard for your SEO Analytics. Turn your Google Search Console data into organic growth. All your sites under one dashboard, multiple GSC accounts, and reports/insights based on your GSC data | 30% OFF with code **BFCM2024** |
 | ⭐ | [BlitzBear](https://blitzbear.com) | Rank higher the easy way. BlitzBear is SEO software that refreshes your existing content to move you up in Google. Our AI analyzes your articles against SERP competitors, identifies opportunities, and makes intelligent suggestions. | 30% OFF using **[this link](https://app.blitzbear.com/signup?promo=ESXHzhUN)** |
-📈 | [Keyword.com](https://keyword.com/) | Keyword.com is a best-in-class Google keyword rank tracking solution. It provides everything you need to track, pinpoint and validate your SEO efforts to get to the 1st position in the SERPs. | 20% OFF for 12-months with code **BLACKFRIDAY2024** |
+| 📈 | [Keyword.com](https://keyword.com/) | Keyword.com is a best-in-class Google keyword rank tracking solution. It provides everything you need to track, pinpoint and validate your SEO efforts to get to the 1st position in the SERPs. | 20% OFF for 12-months with code **BLACKFRIDAY2024** |
 | 🤖 | [IndexRusher](https://johnrush.me/black-friday-deals/?ref=rare) | Auto Indexing. Get indexed by Google in hours | 50% off on [indexrusher.com](https://indexrusher.com/?ref=rare) |
 
 ### Analyze & Audit
