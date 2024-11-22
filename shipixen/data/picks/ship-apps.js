@@ -12,5 +12,7 @@ module.exports = {
     'IllustraAI',
     'Carrd',
     'Verbatik AI',
+    'Saas UI',
+    'supastarter for Next.js',
   ],
 };

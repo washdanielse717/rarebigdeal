@@ -779,6 +779,7 @@ module.exports = {
       tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Video Tools'],
     },
     facescreen: {
+      image: '/public/static/images/overrides/facescreen/image.png',
       metaDescription:
         'FaceScreen is a mac menu bar app that allows you to show a highly customizable live camera feed and text on your screen on top of everything else.',
       tags: ['Design', 'Graphics', 'Marketing', 'Design Tools', 'Video Tools'],

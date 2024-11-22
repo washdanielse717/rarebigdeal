@@ -57,6 +57,7 @@ It's free & open-source. Enjoy! 🚀
 - [Learning](#learning)
   - [Courses](#courses)
   - [Art Courses](#art-courses)
+  - [SEO](#seo)
   - [Books](#books)
 - [Health and Fitness](#health-and-fitness)
 - [Finance](#finance)
@@ -417,6 +418,9 @@ It's free & open-source. Enjoy! 🚀
 | 🕺 | [Complete Character Design Course](https://doncorgi.gumroad.com/l/character-design-course/DANDEAL) | Design your own Characters from scratch with easy-to-follow content! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
 | 🥰 | [Complete Chibi Drawing Course](https://doncorgi.gumroad.com/l/chibi-drawing/DANDEAL) | Draw adorable pint-sized characters step by step! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
 | 🧑‍🎨 | [Character Quest](https://doncorgi.gumroad.com/l/characterquest/DANDEAL) | Use this repeatable, easy-to-follow blueprint to create all the characters you want! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
+
+### SEO
+| 👾 | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend) | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive** |
 
 ### Books
 | | Name | Description | Deal |
