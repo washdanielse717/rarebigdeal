@@ -61,6 +61,7 @@ It's free & open-source. Enjoy! 🚀
 - [Finance](#finance)
 - [Miscellaneous](#miscellaneous)
 - [Mailing Lists, Newsletters \& Blogs](#mailing-lists-newsletters--blogs)
+- [Productized Services](#productized-services)
 
 ## Developer Tools
 ### macOS Apps
@@ -447,5 +448,12 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [HoneyPot Newsletters Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters - including details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF with code **50BEEHIIV** |
 | 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
 | 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
+
+[⬆️ All categories](#table-of-contents)
+
+## Productized Services
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🎨 | [A83 Design](https://a83.net) | A83 is a remote & asynchronous design studio that helps founders & teams deliver design faster & more effective. | 25% OFF with code **BF2024** |
 
 [⬆️ All categories](#table-of-contents)
