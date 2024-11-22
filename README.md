@@ -398,6 +398,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🖥️ | [SwiftyLaunch](https://www.swiftylaun.ch) | SwiftyLaunch is a full-fledged Xcode Project Generator. Trusted by 150+ iOS developers. | 40% OFF with code **BLACKFRIDAY2024** |
+| 🚀 | [ShipThatApp](https://www.shipthat.app) | ShipThatApp helps indie developers launch SwiftUI apps faster with secure AI integration. Save 50+ hours with ready-to-use components | 35% OFF with code **BLACKFRIDAY24** |
 
 ### Flutter
 | | Name | Description | Deal |
