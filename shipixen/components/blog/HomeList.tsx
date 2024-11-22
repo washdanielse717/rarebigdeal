@@ -16,6 +16,7 @@ import { Showcase } from '@/components/showcase/Showcase';
 import shipApps from '@/data/picks/ship-apps';
 import nicheApps from '@/data/picks/niche-apps';
 import marketingApps from '@/data/picks/marketing-apps';
+import developerTools from '@/data/picks/developer-tools';
 
 const MAX_DISPLAY = 1000;
 
@@ -252,6 +253,10 @@ export function CategorySection({
 
       {category === 'Marketing' ? (
         <Showcase className="mt-4" bundle={marketingApps} />
+      ) : null}
+
+      {category === 'Developer Tools' ? (
+        <Showcase className="mt-4" bundle={developerTools} />
       ) : null}
 
       <div className="mb-8" id={category}>

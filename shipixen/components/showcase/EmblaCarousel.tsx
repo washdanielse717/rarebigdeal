@@ -64,9 +64,14 @@ export const usePrevNextButtons = (
 type PropType = {
   apps: CoreContent<Blog>[];
   options?: EmblaOptionsType;
+  autoplayOnHover?: boolean;
 };
 
-const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
+const EmblaCarousel: React.FC<PropType> = ({
+  apps,
+  options,
+  autoplayOnHover = false,
+}) => {
   const [emblaRef, emblaApi] = useEmblaCarousel(
     {
       loop: true, // Enable loop mode
@@ -76,7 +81,7 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
       Autoplay({
         delay: 5000,
         stopOnInteraction: false,
-        stopOnMouseEnter: true,
+        stopOnMouseEnter: autoplayOnHover,
       }),
     ],
   );
@@ -216,6 +221,7 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
             )}
           >
             <div className="border-gradient-rainbow absolute w-full bottom-0"></div>
+
             {nextApp.logo ? (
               <Image
                 width={200}
@@ -234,8 +240,12 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
               />
             )}
             <span className="hidden md:flex">{nextApp.title}</span>
+
             <div
-              className="embla__progress__bar absolute top-0 left-0 w-full h-full backdrop-grayscale z-10"
+              className={clsx(
+                'embla__progress__bar absolute top-0 left-0 w-full h-full backdrop-grayscale z-10',
+                !showAutoplayProgress ? 'opacity-0' : 'opacity-100',
+              )}
               ref={progressNode}
             />
           </Button>

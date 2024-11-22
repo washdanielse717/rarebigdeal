@@ -85,7 +85,12 @@ export default async function AllBundles() {
       </LandingPrimaryTextCtaSection>
 
       {bundles.map((bundle, index) => (
-        <Showcase key={index} className="mt-4" bundle={bundle} />
+        <Showcase
+          key={index}
+          className="mt-4"
+          bundle={bundle}
+          autoplayOnHover
+        />
       ))}
     </div>
   );

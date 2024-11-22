@@ -13,6 +13,7 @@ const OPTIONS: EmblaOptionsType = { loop: true };
 export const Showcase = ({
   className,
   bundle,
+  autoplayOnHover = false,
 }: {
   className?: string;
   bundle: {
@@ -20,6 +21,7 @@ export const Showcase = ({
     description: string;
     apps: string[];
   };
+  autoplayOnHover?: boolean;
 }) => {
   const apps = bundle.apps
     .map((appName) =>
@@ -41,7 +43,11 @@ export const Showcase = ({
         <p className="text-sm mb-8">{bundle.description}</p>
       </div>
 
-      <EmblaCarousel apps={apps} options={OPTIONS} />
+      <EmblaCarousel
+        apps={apps}
+        options={OPTIONS}
+        autoplayOnHover={autoplayOnHover}
+      />
     </div>
   );
 };
