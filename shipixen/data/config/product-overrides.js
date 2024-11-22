@@ -4,6 +4,7 @@ module.exports = {
       tags: ['Learning', 'Books', 'Blogging', 'SEO', 'Monetization'],
     },
     'a11y-boost-reports': {
+      ogImage: '/public/static/images/overrides/a11y-boost-reports/ogImage.png',
       tags: [
         'Accessibility',
         'Developer Tools',
@@ -270,6 +271,7 @@ module.exports = {
       tags: ['Design', 'Graphics', 'Marketing', 'Content Creation'],
     },
     crontap: {
+      ogImage: '/public/static/images/overrides/crontap/ogImage.png',
       tags: [
         'Developer Tools',
         'API Scheduling',
@@ -367,12 +369,19 @@ module.exports = {
       tags: ['AI', 'Machine Learning', 'Automation'],
     },
     fragdaspdf: {
+      logo: '/public/static/images/overrides/fragdaspdf/logo.png',
+      ogImage: '/public/static/images/overrides/fragdaspdf/ogImage.png',
+      metaTitle: 'AskThePDF - Read and write research papers 10x faster',
+      metaDescription:
+        'Save time with our AI tools: Use AI for writing, chat with PDFs, and accelerate research. Improve writing, interact with PDFs, find research instantly!',
       tags: [
         'AI',
         'Machine Learning',
         'Automation',
         'AI Tools',
         'Productivity',
+        'PDF',
+        'Chat',
       ],
     },
     fridaygpt: {
@@ -503,6 +512,7 @@ module.exports = {
       tags: ['Learning', 'Courses', 'Linux', 'DevOps', 'Cybersecurity'],
     },
     larafast: {
+      ogImage: '/public/static/images/overrides/larafast/ogImage.png',
       tags: ['Laravel', 'Boilerplate', 'SaaS', 'Productivity'],
     },
     launchfast: {
@@ -685,6 +695,8 @@ module.exports = {
       ],
     },
     'oscar-stories': {
+      logo: '/public/static/images/overrides/oscar-stories/logo.png',
+      ogImage: '/public/static/images/overrides/oscar-stories/ogImage.png',
       tags: [
         'AI',
         'Machine Learning',

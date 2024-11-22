@@ -7,5 +7,6 @@
   "marketing-apps.js",
   "niche-apps.js",
   "ship-apps.js",
-  "the-john-apps.js"
+  "the-john-apps.js",
+  "the-morning-maker-show-apps.js"
 ];
