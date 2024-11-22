@@ -428,6 +428,7 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
 | 📚 | [Machine Learning for Soccer betting - 3 Books Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | Apply Machine Learning to predict the results of soccer matches and learn how to build an automated betting strategy (applied separately or on entire 3 books bundle) | 50% OFF with code **D43474C** |
 | 🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | 50% OFF with code **BLACKFRIDAY** (link already discounted) |
+| 💰 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) | Learn how to build a successful blog as a developer, with tips on content creation, SEO, and monetization to elevate your personal brand and career. | 50% OFF |
 
 [⬆️ All categories](#table-of-contents)
 
