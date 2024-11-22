@@ -1,38 +1,20 @@
+'use client';
+import { useEffect, useState } from 'react';
 import Header from '@/components/shared/Header';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
-import { LandingProductHuntAward } from '@/components/landing/social-proof/LandingProductHuntAward';
 import { LandingSocialProof } from '@/components/landing/social-proof/LandingSocialProof';
-import { LandingDiscount } from '@/components/landing/discount/LandingDiscount';
-import LatestArticles from '@/components/blog/LatestArticles';
-import { LandingProductFeature } from '@/components/landing/LandingProductFeature';
-import { LandingProductFeatureKeyPoints } from '@/components/landing/LandingProductFeatureKeyPoints';
-import { LandingSaleCtaSection } from '@/components/landing/cta/LandingSaleCta';
 import { LandingTestimonialGrid } from '@/components/landing/testimonial/LandingTestimonialGrid';
 import { LandingBandSection } from '@/components/landing/LandingBand';
 import { LandingTestimonialReadMoreWrapper } from '@/components/landing/testimonial/LandingTestimonialReadMoreWrapper';
-import { LandingFeatureList } from '@/components/landing/feature/LandingFeatureList';
 import { LandingFaqCollapsibleSection } from '@/components/landing/LandingFaqCollapsible';
-import { LandingSocialProofBand } from '@/components/landing/social-proof/LandingSocialProofBand';
-import { LandingSocialProofBandItem } from '@/components/landing/social-proof/LandingSocialProofBandItem';
 
-import {
-  ChromeIcon,
-  FigmaIcon,
-  FramerIcon,
-  GithubIcon,
-  LayersIcon,
-  LightbulbIcon,
-  LineChartIcon,
-  SparklesIcon,
-  ThumbsUpIcon,
-  ZapIcon,
-} from 'lucide-react';
 import { Button } from '@/components/shared/ui/button';
 import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 import { metadata } from '@/data/config/metadata';
 import { Showcase } from '@/components/showcase/Showcase';
-import macApps from 'data/picks/mac-apps';
+import { picksIndex } from '@/data/picks/index';
+import Link from 'next/link';
 
 const avatars = [
   {
@@ -61,7 +43,34 @@ const avatars = [
   },
 ];
 
+const weightedBundles = [
+  ...Array(3).fill('ai-apps.js'),
+  ...Array(2).fill('mac-apps.js'),
+  ...Array(2).fill('niche-apps.js'),
+  ...picksIndex.filter(
+    (bundle) =>
+      !['ai-apps.js', 'mac-apps.js', 'niche-apps.js'].includes(bundle),
+  ),
+];
+
+const getRandomBundle = () => {
+  const now = new Date();
+  const minutes = now.getMinutes();
+  const randomIndex =
+    (Math.floor(minutes / 20) + now.getHours()) % weightedBundles.length;
+  return weightedBundles[randomIndex];
+};
+
 export default function Home() {
+  const [bundle, setBundle] = useState(null);
+
+  useEffect(() => {
+    const bundleName = getRandomBundle();
+    import(`@/data/picks/${bundleName}`).then((module) => {
+      setBundle(module.default);
+    });
+  }, []);
+
   const users = (stats.stars || 0) + (stats.forks || 0);
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
@@ -101,13 +110,11 @@ export default function Home() {
 
         <div className="flex gap-2">
           <Button size="xl" variant="primary" asChild>
-            <a href="https://github.com/danmindru/rare-big-deal/pulls">
-              Submit
-            </a>
+            <Link href="/handpicked-deals">Best Deals</Link>
           </Button>
 
           <Button size="xl" variant="outlinePrimary">
-            <a href="/categories/productivity">All Categories</a>
+            <Link href="/categories/productivity">All Categories</Link>
           </Button>
         </div>
 
@@ -122,109 +129,11 @@ export default function Home() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      <Showcase className="mt-4" bundle={macApps} />
+      {bundle && <Showcase className="mt-4" bundle={bundle} />}
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
         <HomeList />
       </section>
-
-      {/* <LandingProductFeature
-        title="Limited Time Offers"
-        descriptionComponent={
-          <>
-            <LandingProductFeatureKeyPoints
-              keyPoints={[
-                {
-                  title: 'Intuitive Interface',
-                  description:
-                    'Design and customize your app easily with our simple drag-and-drop interface.',
-                },
-                {
-                  title: 'Seamless Integration',
-                  description:
-                    'Connect your app with other tools effortlessly for a smoother workflow.',
-                },
-                {
-                  title: 'Smart Analytics',
-                  description:
-                    'Gain valuable insights into user behavior and trends with our advanced analytics tools.',
-                },
-              ]}
-            />
-
-            <p className="text-sm">
-              7 day free trial, no credit card required.
-            </p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-19.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="left"
-        imagePerspective="none"
-      />
-
-      <LandingProductFeature
-        title="Diverse Selection"
-        descriptionComponent={
-          <>
-            <p>
-              Browse a vast range of carefully selected software, apps, and SaaS
-              solutions that cater to various needs, ensuring you find exactly
-              what fits your requirements.
-            </p>
-
-            <LandingProductFeatureKeyPoints
-              keyPoints={[
-                {
-                  title: 'Rock-Solid Security',
-                  description:
-                    'Rest assured, your data is safe with our top-notch security measures.',
-                },
-                {
-                  title: 'Automatic Updates',
-                  description:
-                    'Never miss out on the latest features - our app updates itself automatically!',
-                },
-                {
-                  title: 'Scalability on Demand',
-                  description:
-                    'Grow your app along with your business needs, effortlessly expanding to meet demand.',
-                },
-              ]}
-            />
-
-            <p className="text-sm">Get started with our free tier.</p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-20.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="right"
-        imagePerspective="none"
-        withBackground
-        withBackgroundGlow
-        variant="secondary"
-        backgroundGlowVariant="secondary"
-      />
-
-      <LandingProductFeature
-        title="User-Friendly Experience"
-        descriptionComponent={
-          <>
-            <p>
-              Our platform features a seamless interface that allows easy
-              navigation and quick access to all available deals, making your
-              shopping experience smooth and enjoyable.
-            </p>
-
-            <p className="text-sm">First month is on us.</p>
-          </>
-        }
-        imageSrc="/static/images/backdrop-5.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="left"
-        imagePerspective="none"
-        variant="secondary"
-      /> */}
 
       <LandingBandSection
         title="Stars! Stars everywhere!"
@@ -237,30 +146,6 @@ export default function Home() {
           />
         }
       />
-
-      {/* <LandingProductFeature
-        title="Rare Savings"
-        descriptionComponent={
-          <>
-            Discover exclusive discounts on software, apps, and services you
-            need.
-          </>
-        }
-        withBackground
-        variant="secondary"
-        imageSrc="/static/images/product-sample.webp"
-        imageAlt="Screenshot of the product"
-        imagePosition="center"
-        textPosition="center"
-      />
-
-      <LandingSaleCtaSection
-        title="Act Now and Save"
-        description="Limited time only! Take advantage of our extraordinary discounts available for Black Friday and well beyond. Visit rarebigdeal.com to secure your software savings today!"
-        ctaHref={'#'}
-        ctaLabel={'Pre-order now'}
-        withBackgroundGlow
-      /> */}
 
       <LandingTestimonialReadMoreWrapper size="md">
         <LandingTestimonialGrid
@@ -323,67 +208,6 @@ export default function Home() {
           withBackgroundGlow
         />
       </LandingTestimonialReadMoreWrapper>
-
-      {/* <LandingFeatureList
-        title="Awesome Features Await!"
-        description="Explore the fantastic features of our AI app:"
-        featureItems={[
-          {
-            title: 'Intuitive Interface',
-            description:
-              'Design and customize your app easily with our simple drag-and-drop interface.',
-            icon: <LayersIcon />,
-          },
-          {
-            title: 'Seamless Integration',
-            description:
-              'Connect your app with other tools effortlessly for a smoother workflow.',
-            icon: <LineChartIcon />,
-          },
-          {
-            title: 'Smart Analytics',
-            description:
-              'Gain valuable insights into user behavior and trends with our advanced analytics tools.',
-            icon: <SparklesIcon />,
-          },
-          {
-            title: 'Rock-Solid Security',
-            description:
-              'Rest assured, your data is safe with our top-notch security measures.',
-            icon: <LightbulbIcon />,
-          },
-          {
-            title: 'Automatic Updates',
-            description:
-              'Never miss out on the latest features - our app updates itself automatically!',
-            icon: <ZapIcon />,
-          },
-          {
-            title: 'Scalability on Demand',
-            description:
-              'Grow your app along with your business needs, effortlessly expanding to meet demand.',
-            icon: <ThumbsUpIcon />,
-          },
-          {
-            title: 'Intelligent Assistance',
-            description:
-              'Receive personalized recommendations and insights tailored to your workflow, helping you make informed decisions and work more efficiently.',
-            icon: <ChromeIcon />,
-          },
-          {
-            title: 'Seamless Collaboration',
-            description:
-              'Easily collaborate with team members and clients in real-time, fostering productivity and enhancing communication across projects.',
-            icon: <FigmaIcon />,
-          },
-          {
-            title: 'Advanced Customization',
-            description:
-              'Tailor your app to fit your unique requirements with extensive customization options, ensuring it aligns perfectly with your business objectives.',
-            icon: <FramerIcon />,
-          },
-        ]}
-      /> */}
 
       <LandingFaqCollapsibleSection
         title="Got Questions? We've Got Answers!"

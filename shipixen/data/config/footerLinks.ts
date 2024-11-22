@@ -10,6 +10,7 @@ export const footerLinks: Array<{
     links: [
       { href: '/', title: 'Home' },
       { href: '/categories', title: 'All Categories' },
+      { href: '/handpicked-deals', title: 'Popular' },
       { href: '/all-deals', title: 'All Deals' },
     ],
   },

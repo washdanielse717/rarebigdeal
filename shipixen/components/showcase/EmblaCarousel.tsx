@@ -11,6 +11,7 @@ import { ChevronLeftIcon, ChevronRightIcon } from 'lucide-react';
 import { useAutoplayProgress } from '@/components/showcase/EmblaCarouselAutoplayProgress';
 import clsx from 'clsx';
 import ReactMarkdown from 'react-markdown';
+import { hashStringToColor } from '@/components/shared/util/hash-string-color';
 
 type UsePrevNextButtonsType = {
   prevBtnDisabled: boolean;
@@ -113,64 +114,72 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
     <div className="embla group relative flex flex-col w-full">
       <div className="overflow-hidden relative" ref={emblaRef}>
         <div className="embla__container">
-          {apps.map((app, index) => (
-            <div
-              className={clsx(
-                'embla__slide w-full flex items-center justify-center transition-opacity duration-500 ease-in-out',
-                index === currentIndex
-                  ? 'opacity-100 grayscale-0'
-                  : 'opacity-50 grayscale',
-              )}
-              key={index}
-            >
-              <Link
-                href={`/products/${app.slug}`}
-                className="flex flex-col w-full"
+          {apps.map((app, index) => {
+            const tintColor = hashStringToColor(app.title);
+
+            return (
+              <div
+                className={clsx(
+                  'embla__slide w-full flex items-center justify-center transition-opacity duration-500 ease-in-out',
+                  index === currentIndex
+                    ? 'opacity-100 grayscale-0'
+                    : 'opacity-50 grayscale',
+                )}
+                key={index}
               >
-                <Image
-                  width={1600}
-                  height={1600}
-                  src={app.images[0]}
-                  alt={app.title}
-                  className="w-full h-auto rounded-xl aspect-video"
-                />
+                <Link
+                  href={`/products/${app.slug}`}
+                  className="flex flex-col w-full"
+                >
+                  <Image
+                    width={1600}
+                    height={1600}
+                    src={app.images?.[0]}
+                    alt={app.title}
+                    className="w-full h-auto rounded-xl aspect-video"
+                  />
 
-                <div className="flex flex-col items-center justify-center -mt-8">
-                  <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-lg py-2 px-3 items-center">
-                    <figure
-                      className={clsx(
-                        'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
-                      )}
+                  <div className="flex flex-col items-center justify-center -mt-8">
+                    <div className="flex gap-2 bg-white/90 dark:bg-black/90 backdrop-blur-xl rounded-lg py-2 px-3 items-center">
+                      <figure
+                        className={clsx(
+                          'w-10 h-10 md:w-10 md:h-10 lg:w-14 lg:h-14 flex-shrink-0 rounded-lg overflow-hidden bg-white/50 dark:bg-black/50',
+                        )}
+                      >
+                        {app.logo ? (
+                          <Image
+                            src={app.logo}
+                            alt="Product Thumbnail"
+                            width={200}
+                            height={200}
+                            className="dark:bg-white/20"
+                          />
+                        ) : (
+                          <div
+                            className="w-full h-full"
+                            style={{
+                              backgroundImage: `url(${fallbackImage})`,
+                              backgroundColor: tintColor,
+                            }}
+                          />
+                        )}
+                      </figure>
+                      <h2 className="text-xl md:text-xl lg:text-2xl font-light">
+                        {app.title}
+                      </h2>
+                    </div>
+
+                    <ReactMarkdown
+                      className="text-sm mt-4"
+                      disallowedElements={['a']}
                     >
-                      {app.logo ? (
-                        <Image
-                          src={app.logo}
-                          alt="Product Thumbnail"
-                          width={200}
-                          height={200}
-                          className="dark:bg-white/20"
-                        />
-                      ) : (
-                        <div
-                          className="w-full h-full"
-                          style={{
-                            backgroundImage: `url(${fallbackImage})`,
-                          }}
-                        />
-                      )}
-                    </figure>
-                    <h2 className="text-xl md:text-xl lg:text-2xl font-light">
-                      {app.title}
-                    </h2>
+                      {app.deal}
+                    </ReactMarkdown>
                   </div>
-
-                  <ReactMarkdown className="text-sm mt-4">
-                    {app.deal}
-                  </ReactMarkdown>
-                </div>
-              </Link>
-            </div>
-          ))}
+                </Link>
+              </div>
+            );
+          })}
         </div>
       </div>
 
@@ -207,15 +216,24 @@ const EmblaCarousel: React.FC<PropType> = ({ apps, options }) => {
             )}
           >
             <div className="border-gradient-rainbow absolute w-full bottom-0"></div>
-            <Image
-              width={200}
-              height={200}
-              src={nextApp.logo as string}
-              alt={nextApp.title}
-              className="w-10 h-10"
-            />
+            {nextApp.logo ? (
+              <Image
+                width={200}
+                height={200}
+                src={nextApp.logo as string}
+                alt={nextApp.title}
+                className="w-10 h-10 rounded-md"
+              />
+            ) : (
+              <div
+                className="w-10 h-10 rounded-md"
+                style={{
+                  backgroundImage: `url(${fallbackImage})`,
+                  backgroundColor: hashStringToColor(nextApp.title),
+                }}
+              />
+            )}
             <span className="hidden md:flex">{nextApp.title}</span>
-
             <div
               className="embla__progress__bar absolute top-0 left-0 w-full h-full backdrop-grayscale z-10"
               ref={progressNode}

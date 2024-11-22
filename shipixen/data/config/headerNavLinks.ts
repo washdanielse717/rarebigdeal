@@ -3,5 +3,6 @@ export const headerNavLinks: Array<{
   title: string;
 }> = [
   { href: '/categories/productivity', title: 'Categories' },
+  { href: '/handpicked-deals', title: 'Popular' },
   { href: 'https://github.com/danmindru/rare-big-deal/pulls', title: 'Submit' },
 ];

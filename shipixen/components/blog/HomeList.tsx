@@ -12,6 +12,10 @@ import {
 import { allBlogs, Blog } from 'shipixen-contentlayer/generated';
 import { PostItem } from '@/components/blog/home/PostItem';
 import CopyToClipboardButton from '@/components/shared/CopyToClipboardButton';
+import { Showcase } from '@/components/showcase/Showcase';
+import shipApps from '@/data/picks/ship-apps';
+import nicheApps from '@/data/picks/niche-apps';
+import marketingApps from '@/data/picks/marketing-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -237,41 +241,55 @@ export function CategorySection({
   }, [category]);
 
   return (
-    <div className="mb-8" id={category}>
-      {showTitle ? (
-        <div className="flex items-center mb-4 relative">
-          <CopyToClipboardButton
-            textToCopy={textToCopy}
-            label={category}
-            ariaLabel={`Set category to ${category}`}
-          />
-        </div>
+    <>
+      {category === 'Boilerplates, Starters & Libraries' ? (
+        <Showcase className="mt-4" bundle={shipApps} />
       ) : null}
 
-      <SubcategoryFilter
-        category={category}
-        posts={sortedPosts}
-        selectedSubcategories={selectedSubcategories}
-        handleSubcategoryFilter={handleSubcategoryFilter}
-      />
+      {category === 'Learining' ? (
+        <Showcase className="mt-4" bundle={nicheApps} />
+      ) : null}
 
-      <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
-        {sortedPosts
-          .filter((post) => {
-            return (
-              !selectedSubcategories.length ||
-              (post.subcategories &&
-                post.subcategories.some((subcategory) =>
-                  selectedSubcategories.includes(subcategory),
-                ))
-            );
-          })
-          .slice(0, numberOfPosts)
-          .map((post) => (
-            <PostItem key={post.slug} post={post} showImage={showImage} />
-          ))}
-      </ul>
-    </div>
+      {category === 'Marketing' ? (
+        <Showcase className="mt-4" bundle={marketingApps} />
+      ) : null}
+
+      <div className="mb-8" id={category}>
+        {showTitle ? (
+          <div className="flex items-center mb-4 relative">
+            <CopyToClipboardButton
+              textToCopy={textToCopy}
+              label={category}
+              ariaLabel={`Set category to ${category}`}
+            />
+          </div>
+        ) : null}
+
+        <SubcategoryFilter
+          category={category}
+          posts={sortedPosts}
+          selectedSubcategories={selectedSubcategories}
+          handleSubcategoryFilter={handleSubcategoryFilter}
+        />
+
+        <ul className={overrideClassName || 'grid 2xl:grid-cols-2 gap-4'}>
+          {sortedPosts
+            .filter((post) => {
+              return (
+                !selectedSubcategories.length ||
+                (post.subcategories &&
+                  post.subcategories.some((subcategory) =>
+                    selectedSubcategories.includes(subcategory),
+                  ))
+              );
+            })
+            .slice(0, numberOfPosts)
+            .map((post) => (
+              <PostItem key={post.slug} post={post} showImage={showImage} />
+            ))}
+        </ul>
+      </div>
+    </>
   );
 }
 

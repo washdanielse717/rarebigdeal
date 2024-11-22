@@ -8,6 +8,10 @@ const { parseReadme } = require('./parse-readme');
 const { sanitizeName } = require('./sanitize-name');
 const { outputDir } = require('./settings');
 const sharp = require('sharp');
+const { execSync } = require('child_process');
+
+const generateIndexScript = path.join(__dirname, 'generate-pick-index.js');
+execSync(`node ${generateIndexScript}`, { stdio: 'inherit' });
 
 async function downloadImage(url, outputPath) {
   try {
