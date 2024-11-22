@@ -218,7 +218,6 @@ export default function PostLayout({
                   {recommendedProducts.map((product) => (
                     <div key={product.slug} className="w-full p-2">
                       <PostItem post={product} showImage={true} />{' '}
-                      {/* Use PostItem */}
                     </div>
                   ))}
                 </div>

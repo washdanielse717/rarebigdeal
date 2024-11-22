@@ -32,6 +32,7 @@ import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
 import { metadata } from '@/data/config/metadata';
 import { Showcase } from '@/components/showcase/Showcase';
+import macApps from 'data/picks/mac-apps';
 
 const avatars = [
   {
@@ -121,9 +122,7 @@ export default function Home() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      <section className="max-w-4xl 2xl:max-w-6xl w-full mt-12 p-6">
-        <Showcase />
-      </section>
+      <Showcase bundle={macApps} />
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
         <HomeList />
