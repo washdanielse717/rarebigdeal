@@ -209,6 +209,18 @@ module.exports = {
         'Developer Tools',
       ],
     },
+    clockzones: {
+      metaDescription:
+        'Clockzones is an elegant menu bar app that helps you track time across different time zones with beautiful analog clocks.',
+      tags: [
+        'Productivity',
+        'Efficiency',
+        'Tools',
+        'Timezones',
+        'World Clocks',
+        'MacOS',
+      ],
+    },
     coderabbit: {
       tags: [
         'AI',
