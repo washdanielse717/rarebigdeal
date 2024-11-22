@@ -85,6 +85,8 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Voice Type-Dictation Tool](https://carelesswhisper.app) | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Great if you suffer from RSI. | 50% OFF till Nov-30 |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030) | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. | 50% OFF **BFS2024** |
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
+| 💻 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | Lifetime 35% OFF till Nov 30th |
+| 💻 | [Zen mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF till Nov 30th |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
