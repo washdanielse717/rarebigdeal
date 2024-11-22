@@ -396,6 +396,7 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BF2024** |
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |
 | 💡 | [Build Production-grade Web Apps With Golang](https://golangblogcourse.com/) | Go from zero to building full-stack production-grade web application in Go | 10% OFF Early Bird Plan (already at a reduced price while in development) with code **BLACKFRIDAY** |
+| 🧪 | [LabEx](https://labex.io/) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. |
 
 ### Art Courses
 | | Name | Description | Deal |
