@@ -5,6 +5,12 @@ import { allCoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { allBlogs } from 'shipixen-contentlayer/generated';
 import Link from '@/components/shared/Link';
 import { CategorySection } from '@/components/blog/HomeList';
+import { Showcase } from '@/components/showcase/Showcase';
+import shipApps from '@/data/picks/ship-apps';
+import nicheApps from '@/data/picks/niche-apps';
+import marketingApps from '@/data/picks/marketing-apps';
+import developerTools from '@/data/picks/developer-tools';
+import aiApps from '@/data/picks/ai-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -57,6 +63,27 @@ export default function CategoryPage({
   return (
     <div className="flex flex-col w-full items-center justify-between">
       <div className="flex flex-col gap-4 w-full">
+        {slug(params.category) ===
+        slug('Boilerplates, Starters & Libraries') ? (
+          <Showcase className="mt-4" bundle={shipApps} />
+        ) : null}
+
+        {slug(params.category) === slug('Learning') ? (
+          <Showcase className="mt-4" bundle={nicheApps} />
+        ) : null}
+
+        {slug(params.category) === slug('Marketing') ? (
+          <Showcase className="mt-4" bundle={marketingApps} />
+        ) : null}
+
+        {slug(params.category) === slug('Developer Tools') ? (
+          <Showcase className="mt-4" bundle={developerTools} />
+        ) : null}
+
+        {slug(params.category) === slug('AI Tools') ? (
+          <Showcase className="mt-4" bundle={aiApps} />
+        ) : null}
+
         <CategorySection
           category={params.category}
           posts={sortedPosts}

@@ -1,5 +1,6 @@
 'use client';
 import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { slug } from 'github-slugger';
 import { usePathname } from 'next/navigation';
 import Link from '@/components/shared/Link';
 import { siteConfig } from '@/data/config/site.settings';
@@ -243,19 +244,19 @@ export function CategorySection({
 
   return (
     <>
-      {category === 'Boilerplates, Starters & Libraries' ? (
+      {slug(category) === slug('Boilerplates, Starters & Libraries') ? (
         <Showcase className="mt-4" bundle={shipApps} />
       ) : null}
 
-      {category === 'Learining' ? (
+      {slug(category) === slug('Learining') ? (
         <Showcase className="mt-4" bundle={nicheApps} />
       ) : null}
 
-      {category === 'Marketing' ? (
+      {slug(category) === slug('Marketing') ? (
         <Showcase className="mt-4" bundle={marketingApps} />
       ) : null}
 
-      {category === 'Developer Tools' ? (
+      {slug(category) === slug('Developer Tools') ? (
         <Showcase className="mt-4" bundle={developerTools} />
       ) : null}
 

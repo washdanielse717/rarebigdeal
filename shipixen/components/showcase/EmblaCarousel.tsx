@@ -12,6 +12,7 @@ import { useAutoplayProgress } from '@/components/showcase/EmblaCarouselAutoplay
 import clsx from 'clsx';
 import ReactMarkdown from 'react-markdown';
 import { hashStringToColor } from '@/components/shared/util/hash-string-color';
+import { cn } from '@/lib/utils';
 
 type UsePrevNextButtonsType = {
   prevBtnDisabled: boolean;
@@ -175,7 +176,10 @@ const EmblaCarousel: React.FC<PropType> = ({
                     </div>
 
                     <ReactMarkdown
-                      className="text-sm mt-4"
+                      className={cn(
+                        'text-sm mt-4 transition-opacity delay-500 ease-in duration-700',
+                        currentIndex === index ? 'opacity-100' : 'opacity-0',
+                      )}
                       disallowedElements={['a']}
                     >
                       {app.deal}
