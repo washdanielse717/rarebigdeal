@@ -173,7 +173,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Verbatik AI](https://verbatik.com) | AI Text to Speech and Voice Cloning in 150 Languages to make your content speak | 40% OFF on All plans with code **BFCM2024** |
 | 🤖 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
 | 🧑‍🚀 | [StellaFlow](https://www.stellaflow.com?ref=rare-big-deal) | Boost Your Visibility, Effortlessly with StellaFlow The AI ​​that creates and plans your posts, across all your networks. | 42% OFF with code **BLACKFRIDAY2024** |
-| 📊 | [Branding5](https://feedbackglow.com) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
+| 📊 | [Branding5](https://www.branding5.com/) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 | 📄 | [AI Dev Assess](https://www.aidevassess.com) | Create comprehensive role-specific developer assessment toolkits with AI. Perfect for both outsourcing teams and hiring managers | 50% off till the end of the year with BLACKFRIDAY50 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |

@@ -12,5 +12,6 @@ module.exports = {
     'FragDasPDF',
     'Chatwith',
     'A83 Design',
+    'DirectoryFast',
   ],
 };
