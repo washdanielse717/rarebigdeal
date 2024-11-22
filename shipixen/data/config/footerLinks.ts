@@ -12,11 +12,23 @@ export const footerLinks: Array<{
       { href: '/categories', title: 'All Categories' },
       { href: '/handpicked-deals', title: 'Popular' },
       { href: '/all-deals', title: 'All Deals' },
+      {
+        href: 'https://github.com/danmindru/rare-big-deal/issues/130',
+        title: 'Submit',
+      },
     ],
   },
   {
     columnName: 'Support',
     links: [
+      {
+        href: 'https://github.com/danmindru/rare-big-deal/issues/132',
+        title: 'Creating a Bundle',
+      },
+      {
+        href: 'https://github.com/danmindru/rare-big-deal/issues/131',
+        title: 'Adding custom metadata',
+      },
       { href: '/terms', title: 'Terms of Service' },
       { href: '/privacy', title: 'Privacy Policy' },
     ],

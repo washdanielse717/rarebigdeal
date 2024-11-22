@@ -4,5 +4,8 @@ export const headerNavLinks: Array<{
 }> = [
   { href: '/categories/productivity', title: 'Categories' },
   { href: '/handpicked-deals', title: 'Popular' },
-  { href: 'https://github.com/danmindru/rare-big-deal/pulls', title: 'Submit' },
+  {
+    href: 'https://github.com/danmindru/rare-big-deal/issues/130',
+    title: 'Submit',
+  },
 ];
