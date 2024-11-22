@@ -451,8 +451,8 @@ It's free & open-source. Enjoy! 🚀
 ## Miscellaneous
 | | Name | Description | Deal |
 | - | - | - | - |
-| 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |
-| 💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF with code **SAVER2024** |
+| 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 25% OFF lifetime membership with code **BF2024** |
+| 💰 | [Side Projects Making $$$](https://niftydigits.gumroad.com/l/side-projects/SAVER2024) | A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024 | 20% OFF lifetime access with code **SAVER2024** |
 | 🎲 | [Game Design Checklist](https://gamedesignchecklist.com) | Game design document templates, game studio dashboard templates for Notion. | 50% OFF with code **BF2024** |
 | 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
 | 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
