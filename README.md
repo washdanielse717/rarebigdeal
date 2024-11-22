@@ -93,6 +93,7 @@ It's free & open-source. Enjoy! 🚀
 | ♿️ | [A11Y Boost Reports](https://a11yboost.com/reports) | Instant accessibility reports and expert guidance for your website. | **50% off** until 30/11 no code needed. |
 | 📸 | [Siteshot Pro](https://www.siteshot.pro) | An API for developers to capture automated, high-quality website screenshots. | **20% off** on Premium plans for 1 year with code **BLACK20** |
 | 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
+| 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -167,6 +168,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Sawad](https://mejed.lemonsqueezy.com/buy/626bae75-7eee-45cb-a91f-6f2eb1fbfd1f) | Framer Portfolio Template | 10% OFF with code **G3ODQYMQ** |
 | 🎨 | [FilterGrade](https://filtergrade.com) | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers. | 30% off marketplace with code **BLACKFRIDAY2024** |
 | 🧰 | [GameDevTools.Pro](https://gamedevtools.pro) | Find the best game development, design and art tools. | 50% off with code **BF2024** |
+| 🛒 | [Zylvie - High-Converting Cart Software](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** |
 
 ### AI Design Tools
 | | Name | Description | Deal |
@@ -325,6 +327,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [DirectoryFast](https://directoryfa.st?via=rarebigdeal) | Launch Trending Directories in Minutes | **50% OFF** with code **BLACKFRIDAY50** |
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**  |
+| 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
 
 ### iOS
 | | Name | Description | Deal |
@@ -345,7 +348,7 @@ It's free & open-source. Enjoy! 🚀
 ### Rails
 | | Name | Description | Deal |
 | - | - | - | - |
-| ⭐ | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | $30 OFF lifetime license with code **BLACK2024** |
+| ⭐ | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | 30% OFF lifetime license with code **BLACK2024** |
 
 ### Laravel
 | | Name | Description | Deal |
@@ -399,6 +402,7 @@ It's free & open-source. Enjoy! 🚀
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |
 | 💡 | [Build Production-grade Web Apps With Golang](https://golangblogcourse.com/) | Go from zero to building full-stack production-grade web application in Go | 10% OFF Early Bird Plan (already at a reduced price while in development) with code **BLACKFRIDAY** |
 | 🧪 | [LabEx](https://labex.io/) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. |
+| 📖 | [Ultimate Cursor AI Course \| Instructa.ai](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with Code **BLACKCURSOR25** |
 
 ### Art Courses
 | | Name | Description | Deal |
@@ -412,7 +416,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
-| 📚 | [Machine Learning for Soccer betting - 3 Books Bundle](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Apply Machine Learning to predict the results of soccer matches and learn how to build an automated betting strategy (discount can be applied separately or to the whole 3 books bundle) | 50% OFF with code **D43474C** |
+| 📚 | [Machine Learning for Soccer betting - 3 Books Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | Apply Machine Learning to predict the results of soccer matches and learn how to build an automated betting strategy (applied separately or on entire 3 books bundle) | 50% OFF with code **D43474C** |
 | 🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | 50% OFF with code **BLACKFRIDAY** (link already discounted) |
 
 [⬆️ All categories](#table-of-contents)
