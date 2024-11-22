@@ -62,10 +62,15 @@ It's free & open-source. Enjoy! 🚀
   - [SEO](#seo)
   - [Books](#books)
 - [Health and Fitness](#health-and-fitness)
+  - [Apps](#apps)
 - [Finance](#finance)
+  - [Dashboards](#dashboards)
 - [Mailing Lists, Newsletters \& Blogs](#mailing-lists-newsletters--blogs)
+  - [Databases](#databases)
 - [Productized Services](#productized-services)
+  - [Design Agencies](#design-agencies)
 - [Miscellaneous](#miscellaneous)
+  - [All](#all)
 
 ## Developer Tools
 ### macOS Apps
@@ -489,6 +494,7 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 ## Health and Fitness
+### Apps
 | | Name | Description | Deal |
 | - | - | - | - |
 | ⭐ | [Swim Coach App](https://swimcoachapp.com) | Smart workouts for swimming and triathlon | 6 extra months for free when purchasing a 1-year Gold subscription |
@@ -499,6 +505,7 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 ## Finance
+### Dashboards
 | | Name | Description | Deal |
 | - | - | - | - |
 | 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** |
@@ -507,6 +514,7 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 ## Mailing Lists, Newsletters & Blogs
+### Databases
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🗃️ | [findmassleads](https://findmassleads.com) | Download thousands of good leads from a database of 90,983,688 websites and get tons of potential customers... | 70% OFF with code **BLACKFRIDAY2024** |
@@ -517,6 +525,7 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 ## Productized Services
+### Design Agencies
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🎨 | [A83 Design](https://a83.net) | A83 is a remote & asynchronous design studio that helps founders & teams deliver design faster & more effective. | 25% OFF with code **BF2024** |
@@ -524,6 +533,7 @@ It's free & open-source. Enjoy! 🚀
 [⬆️ All categories](#table-of-contents)
 
 ## Miscellaneous
+### All
 | | Name | Description | Deal |
 | - | - | - | - |
 | 📈 | [Gumtrends](https://gumtrends.com) | Get access to a dataset of 100k+ Gumroad products complete with estimated revenue. Spot opportunities by finding profitable items with many 3 star reviews. | 20% OFF with code **SAVER2024** |

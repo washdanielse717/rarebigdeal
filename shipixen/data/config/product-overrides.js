@@ -746,6 +746,10 @@ module.exports = {
       ogImage: '/public/static/images/overrides/presentify/ogImage.png',
       tags: ['Productivity', 'Efficiency', 'Tools'],
     },
+    proxyman: {
+      tags: ['Developer', 'Tools', 'macOS', 'Proxy', 'APIs', 'Tools'],
+      logo: '/public/static/images/overrides/proxyman/logo.png',
+    },
     'quick-notes-email-me': {
       metaTitle: 'Quickly and Easily Email Yourself',
       tags: ['Productivity', 'Efficiency', 'Tools', 'Mobile Apps'],
