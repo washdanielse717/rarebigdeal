@@ -73,8 +73,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
 | 📃 | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
-| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. |
-40% OFF on all plans with code BLACKFRIDAY2024 |
+| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows.  | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF with code **BLACKFRIDAY_2024** |
 | 🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
@@ -101,7 +100,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 📸 | [ScreenshotOne](https://screenshotone.com) | The best screenshot API for developers. | 25% OFF with code **BLACKFRIDAY2024** on all annual plans for the first year. |
-| 👩‍🚀 | [Proxyman](https://proxyman.io/?ref=rare-big-deal) | Turbocharge your network debugging. Professional-grade solution for faster HTTP/HTTPS troubleshooting on macOS, iOS, Windows, and Linux. | 30% OFF on all plans with code BLACKFRIDAY2024. |
+| 👩‍🚀 | [Proxyman](https://proxyman.io/?ref=rare-big-deal) | Turbocharge your network debugging. Professional-grade solution for faster HTTP/HTTPS troubleshooting on macOS, iOS, Windows, and Linux. | 30% OFF on all plans with code **BLACKFRIDAY2024**. |
 | ⌛ | [Crontap](https://crontap.com/) | Schedule recurring API calls without the hassle. | **40% off** with discount code **BF2024** |
 | ⭐ | [Bannerify](https://bannerify.co) | API for Automated Image. Scale your marketing with fastest image generation service. | 40% OFF on All plans with code **BF2024** |
 | ♿️ | [A11Y Boost Reports](https://a11yboost.com/reports) | Instant accessibility reports and expert guidance for your website. | **50% off** until 30/11 no code needed. |
@@ -129,8 +128,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Macaw](https://www.macawhq.com) | Generate AI articles that humans love to read. Advanced AI writer used by 2000+ brands to increase organic traffic. | 50% OFF your first month with code **BLACKFRIDAY** |
 | 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
 | 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030) | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. Can also live transcribe without the need of an internet connection. | 50% OFF **BFS2024** |
-| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. |
-40% OFF on all plans with code BLACKFRIDAY2024 |
+| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 
@@ -186,8 +184,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
-| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. |
-40% OFF on all plans with code BLACKFRIDAY2024 |
+| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 👑 | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 | 🖌️ | [IllustraAI](https://illustraai.com) | Create consistent vector illustrations in seconds | 30% OFF with code **BLACKFRIDAY2024** |
 | ⭐ | [Screen Canvas](https://www.screencanvas.app) | Create Custom Designs on Your Apple TV. The simplest, fastest, and most budget-friendly way to instantly create digital signs on your TV, all from your remote. | 60% OFF |
@@ -330,7 +327,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [OSSsoftware Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads & Paid listings on a directory of open source alternatives. | 50% off ads [osssoftware.org](https://osssoftware.org/?ref=rare) |
 | ⭐ | [NextJsStarter Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and paid listings on a directory of NextJS boilerplates. | 50% off ads [nextjsstarter.com](https://nextjsstarter.com/?ref=rare) |
 | ⭐ | [DevHunt Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and Paid listings on biggest launchpad for dev tools. | 50% off ads [devhunt.org](https://devhunt.org/?ref=rare) |
-| 🚀 | BoilerplateHub | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
+| 🚀 | [BoilerplateHub](https://boilerplatehub.com/?ref=rare) | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
 
 ### Other
 | | Name | Description | Deal |
@@ -476,6 +473,8 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍🎨 | [Character Quest](https://doncorgi.gumroad.com/l/characterquest/DANDEAL) | Use this repeatable, easy-to-follow blueprint to create all the characters you want! Anybody can draw. | +70% OFF with code **DANDEAL** (link already discounted) |
 
 ### SEO
+| | Name | Description | Deal |
+| - | - | - | - |
 | 👾 | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend) | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive** |
 | ⭐ | [Directory Guide](https://johnrush.me/black-friday-deals/?ref=rare) | Everything I (John Rush) know about making successful directories. | 50% off on [johnrush.me/directory-guide](https://johnrush.me/directory-guide/?ref=rare) |
 
