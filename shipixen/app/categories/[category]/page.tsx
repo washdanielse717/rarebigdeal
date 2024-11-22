@@ -63,23 +63,6 @@ export default function CategoryPage({
   return (
     <div className="flex flex-col w-full items-center justify-between">
       <div className="flex flex-col gap-4 w-full">
-        {slug(params.category) ===
-        slug('Boilerplates, Starters & Libraries') ? (
-          <Showcase bundle={shipApps} />
-        ) : null}
-
-        {slug(params.category) === slug('Learning') ? (
-          <Showcase bundle={nicheApps} />
-        ) : null}
-
-        {slug(params.category) === slug('Marketing') ? (
-          <Showcase bundle={marketingApps} />
-        ) : null}
-
-        {slug(params.category) === slug('Developer Tools') ? (
-          <Showcase bundle={developerTools} />
-        ) : null}
-
         {slug(params.category) === slug('AI Tools') ? (
           <Showcase bundle={aiApps} />
         ) : null}

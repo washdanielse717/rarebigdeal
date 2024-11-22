@@ -1,5 +1,3 @@
-'use client';
-import { useEffect, useState } from 'react';
 import Header from '@/components/shared/Header';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
 import { LandingSocialProof } from '@/components/landing/social-proof/LandingSocialProof';
@@ -7,7 +5,6 @@ import { LandingTestimonialGrid } from '@/components/landing/testimonial/Landing
 import { LandingBandSection } from '@/components/landing/LandingBand';
 import { LandingTestimonialReadMoreWrapper } from '@/components/landing/testimonial/LandingTestimonialReadMoreWrapper';
 import { LandingFaqCollapsibleSection } from '@/components/landing/LandingFaqCollapsible';
-
 import { Button } from '@/components/shared/ui/button';
 import HomeList from '@/components/blog/HomeList';
 import stats from '@/data/stats';
@@ -61,35 +58,19 @@ const getRandomBundle = () => {
   return weightedBundles[randomIndex];
 };
 
-export default function Home() {
-  const [bundle, setBundle] = useState(null);
+const loadBundle = async (bundleName) => {
+  const m = await import(`@/data/picks/${bundleName}`);
+  return m.default;
+};
 
-  useEffect(() => {
-    const bundleName = getRandomBundle();
-    import(`@/data/picks/${bundleName}`).then((module) => {
-      setBundle(module.default);
-    });
-  }, []);
-
+export default async function Home() {
+  const bundleName = getRandomBundle();
+  const bundle = await loadBundle(bundleName);
   const users = (stats.stars || 0) + (stats.forks || 0);
+
   return (
     <div className="flex flex-col w-full items-center fancy-overlay">
-      {/* <LandingSocialProofBand invert={false} className="hidden md:flex">
-        <LandingSocialProofBandItem>
-          Fast, reliable, and secure
-        </LandingSocialProofBandItem>
-
-        <LandingSocialProofBandItem>
-          Easy to use, easy to love
-        </LandingSocialProofBandItem>
-
-        <LandingSocialProofBandItem graphic="rating">
-          99% customer satisfaction
-        </LandingSocialProofBandItem>
-      </LandingSocialProofBand> */}
-
       <Header className="mb-0 lg:mb-0" />
-
       <LandingPrimaryTextCtaSection
         title="Rare Deals and Discounts"
         descriptionComponent={
@@ -101,13 +82,7 @@ export default function Home() {
         textPosition="center"
         withBackground
         className="relative"
-        // leadingComponent={<LandingProductHuntAward />}
       >
-        {/* <LandingDiscount
-          discountValueText="30% off"
-          discountDescriptionText="for the first 10 customers (2 left)"
-        /> */}
-
         <div className="flex gap-2">
           <Button size="xl" variant="primary" asChild>
             <Link href="/handpicked-deals">Best Deals</Link>
@@ -129,7 +104,7 @@ export default function Home() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      {bundle && <Showcase className="mt-4" bundle={bundle} />}
+      {bundle && <Showcase className="mt-8" bundle={bundle} />}
 
       <section className="max-w-2xl 2xl:max-w-6xl w-full mt-12 p-6">
         <HomeList />

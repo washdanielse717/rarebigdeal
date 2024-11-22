@@ -184,6 +184,7 @@ export default function HomeList({
             handleSubcategoryFilter={toggleSubcategory}
             numberOfPosts={numberOfPosts}
             showImage={showImage}
+            showCaseClass="mt-4"
           />
         ))}
 
@@ -222,6 +223,7 @@ export function CategorySection({
   showImage,
   overrideClassName,
   showTitle = true,
+  showCaseClass = '',
 }: {
   category: string;
   posts: CoreContent<Blog>[];
@@ -231,6 +233,7 @@ export function CategorySection({
   showImage: boolean;
   overrideClassName?: string;
   showTitle?: boolean;
+  showCaseClass?: string;
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
@@ -245,19 +248,19 @@ export function CategorySection({
   return (
     <>
       {slug(category) === slug('Boilerplates, Starters & Libraries') ? (
-        <Showcase className="mt-4" bundle={shipApps} />
+        <Showcase className={showCaseClass} bundle={shipApps} />
       ) : null}
 
       {slug(category) === slug('Learining') ? (
-        <Showcase className="mt-4" bundle={nicheApps} />
+        <Showcase className={showCaseClass} bundle={nicheApps} />
       ) : null}
 
       {slug(category) === slug('Marketing') ? (
-        <Showcase className="mt-4" bundle={marketingApps} />
+        <Showcase className={showCaseClass} bundle={marketingApps} />
       ) : null}
 
       {slug(category) === slug('Developer Tools') ? (
-        <Showcase className="mt-4" bundle={developerTools} />
+        <Showcase className={showCaseClass} bundle={developerTools} />
       ) : null}
 
       <div className="mb-8" id={category}>
