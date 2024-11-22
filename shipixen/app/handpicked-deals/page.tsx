@@ -84,14 +84,16 @@ export default async function AllBundles() {
         </div>
       </LandingPrimaryTextCtaSection>
 
-      {bundles.map((bundle, index) => (
-        <Showcase
-          key={index}
-          className="mt-4"
-          bundle={bundle}
-          autoplayOnHover
-        />
-      ))}
+      <section className="max-w-2xl 2xl:max-w-6xl w-full">
+        {bundles.map((bundle, index) => (
+          <Showcase
+            key={index}
+            className="mt-8"
+            bundle={bundle}
+            autoplayOnHover
+          />
+        ))}
+      </section>
     </div>
   );
 }

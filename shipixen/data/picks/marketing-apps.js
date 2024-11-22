@@ -4,6 +4,8 @@ module.exports = {
   apps: [
     'Branding5',
     'Link Building Software',
+    'Typefully',
+    'Unicorn Platform',
     'BlogToPin',
     'Carrd',
     'Shootmail',

@@ -14,5 +14,6 @@ module.exports = {
     'Verbatik AI',
     'Saas UI',
     'supastarter for Next.js',
+    'Unicorn Platform',
   ],
 };

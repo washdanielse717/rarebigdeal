@@ -254,7 +254,9 @@ const EmblaCarousel: React.FC<PropType> = ({
             />
           </Button>
 
-          <p className="text-[0.6rem] uppercase opacity-50">Up next</p>
+          <p className="text-xs font-semibold uppercase opacity-50 mr-1 p-0.5">
+            Up next
+          </p>
         </div>
       </div>
     </div>
