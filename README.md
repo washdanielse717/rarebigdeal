@@ -54,6 +54,7 @@ It's free & open-source. Enjoy! 🚀
   - [Nuxt](#nuxt)
   - [Chrome Extensions](#chrome-extensions)
   - [Libraries](#libraries)
+  - [Directories](#directories)
 - [Learning](#learning)
   - [Courses](#courses)
   - [Art Courses](#art-courses)
@@ -404,6 +405,11 @@ It's free & open-source. Enjoy! 🚀
 | 🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited no. of licenses **BLACKFRIDAY2024** |
 | ⚡ | [NextReady](https://nextready.dev) | Ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 🚚 | [Saas UI](https://saas-ui.dev) | React toolkit for building beautiful SaaS products. Design system, component library, Next.js starterkit, TypeScript, Chakra UI, Stripe and more. | 30% OFF with code **BLACKFRIDAY30** |
+
+### Directories
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🚀 | BoilerplateHub | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
 
 [⬆️ All categories](#table-of-contents)
 
