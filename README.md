@@ -139,6 +139,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
+| 💻 | [CleanClip](https://cleanclip.cc?ref=rare-big-deal) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% off with code **BF2024** until Dec 4 |
 
 [⬆️ All categories](#table-of-contents)
 
