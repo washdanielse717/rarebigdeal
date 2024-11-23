@@ -103,7 +103,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚖 | [Folge](https://folge.me) | Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. | Lifetime 25% OFF till Nov 30th |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
 | 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
-| 🧪 | [Pimosa: Your all-in-one toolkit for video, audio, and image files](https://pimosa.app/) | Simple Video, Photo & Audio Editing Tools in one app, Pimosa lets you convert, edit and enhance video, photos, and music files easily. Batch processing for faster work. simple tools for everyone. | 20% OFF with code **BLACKFRIDAY** |
+| 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
