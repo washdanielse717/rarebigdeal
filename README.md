@@ -212,6 +212,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎨 | [FilterGrade](https://filtergrade.com) | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers. | 30% off marketplace with code **BLACKFRIDAY2024** |
 | 🧰 | [GameDevTools.Pro](https://gamedevtools.pro) | Find the best game development, design and art tools. | 50% off with code **BF2024** |
 | 🛒 | [Zylvie](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** |
+| 🖥️ | [snappify](https://snappify.com) | A powerful PowerPoint alternative for developers. Create stunning presentations, smoothly animated videos and elevate your technical content! | 30% OFF the first year with the code **BF_2024** |
 
 ### AI Design Tools
 | | Name | Description | Deal |
