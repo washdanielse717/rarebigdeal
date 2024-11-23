@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-192+ awesome deals inside 🔥
+197+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -20,6 +20,7 @@ It's free & open-source. Enjoy! 🚀
   - [Chat UI](#chat-ui)
   - [Productivity](#productivity)
   - [Other](#other)
+  - [Lifestyle](#lifestyle)
 - [Design Tools](#design-tools)
   - [Productivity](#productivity-1)
   - [AI Design Tools](#ai-design-tools)
@@ -80,6 +81,7 @@ It's free & open-source. Enjoy! 🚀
 | 📃 | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows.  | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2024 |
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF with code **BLACKFRIDAY_2024** |
 | 🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
@@ -176,11 +178,16 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://www.branding5.com/) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
 | 🦊 | [Oscar Stories](https://wwww.oscarstories.com) | Create personalized bedtime stories for your kids with AI | Get one story more for free when you sign up on Black Friday |
 | 📄 | [AI Dev Assess](https://www.aidevassess.com) | Create comprehensive role-specific developer assessment toolkits with AI. Perfect for both outsourcing teams and hiring managers | 50% off till the end of the year with BLACKFRIDAY50 |
-| ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://aiscraper.co/) |
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off on [seobotai.com](https://seobotai.com/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
-| 💸 | [hammerai](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18**
+| 💸 | [hammerai](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
+
+### Lifestyle
+|     | Name                                                     | Description                                            | Deal                       |
+| --- | -------------------------------------------------------- | ------------------------------------------------------ | -------------------------- |
+| 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 |
+| ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -511,6 +518,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
+| 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 
 [⬆️ All categories](#table-of-contents)
 
