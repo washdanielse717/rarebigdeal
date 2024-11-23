@@ -260,6 +260,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤖 | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed |
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
+| 👨‍🏫 | [Guidejar](https://www.guidejar.com?ref=rare-big) | Showcase your product's full capabilities with AI-powered interactive product demos | 40% off with code **BLACKFRIDAY24** on all plans |
 
 ### Other
 | | Name | Description | Deal |
