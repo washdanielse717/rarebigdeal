@@ -5,6 +5,7 @@ module.exports = {
     'Typefully',
     'Xnapper',
     'Unicorn Platform',
+    'TablePlus',
     'Carrd',
     'DevUtils',
     'Proxyman',

@@ -6,6 +6,7 @@ module.exports = {
     'Xnapper',
     'PDF Pals',
     'LocalCan',
+    'TablePlus',
     'Sip',
     'DevUtils',
     'Minizones',

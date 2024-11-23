@@ -7,6 +7,7 @@ module.exports = {
     'Recut',
     'Branding 5',
     'PDF Pals',
+    'HeadshotPro',
     'Kerlig',
     'Recut',
     'IconKit',
