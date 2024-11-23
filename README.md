@@ -98,11 +98,12 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | Lifetime 35% OFF till Nov 30th |
 | 💻 | [Zen mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF till Nov 30th |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
-| 📱 | [Quick Capture - SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
-| 📱 | [Quick Capture - Obsidian](https://quickcaptureobsidian.app) | Send anything to any vault in Obsidian 10x faster 💨 | Lifetime 50% OFF |
+| 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
+| 📱 | [Quick Capture Obsidian](https://quickcaptureobsidian.app) | Send anything to any vault in Obsidian 10x faster 💨 | Lifetime 50% OFF |
 | 🚖 | [Folge](https://folge.me) | Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. | Lifetime 25% OFF till Nov 30th |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
 | 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
+| 🧪 | [Pimosa: Your all-in-one toolkit for video, audio, and image files](https://pimosa.app/) | Simple Video, Photo & Audio Editing Tools in one app, Pimosa lets you convert, edit and enhance video, photos, and music files easily. Batch processing for faster work. simple tools for everyone. | 20% OFF with code **BLACKFRIDAY** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -184,7 +185,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://aiscraper.co/) |
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off on [seobotai.com](https://seobotai.com/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
-| 💸 | [hammerai](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
+| 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 
 ### Lifestyle
 |     | Name                                                     | Description                                            | Deal                       |
