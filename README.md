@@ -223,6 +223,7 @@ It's free & open-source. Enjoy! 🚀
 | 📽️ | [FaceScreen](https://apps.apple.com/app/id6702028512) | Put your face and name on top of your screen. Great for making engaging content. | 50% OFF on the App Store, no code needed. |
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
+| 🔄 | [Loomos](https://loomos.co/login) | Transform boring screen recordings into studio-quality videos in single click. Edit the transcript, remove all the 'uhms', make videos a lot more engaging | 50% off till BLACK FRIDAY |
 
 ### Social
 | | Name | Description | Deal |
