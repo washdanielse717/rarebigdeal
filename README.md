@@ -102,6 +102,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Quick Capture - Obsidian](https://quickcaptureobsidian.app) | Send anything to any vault in Obsidian 10x faster 💨 | Lifetime 50% OFF |
 | 🚖 | [Folge](https://folge.me) | Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. | Lifetime 25% OFF till Nov 30th |
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
+| 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
