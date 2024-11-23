@@ -34,7 +34,7 @@ export const Menu = ({ className }: { className?: string }) => {
   const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 
   useEffect(() => {
-    const categoryFromPath = pathname.split('/').pop();
+    const categoryFromPath = pathname?.split('/').pop();
     if (categoryFromPath) {
       setSelectedCategory(categoryFromPath);
     }
