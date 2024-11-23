@@ -251,6 +251,8 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
+| 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen. | Lifetime 40% OFF |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 
 ### Marketing
 | | Name | Description | Deal |
@@ -276,6 +278,8 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [SmartGantt](https://smartgantt.net) | Instant Gantt Chart Creator. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 🏆 | [Yappa](https://goyappa.com) | The ultimate toolkit for freelancers | 2 months off with code **TRYYAPPA-2MONTHS** |
 | 🛠️ | [AlbusBit](https://albusbit.com/blackfriday/) | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code **BF2024** |
+| 🖥️ | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
+| 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
 
 [⬆️ All categories](#table-of-contents)
 
