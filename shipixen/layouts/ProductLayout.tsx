@@ -56,6 +56,14 @@ export default function PostLayout({
 
   const allProducts = allCoreContent(allBlogs);
 
+  function shuffleArray(array) {
+    for (let i = array.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [array[i], array[j]] = [array[j], array[i]];
+    }
+    return array;
+  }
+
   const getRecommendedProducts = () => {
     const sameCategoryProducts = allProducts.filter(
       (product) =>
@@ -69,9 +77,13 @@ export default function PostLayout({
         (!product.categories ||
           !product.categories.some((cat) => categories?.includes(cat))),
     );
+
+    const shuffledSameCategoryProducts = shuffleArray(sameCategoryProducts);
+    const shuffledOtherProducts = shuffleArray(otherProducts);
+
     const recommendations = [
-      ...sameCategoryProducts.slice(0, 5),
-      ...otherProducts.slice(0, 5),
+      ...shuffledSameCategoryProducts.slice(0, 5),
+      ...shuffledOtherProducts.slice(0, 5),
     ];
     return recommendations;
   };
