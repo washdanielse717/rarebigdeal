@@ -69,7 +69,7 @@ export default async function AllBundles() {
           </Button>
 
           <Button size="xl" variant="outlinePrimary">
-            <Link href="/categories/productivity">All Categories</Link>
+            <Link href="/categories/developer-tools">All Categories</Link>
           </Button>
         </div>
 

@@ -4,6 +4,7 @@ module.exports = {
   apps: [
     'Typefully',
     'Xnapper',
+    'CompressX',
     'Unicorn Platform',
     'TablePlus',
     'Carrd',

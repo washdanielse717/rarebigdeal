@@ -89,7 +89,7 @@ export default async function Home() {
           </Button>
 
           <Button size="xl" variant="outlinePrimary">
-            <Link href="/categories/productivity">All Categories</Link>
+            <Link href="/categories/developer-tools">All Categories</Link>
           </Button>
         </div>
 

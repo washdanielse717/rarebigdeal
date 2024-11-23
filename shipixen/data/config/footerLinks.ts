@@ -37,7 +37,7 @@ export const footerLinks: Array<{
     columnName: 'Categories',
     links: [
       {
-        href: '/categories/productivity',
+        href: '/categories/developer-tools',
         title: 'Productivity Deals',
       },
       {

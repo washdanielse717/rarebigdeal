@@ -5,6 +5,7 @@ module.exports = {
     'BoltAi',
     'Xnapper',
     'PDF Pals',
+    'CompressX',
     'LocalCan',
     'TablePlus',
     'Sip',

@@ -17,6 +17,7 @@ Sentry.init({
       submitButtonLabel: 'Submit',
       triggerLabel: 'Feedback',
       messagePlaceholder: 'What can we do better?',
+      attachScreenshot: false,
     }),
 
     Sentry.replayIntegration(),

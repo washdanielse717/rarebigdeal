@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-208+ awesome deals inside 🔥
+213+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -70,6 +70,7 @@ It's free & open-source. Enjoy! 🚀
   - [Databases](#databases)
 - [Productized Services](#productized-services)
   - [Design Agencies](#design-agencies)
+  - [Video Production Agencies](#video-production-agencies)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -82,6 +83,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows.  | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2024 |
+| 📚 | [CompressX](https://compressx.app/?aff=OzBPe) | Offline media compression. Compress video, image, and gif with up to 90% file size reduction | 30% OFF with code **BF24** |
 | 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF with code **BLACKFRIDAY_2024** |
 | 🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
@@ -117,6 +119,7 @@ It's free & open-source. Enjoy! 🚀
 | 🥑 | [Avo Admin for Rails](https://avohq.io) | Build Internal Tools and CRMs on Ruby on Rails in weeks not months. | %15 OFF any license using the code **BLACKFRIDAY24** |
 | 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off on [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -157,6 +160,9 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
 
+[⬆️ All categories](#table-of-contents)
+
+
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -188,6 +194,8 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off on [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
+
+[⬆️ All categories](#table-of-contents)
 
 ### Lifestyle
 |     | Name                                                     | Description                                            | Deal                       |
@@ -224,6 +232,7 @@ It's free & open-source. Enjoy! 🚀
 ### Video Tools
 | | Name | Description | Deal |
 | - | - | - | - |
+| 🎬 | [Clipwing](https://clipwing.pro) | Create dozens of clips from your raw videos, publish more content and grow your video show | 25% OFF with code BLACKWING |
 | 🎬 | [Recut](https://getrecut.com) | Save time on audio and video editing! It cuts out the pauses automatically, better than AI tools | $50 OFF lifetime plan |
 | ⭐ | [Krumzi](https://www.krumzi.com) | Krumzi is meant to help creators and businesses produce content that grows their social media engagement and audiences. | 50% OFF for a year with code **BLACKFRIDAY24** |
 | 🧑‍🚀 | [Loomos](https://loomos.co/login) | Create Stunning Training Videos In Minutes. | 50% OFF till BLACKFRIDAY |
@@ -554,6 +563,11 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🎨 | [A83 Design](https://a83.net) | A83 is a remote & asynchronous design studio that helps founders & teams deliver design faster & more effective. | 25% OFF with code **BF2024** |
 
+### Video Production Agencies
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🎬  | [Clipwing Production](https://clipwing.pro/custom-video-production) | We'll save you days on producing better video content. | $1,000 OFF with code BLACKCLIP |
+
 [⬆️ All categories](#table-of-contents)
 
 ## Miscellaneous
@@ -567,5 +581,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML | 60% OFF with code **60OFF50** |
 | ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~\$980~~ **$490** until Nov 29 |
+|  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+|  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)
