@@ -56,7 +56,7 @@ It's free & open-source. Enjoy! 🚀
   - [SvelteKit](#sveltekit)
   - [Nuxt](#nuxt)
   - [Chrome Extensions](#chrome-extensions)
-  - [Libraries](#libraries)
+  - [Libraries \& More](#libraries--more)
 - [Learning](#learning)
   - [Courses](#courses)
   - [Art Courses](#art-courses)
@@ -349,7 +349,6 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [OSSsoftware Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads & Paid listings on a directory of open source alternatives. | 50% off ads [osssoftware.org](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [NextJsStarter Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and paid listings on a directory of NextJS boilerplates. | 50% off ads [nextjsstarter.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [DevHunt Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and Paid listings on biggest launchpad for dev tools. | 50% off ads [devhunt.org](https://johnrush.me/black-friday-deals/?ref=rare) |
-| 🚀 | [BoilerplateHub](https://boilerplatehub.com/?ref=rare) | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
 
 ### Other
 | | Name | Description | Deal |
@@ -466,12 +465,13 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [ChromeKit](https://www.chromekit.dev/) | The Chrome extension boilerplate with all you need to build and launch your extension fast with ReactJS, TailwindCSS & Vite | 30% OFF on Individual plan with code **BLACKFRIDAY2024** |
 | ✨ | [Chatsy](https://chromewebstore.google.com/detail/netflix-comments-and-chat/nidobicjgndldknjcgfclehmlleibflh) | The Chrome extension to add comments on your favourite Netflix Movies and Shows | **Lifetime Free** |
 
-### Libraries
+### Libraries & More
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🤑 | [Tailkit](https://tailkit.com) | Carefully crafted, easy to customize, fully responsive Tailwind components, templates and tools for all your Tailwind CSS based projects. | Up to 50% OFF for a limited no. of licenses **BLACKFRIDAY2024** |
 | ⚡ | [NextReady](https://nextready.dev) | Ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 🚚 | [Saas UI](https://saas-ui.dev) | React toolkit for building beautiful SaaS products. Design system, component library, Next.js starterkit, TypeScript, Chakra UI, Stripe and more. | 30% OFF with code **BLACKFRIDAY30** |
+| 🚀 | [BoilerplateHub](https://boilerplatehub.com/?ref=rare) | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -562,6 +562,6 @@ It's free & open-source. Enjoy! 🚀
 | 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
 | 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML | 60% OFF with code **60OFF50** |
-| ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~$980~~ **$490** until Nov 29 |
+| ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~\$980~~ **$490** until Nov 29 |
 
 [⬆️ All categories](#table-of-contents)
