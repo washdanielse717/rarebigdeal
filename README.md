@@ -560,5 +560,6 @@ It's free & open-source. Enjoy! 🚀
 | 🤑 | [The Big Service Business Bundle](https://unapologeticih.gumroad.com/l/bsbb) | Grow your business with the all in one, unbeatable bundle. | 75% OFF with code **75BSB** |
 | 🤑 | [Mail Mastery](https://unapologeticih.gumroad.com/l/nyzwb) | Simply copy, paste and customize 250 Email Templates to get the answers you want from clients and seal the deal with 30 Business Documents to boot. | 60% OFF with code **60OFFMM** |
 | 🤑 | [Notion 50+ Page Freelancer Pack](https://unapologeticih.gumroad.com/l/lpniqt) | 50+ Freelancer/ Remote Business Templates and Docs that can be saved online/downloaded in PDF/CSV/HTML | 60% OFF with code **60OFF50** |
+| ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~$980~~ **$490** until Nov 29 |
 
 [⬆️ All categories](#table-of-contents)
