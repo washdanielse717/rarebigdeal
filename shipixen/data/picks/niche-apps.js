@@ -2,6 +2,7 @@ module.exports = {
   name: 'Niche Apps',
   description: "Do something you never thought you'd do.",
   apps: [
+    'Stagetimer Desktop: Lifetime License',
     'ScreenshotOne',
     'ReadReviews',
     'Ghostfolio',
