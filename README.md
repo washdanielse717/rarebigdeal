@@ -120,6 +120,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌐 | [Pingify](https://pingify.com) | Monitor website uptime, SSL certificates, DNS records, and more. Instant alerts for downtime and performance issues. | **50% off** Lifetime Deal |
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
+| 📔 | [Quotion](https://quotion.co/) | Apple Notes to blogs/portfolios/portals in minutes. | **30% OFF** on all plans for 12 months with code **BLACKFRIDAY2024** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
