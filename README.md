@@ -123,6 +123,7 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
 | 📔 | [Quotion](https://quotion.co/) | Apple Notes to blogs/portfolios/portals in minutes. | **30% OFF** on all plans for 12 months with code **BLACKFRIDAY2024** |
 | 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
+| 💡 | [ProductLogz](https://productlogz.com/) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications | **Get 10% OFF** on the LTD Plans |
 
 ### Browser Extensions
 | | Name | Description | Deal |
