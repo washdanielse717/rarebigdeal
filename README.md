@@ -122,6 +122,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [AI Scraper](https://johnrush.me/black-friday-deals/?ref=rare) | Extract data from any website in seconds. | 50% off [aiscraper.co](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💰 | [1Price](https://1price.co/) | Maximize Revenue Per Customer — using AI | **35% OFF** on all plans with code **LOVEPHUNT** |
 | 📔 | [Quotion](https://quotion.co/) | Apple Notes to blogs/portfolios/portals in minutes. | **30% OFF** on all plans for 12 months with code **BLACKFRIDAY2024** |
+| 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -401,6 +402,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🤩 | [CheckMySEO](https://www.checkmyseo.io?utm_source=rarebigdeal) | Boost your website's ranking: Analyze your SEO, fix issues, discover keyword suggestions, track backlinks, and climb the rankings! | 30% OFF with code **BF30** |
 | 👾 | [SEOBlueprint3](https://seoblueprint.com?utm_source=danisalegend) | Get the SEO course with four years of updates, used by some of the best ranking brands on the internet. | 20 minute SEO audit with order **Black Friday Exclusive** |
+| 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
 
 ### Content Creation
 | | Name | Description | Deal |
