@@ -182,6 +182,7 @@ It's free & open-source. Enjoy! 🚀
 | 🐰 | [CodeRabbit](https://coderabbit.ai) | AI-powered code review bot providing detailed code reviews and actionable suggestions to enhance code quality. Integrates with GitHub and GitLab. | Free for open-source projects. Use code **BLACKFRIDAY** for 1 month free on the pro version. [Learn more](https://www.coderabbit.ai/pricing) |
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
 | 🤖 | [Chibi AI](https://chibi.ai/?via=rarebigdeal) | The right tool for the write job | 33% off on [chibi.ai](https://chibi.ai/l/black-friday-2024?via=rarebigdeal) |
+| 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
 
 ### Other
 | | Name | Description | Deal |
