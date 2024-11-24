@@ -583,5 +583,6 @@ It's free & open-source. Enjoy! 🚀
 | ⏳ | [Stagetimer Desktop: Lifetime License](https://stagetimer.io/desktop-app/?ref=danmindru#lifetime-license) | Professional Timer App for Live Events / Show a fullscreen timer to your presenter while you control it from another device | ~~\$980~~ **$490** until Nov 29 |
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+|  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
 
 [⬆️ All categories](#table-of-contents)
