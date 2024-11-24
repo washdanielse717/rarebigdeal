@@ -448,6 +448,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🐌 | [Larafast](https://larafast.com) | #1 Laravel SaaS Starter Kit | 50% OFF on all Starter Kits (Livewire, Vue, Directories, API) with code **BLACKFRIDAY2024** |
+| 🚀 | [ZapKit](https://zapkit.dev) | AI Laravel Starter Kit to Build & Ship fast and Automate it using built in AI Agents | $80 OFF |
 
 ### Astro
 | | Name | Description | Deal |
