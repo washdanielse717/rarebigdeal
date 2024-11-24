@@ -497,7 +497,7 @@ It's free & open-source. Enjoy! 🚀
 ### Courses
 | | Name | Description | Deal |
 | - | - | - | - |
-| 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BFCPSALE24) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. | 50% OFF with code **BFCPSALE24** |
 | 🤑 | [AI Learning Hub](https://ailearninghub.io) | Master AI from Zero to Advanced. Get a complete AI roadmap, personalized mentorship, early access to exclusive AI projects & resources, and join a supportive learning community. | 50% OFF with code **BLACKFRIDAY** |
 | ✍️ | [Ultimate Technical Writing Course](https://technicalwriting.online) | Learn how to leverage the power of technical writing to showcase your expertise, position yourself as a leader, and earn money. | 30% OFF with code **BF2024** |
 | 💙 | [The Best Flutter Course on the Internet](https://www.hungrimind.com/learn/flutter) | Build production-grade apps with guidance from two trusted Google Developer Experts. | 50% OFF automatically applied at checkout |
@@ -522,7 +522,7 @@ It's free & open-source. Enjoy! 🚀
 ### Books
 | | Name | Description | Deal |
 | - | - | - | - |
-| 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BLACKFRIDAY24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BLACKFRIDAY24** |
+| 💰 | [Learn Programming with Go, One Game at a Time](https://www.udemy.com/course/learn-programming-with-go/?couponCode=BFCPSALE24) | Learn Golang by building fun game projects, appropriate for beginners and intermediate programmers alike! | 83% OFF with code **BFCPSALE24** |
 | 📚 | [Machine Learning for Soccer betting - 3 Books Bundle](https://tropianhs.gumroad.com/l/soccerbettingbundle/d43474c) | Apply Machine Learning to predict the results of soccer matches and learn how to build an automated betting strategy (applied separately or on entire 3 books bundle) | 50% OFF with code **D43474C** |
 | 🤑 | [Wifi Money Bundle](https://www.wifimoneyplant.com/l/bundle/BLACKFRIDAY) | Collection of 6 guides on making money online, building an audience, growing on social media etc - all you need to win in business and marketing | 50% OFF with code **BLACKFRIDAY** (link already discounted) |
 | 💰 | [A Developer's Guide to Blogging](https://theankurtyagi.gumroad.com/l/blogging/BlackFriday) | Learn how to build a successful blog as a developer, with tips on content creation, SEO, and monetization to elevate your personal brand and career. | 50% OFF |
