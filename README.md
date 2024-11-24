@@ -78,7 +78,7 @@ It's free & open-source. Enjoy! 🚀
 ### macOS Apps
 | | Name | Description | Deal |
 | - | - | - | - |
-| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
+| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | up to 60% OFF with code **BFCM2024** |
 | 📃 | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows.  | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
@@ -152,7 +152,7 @@ It's free & open-source. Enjoy! 🚀
 ### Chat UI
 | | Name | Description | Deal |
 | - | - | - | - |
-| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | 30% OFF with code **BFCM2024** |
+| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | up to 60% OFF with code **BFCM2024** |
 | 🤖 | [TypingMind](https://typingmind.com/) | Personal AI workspace. Frontend for ChatGPT, Claude, Gemini to use with your API key. Support Artifact, Projects, Vision, Canvas, AI agents builder, DALL-E, Plugins, etc. | 55% OFF with code **BLACKFRIDAY_2024** |
 | 🧑‍💻 | [Alter, AI built for MacOS](https://alterhq.com?utm_source=github&utm_campaign=rarebigdeals&utm_content=blackfriday2024) | Skip lengthy conversations, use 80+ AI-driven actions on any apps. Chat instantly from the Finder, native apps, webpages and YouTube videos. 30+ models provided or bring your own (cloud, local). Use codes at checkout after downloading the app. | Power User Plan: 3x 50% OFF **BF2024LIMITED** / 25% OFF **BF2024** |
 | ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
