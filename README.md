@@ -445,6 +445,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🚢 | [ShipFlutter](https://shipflutter.com) | Ship Everywhere with Flutter. More than a boilerplate. A fully customizable starter kit to seamlessly launch responsive Android, iOS, and Web apps with Flutter powered by Firebase and Vertex AI. | 60% OFF on Whitelabel version with code **BLACKFRIDAY60** |
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
+| 📱 | [ApparenceKit flutter template](https://apparencekit.dev) | Save months of work and money by building a Flutter app. Crafted by an ex-agency owner with over 6 years of Flutter experience. | 35% with code **BLACKFRIDAY2024** |
 
 ### Django
 | | Name | Description | Deal |
