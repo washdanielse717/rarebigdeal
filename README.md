@@ -133,6 +133,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [GSCTool.com](https://www.gsctool.com/) | Effortlessly clean up your search console account with our Chrome extension, supporting Google Search Console, Bing Webmaster Tools and Yandex. (bulk url removal, bulk indexing url, bulk inspection url to Google, Bing & Yandex) | (Yearly plan) 40% OFF with code **BLACKFRIDAY2024** (Ends on 12/03) |
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🧙‍♂️ | [CanvasWizard](https://canvaswizard.co/?via=rarebigdeal) | The AI Chrome Extension for Canvas Quizzes: Get answers & explanations to your Quizzes, Homeworks and Tests with a single click. | 50% OFF your SEMESTRER (3 Months) with code **BFSEM50** |
+| 🩵 | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | **25% OFF** auto-applied! |
 
 ### Productivity & AI
 | | Name | Description | Deal |
