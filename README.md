@@ -152,6 +152,7 @@ It's free & open-source. Enjoy! 🚀
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 💻 | [CleanClip](https://cleanclip.cc?ref=rare-big-deal) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% off with code **BF2024** until Dec 4 |
 | 🗣️ | [Cleft Notes](https://cleftnotes.com) | Create shareable markdown notes from voice memos | **$60 OFF** Cleft Plus Annual Plan |
+| 🎬 | [Video Shorts Generator](https://harishgarg.gumroad.com/l/vxolwd) | Create Video Shorts from a Text Prompt, Runs Locally, No Subscriptions, One-time purchase, Source Code included | 30% off with code **RAREDEAL2024** until Nov 20th |
 
 [⬆️ All categories](#table-of-contents)
 
