@@ -335,6 +335,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Mailpost.io](https://mailpost.io/) | Email marketing software - Send your email marketing campaign quickly and easily. Trusted by developers, designers and marketers for time-savings, scalability and price. | 30% OFF with code **BLACK24** |
 | 🗃️ | [findmassleads](https://findmassleads.com) | Download thousands of good leads from a database of 90,983,688 websites and get tons of potential customers... | 70% OFF with code **BLACKFRIDAY2024** |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
+| ⭐ | [SyncSignature](https://syncsignature.com) | Branded email signatures for your teams. SyncSignature helps design, update and automatically install email signatures for everyone across your business. | Get 60% on all recurring plans. Use code BF24CM60 on checkout. |
 
 ### Content Creation
 | | Name | Description | Deal |
