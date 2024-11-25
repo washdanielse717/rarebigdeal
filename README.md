@@ -269,6 +269,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
 | 🧑‍💻 | [Alter, AI built for MacOS](https://alterhq.com?utm_source=github&utm_campaign=rarebigdeals&utm_content=blackfriday2024) | Skip lengthy conversations, use 80+ AI-driven actions on any apps. Chat instantly from the Finder, native apps, webpages and YouTube videos. 30+ models provided or bring your own (cloud, local). Use codes at checkout after downloading the app. | Power User Plan: 3x 50% OFF **BF2024LIMITED** / 25% OFF **BF2024** |
 | 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
+| 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
 
 ### Design Tools
 | | Name | Description | Deal |
