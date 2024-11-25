@@ -335,6 +335,7 @@ It's free & open-source. Enjoy! 🚀
 | 👑 | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
 | ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** |
 | 🔗 | [Nuelink](https://nuelink.com/) | Nuelink is a social media management and automation tool designed for professionals including agencies, e-commerce brands, podcasters, creators. Manage, schedule, analyze, and automate on 12+ platforms. | [50% OFF on all yearly plans](https://nuelink.com/pricing) (Nov 5 - Dec 9) |
+| 🦋 | [Airview](https://airview.so) | Posting, scheduling and analytics for Bluesky. | 30% off any paid plan **RAREBF24** |
 
 ### Email Marketing
 | | Name | Description | Deal |
@@ -364,6 +365,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 📊 | [Branding5](https://feedbackglow.com) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
 | 📝 | [Count Visits](https://johnrush.me/black-friday-deals/?ref=rare) | Web Analytics Tool for Busy Founders | 50% off [countvisits.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 📊 | [ilo](https://ilo.so?ref=rare-big-deals) | All your internet stats on one dashboard | 30% off any paid plan **RAREBF24** |
 
 ### Website Builders
 | | Name | Description | Deal |
