@@ -1247,6 +1247,11 @@ module.exports = {
     'timebox-so': {
       tags: ['Efficiency', 'Productivity', 'Scheduling', 'Timeboxing', 'Tools'],
     },
+    timelapsed: {
+      metaDescription:
+        'Elevate your visual storytelling with TimeLapsed — the ultimate time lapse photography app meticulously crafted to turn your mobile device into a potent time-lapse photography studio. Tailored for both the accomplished photographer and the avid hobbyist, TimeLapsed grants you the tools to encapsulate the transient beauty of time with unmatched precision and artistry.',
+      tags: ['Photography', 'Time Lapse', 'Tools'],
+    },
     tincto: {
       tags: ['AI', 'Color Palettes', 'Design', 'Graphics', 'Marketing'],
     },
