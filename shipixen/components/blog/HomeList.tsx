@@ -103,6 +103,8 @@ export default function HomeList({
       'AI Tools',
       'Boilerplates, Starters & Libraries',
       'Marketing',
+      'MacOS Apps',
+      'iOS Apps',
     ];
     const otherCategories = Object.keys(categories)
       .filter((category) => !priorityCategories.includes(category))

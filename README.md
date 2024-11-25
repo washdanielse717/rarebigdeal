@@ -125,6 +125,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
 | 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
+| 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -326,6 +327,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+| 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 
 ### Other
 | | Name | Description | Deal |
@@ -333,6 +335,7 @@ It's free & open-source. Enjoy! 🚀
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  🚫 | [AdBlock Bolt](https://apps.apple.com/app/apple-store/id1041834536?pt=521486&ct=rarebigdeal2024BF&mt=8) | Bolt is a fully free to use ad-blocker and tracker-blocker for Safari on all Apple devices. Bolt+ is a paid feature that works across the whole system to block even more ads and trackers, greatly improving your privacy. Not a single data is collected. | Get a 30% discount on Bolt+ lifetime purchase during Black Friday 2024 Nov 29 - Nov 30 |
 |  🖼️ | [Flux AI Image Generator](https://apps.apple.com/us/app/flux-ai-image-generator/id6670344892?pt=521486&ct=rarebigdeal2024BF&mt=8) | Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced models. Turn your text prompts into stunning, high-quality images. | Enjoy up to 50% off credit purchases throughout this month! Nov 1 - Nov 30 |
+| 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -482,6 +485,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Branding5](https://feedbackglow.com) | AI-powered Brand Positioning, Competitor Analysis and Marketing Audit & Strategy | 50% off with code **BLACK50** on all products |
 | 📝 | [Count Visits](https://johnrush.me/black-friday-deals/?ref=rare) | Web Analytics Tool for Busy Founders | 50% off [countvisits.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 📊 | [ilo](https://ilo.so?ref=rare-big-deals) | All your internet stats on one dashboard | 30% off any paid plan **RAREBF24** |
+| 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 
 ### Website Builders
 | | Name | Description | Deal |
@@ -739,5 +743,6 @@ It's free & open-source. Enjoy! 🚀
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
+| 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 
 [⬆️ All categories](#table-of-contents)
