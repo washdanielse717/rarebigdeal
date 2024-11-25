@@ -1,5 +1,8 @@
 module.exports = {
   overrides: {
+    '1price': {
+      tags: ['AI', 'Automation', 'Machine Learning', 'Pricing'],
+    },
     'a-developer-s-guide-to-blogging': {
       tags: ['Blogging', 'Books', 'Learning', 'Monetization', 'SEO'],
     },
@@ -8,6 +11,7 @@ module.exports = {
       tags: [
         'Accessibility',
         'Developer Tools',
+        'DevTools',
         'Efficiency',
         'Productivity',
         'Tools',
@@ -58,14 +62,7 @@ module.exports = {
     'ai-scraper': {
       logo: '/public/static/images/overrides/ai-scraper/logo.png',
       ogImage: '/public/static/images/overrides/ai-scraper/ogImage.png',
-      tags: [
-        'AI',
-        'Automation',
-        'Developer',
-        'Machine Learning',
-        'macOS',
-        'Tools',
-      ],
+      tags: ['AI', 'Automation', 'Developer', 'Machine Learning', 'Tools'],
     },
     albusbit: {
       tags: [
@@ -86,6 +83,7 @@ module.exports = {
       tags: [
         'Developer',
         'Developer Tools',
+        'DevTools',
         'GUI',
         'Kubernetes',
         'macOS',
@@ -103,9 +101,18 @@ module.exports = {
       ],
     },
     'avo-admin-for-rails': {
-      tags: ['APIs', 'Developer', 'Developer Tools', 'macOS', 'Tools', 'Tools'],
+      tags: [
+        'APIs',
+        'Developer',
+        'Developer Tools',
+        'DevTools',
+        'Tools',
+        'DevTools',
+      ],
     },
     bannerify: {
+      logo: '/public/static/images/overrides/bannerify/logo.png',
+      ogImage: '/public/static/images/overrides/bannerify/ogImage.png',
       tags: ['API', 'Automated Images', 'Design', 'Graphics', 'Marketing'],
     },
     blitzbear: {
@@ -148,7 +155,14 @@ module.exports = {
       tags: ['Marketing', 'Optimization', 'SEO', 'Startup Submission'],
     },
     braindump: {
-      tags: ['Developer', 'Developer Tools', 'macOS', 'Productivity', 'Tools'],
+      tags: [
+        'Developer',
+        'Developer Tools',
+        'DevTools',
+        'macOS',
+        'Productivity',
+        'Tools',
+      ],
     },
     branding5: {
       tags: [
@@ -222,6 +236,7 @@ module.exports = {
         'Boilerplate',
         'Chrome Extension',
         'Developer Tools',
+        'DevTools',
         'ReactJS',
         'TailwindCSS',
       ],
@@ -313,6 +328,7 @@ module.exports = {
         'API Scheduling',
         'Developer',
         'Developer Tools',
+        'DevTools',
         'Productivity',
         'Tools',
       ],
@@ -355,11 +371,18 @@ module.exports = {
     'devhunt-ad': {
       logo: '/public/static/images/overrides/devhunt-ad/logo.png',
       ogImage: '/public/static/images/overrides/devhunt-ad/ogImage.png',
-      tags: ['Ads & Paid listings', 'Developer Tools', 'Marketing'],
+      tags: ['Ads & Paid listings', 'Developer Tools', 'DevTools', 'Marketing'],
     },
     devutils: {
       ogImage: '/public/static/images/overrides/devutils/ogImage.png',
-      tags: ['Developer', 'Developer Tools', 'macOS', 'Productivity', 'Tools'],
+      tags: [
+        'Developer',
+        'Developer Tools',
+        'DevTools',
+        'macOS',
+        'Productivity',
+        'Tools',
+      ],
     },
     'directory-guide': {
       logo: '/public/static/images/overrides/directory-guide/logo.png',
@@ -385,6 +408,7 @@ module.exports = {
         'Browser Extensions',
         'Developer',
         'Developer Tools',
+        'DevTools',
         'macOS',
         'Review Tracking',
         'Tools',
@@ -469,7 +493,7 @@ module.exports = {
       ],
     },
     'gsctool-com': {
-      tags: ['Developer', 'macOS', 'Marketing', 'Optimization', 'SEO', 'Tools'],
+      tags: ['Developer', 'Marketing', 'Optimization', 'SEO', 'Tools'],
     },
     guidejar: {
       tags: ['AI', 'Documentation', 'Marketing', 'Product Demo', 'Tools'],
@@ -505,7 +529,7 @@ module.exports = {
         'Browser Extensions',
         'Developer',
         'Developer Tools',
-        'macOS',
+        'DevTools',
         'Tools',
       ],
     },
@@ -557,7 +581,7 @@ module.exports = {
         'Inventory Tracking',
         'iOS',
         'iPadOS',
-        'macOS',
+        'iOS',
         'Productivity',
         'Tools',
       ],
@@ -626,6 +650,7 @@ module.exports = {
       tags: [
         'Developer',
         'Developer Tools',
+        'DevTools',
         'Local Domains',
         'macOS',
         'Ngrok Alternative',
@@ -647,6 +672,7 @@ module.exports = {
         'AI',
         'Content Creation',
         'Developer Tools',
+        'DevTools',
         'Efficiency',
         'Marketing',
         'Optimization',
@@ -812,7 +838,7 @@ module.exports = {
       tags: ['AI', 'Business', 'Marketing', 'Tools', 'Website Builder'],
     },
     pingify: {
-      tags: ['Developer', 'macOS', 'Monitoring', 'Tools', 'Uptime'],
+      tags: ['Developer', 'Monitoring', 'Tools', 'Uptime'],
     },
     postflow: {
       tags: [
@@ -988,7 +1014,15 @@ module.exports = {
       ],
     },
     sidenotes: {
-      tags: ['macOS', 'Notes', 'Productivity', 'Tools', 'Writing'],
+      tags: [
+        'macOS',
+        'iOS',
+        'iPad',
+        'Notes',
+        'Productivity',
+        'Tools',
+        'Writing',
+      ],
     },
     sip: {
       tags: [
@@ -996,13 +1030,14 @@ module.exports = {
         'Color Picker',
         'Developer',
         'Developer Tools',
+        'DevTools',
         'macOS',
         'Productivity',
         'Tools',
       ],
     },
     'siteshot-pro': {
-      tags: ['APIs', 'Developer', 'macOS', 'Screenshots', 'Tools'],
+      tags: ['APIs', 'Developer', 'Screenshots', 'Tools'],
     },
     smartgantt: {
       tags: ['Efficiency', 'Productivity', 'Tools'],
@@ -1079,6 +1114,7 @@ module.exports = {
     swiftylaunch: {
       tags: [
         'Developer Tools',
+        'DevTools',
         'iOS',
         'Productivity',
         'Project Generator',
@@ -1228,6 +1264,7 @@ module.exports = {
       tags: [
         'Developer',
         'Developer Tools',
+        'DevTools',
         'Efficiency',
         'macOS',
         'Productivity',

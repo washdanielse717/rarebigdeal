@@ -21,15 +21,28 @@ It's free & open-source. Enjoy! 🚀
   - [Productivity](#productivity)
   - [Other](#other)
   - [Lifestyle](#lifestyle)
-- [Design Tools](#design-tools)
+- [MacOS Apps](#macos-apps-1)
+  - [Developer Tools](#developer-tools-1)
   - [Productivity](#productivity-1)
+  - [Design Tools](#design-tools)
+  - [Health \& Fitness](#health--fitness)
+  - [Writing \& Notes](#writing--notes)
+  - [Menu Bar \& More](#menu-bar--more)
+- [iOS Apps](#ios-apps)
+  - [Writing \& Notes](#writing--notes-1)
+  - [Photos \& Videos](#photos--videos)
+  - [Health \& Fitness](#health--fitness-1)
+  - [Hobby \& Lifestyle](#hobby--lifestyle)
+  - [Other](#other-1)
+- [Design Tools](#design-tools-1)
+  - [Productivity](#productivity-2)
   - [AI Design Tools](#ai-design-tools)
   - [Video Tools](#video-tools)
   - [Social](#social)
-- [Productivity](#productivity-2)
+- [Productivity](#productivity-3)
   - [Todo Apps, Notes \& Writing](#todo-apps-notes--writing)
   - [Marketing](#marketing)
-  - [Other](#other-1)
+  - [Other](#other-2)
 - [Marketing](#marketing-1)
   - [Social](#social-1)
   - [Email Marketing](#email-marketing)
@@ -38,7 +51,7 @@ It's free & open-source. Enjoy! 🚀
   - [Analytics](#analytics)
   - [Website Builders](#website-builders)
   - [Ads \& Paid listings](#ads--paid-listings)
-  - [Other](#other-2)
+  - [Other](#other-3)
 - [SEO Tools](#seo-tools)
   - [Backlinks](#backlinks)
   - [Tools](#tools)
@@ -173,7 +186,6 @@ It's free & open-source. Enjoy! 🚀
 
 [⬆️ All categories](#table-of-contents)
 
-
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -219,6 +231,100 @@ It's free & open-source. Enjoy! 🚀
 
 [⬆️ All categories](#table-of-contents)
 
+## MacOS Apps
+### Developer Tools
+| | Name | Description | Deal |
+| - | - | - | - |
+| ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | up to 60% OFF with code **BFCM2024** |
+| ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2024 |
+| 📚 | [CompressX](https://compressx.app/?aff=OzBPe) | Offline media compression. Compress video, image, and gif with up to 90% file size reduction | 30% OFF with code **BF24** |
+| 🏏 | [Clobbr](https://clobbr.app) | The app & CLI tool to load test your API endpoints. | 50% off in the AppStore (already applied) |
+| 👩‍🚀 | [Proxyman](https://proxyman.io/?ref=rare-big-deal) | Turbocharge your network debugging. Professional-grade solution for faster HTTP/HTTPS troubleshooting on macOS, iOS, Windows, and Linux. | 30% OFF on all plans with code **BLACKFRIDAY2024**. |
+| 🌐 | [LocalCan™](https://www.localcan.com/) | #1 Ngrok alternative. Without subscription. With .local domains and top-rated UX. | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+| 💻 | [Aptakube](https://aptakube.com) | Kubernetes GUI: Multi-Cluster, Modern. Lightweight. Multi-Cluster. Works on Windows, macOS and Linux. | 30% OFF with code **BLACKFRIDAY2024** |
+| 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
+
+### Productivity
+| | Name | Description | Deal |
+| - | - | - | - |
+| ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
+| 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
+| ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
+| 🕓 | [Minizones](https://minizones.app) | Quickly glance at different timezones, right from your menubar. | 50% OFF (26 Nov - 3 Dec) **No Code Needed** |
+| 🤖 | [MindPal](https://mindpal.io) | Build AI agents & multi-agent workflows to automate business processes. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** |
+| 🖊 | [Presentify](https://apps.apple.com/app/id1507246666) | Screen annotation app for macOS, featured by Apple 3 times. | 25% off on the App Store. No code needed. |
+| 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
+| 💻 | [Spaces](https://spacesformac.xyz) | Declutter & organize your workspace on macOS in one single click 🎊 | Lifetime 35% OFF till Nov 30th |
+| 💻 | [Zen mode](https://zenmode.app) | Avoid those awkward moments in public places or in presentation meetings in 1-click | Lifetime 40% OFF till Nov 30th |
+| 🚖 | [Folge](https://folge.me) | Easily create step-by-step guides, tutorials, SOPs, and documentation for any process. | Lifetime 25% OFF till Nov 30th |
+| ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
+| 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
+| 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th |
+| 🖥️ | [Wins - Brand New Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF with code **BLACKFRIDAY_2024** |
+| 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
+| 💻 | [CleanClip](https://cleanclip.cc?ref=rare-big-deal) | The cleanest Clipboard Manager for macOS, Clean UI/Immersive menu/Paste Queue/Smart List/Unlimited Storage | 30% off with code **BF2024** until Dec 4 |
+| ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
+| 🧑‍💻 | [Alter, AI built for MacOS](https://alterhq.com?utm_source=github&utm_campaign=rarebigdeals&utm_content=blackfriday2024) | Skip lengthy conversations, use 80+ AI-driven actions on any apps. Chat instantly from the Finder, native apps, webpages and YouTube videos. 30+ models provided or bring your own (cloud, local). Use codes at checkout after downloading the app. | Power User Plan: 3x 50% OFF **BF2024LIMITED** / 25% OFF **BF2024** |
+| 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
+
+### Design Tools
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
+| 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
+
+### Health & Fitness
+| | Name | Description | Deal |
+| - | - | - | - |
+| 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
+| 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
+
+### Writing & Notes
+| | Name | Description | Deal |
+| - | - | - | - |
+| 💻 | [Voice Type-Dictation Tool](https://carelesswhisper.app) | Local dictation tool for macOS. Good for folks using ChatGpt, Claude, Cursor etc all day. Great if you suffer from RSI. | 50% OFF till Nov-30 |
+| 🧠 | [BrainDump](https://apps.apple.com/us/app/record-transcribe-braindump/id6473446030) | Yet another voice to note taking app. Built around the apple eco system/ syncs across Apple devices. Meant to be fast and accurate while offering export in Markdown. | 50% OFF **BFS2024** |
+| 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
+| 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
+| 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
+
+### Menu Bar & More
+| | Name | Description | Deal |
+| - | - | - | - |
+| 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
+| 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
+| 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
+
+[⬆️ All categories](#table-of-contents)
+
+## iOS Apps
+### Writing & Notes
+| | Name | Description | Deal |
+| - | - | - | - |
+| 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
+| 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
+| ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
+
+### Photos & Videos
+| | Name | Description | Deal |
+| - | - | - | - |
+|  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+
+### Health & Fitness
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🍊 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** |
+| 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% OFF |
+
+### Hobby & Lifestyle
+| 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
+
+### Other
+|  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+
+[⬆️ All categories](#table-of-contents)
+
 ## Design Tools
 ### Productivity
 | | Name | Description | Deal |
@@ -254,6 +360,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎬 | [FastShorts](https://www.fastshorts.app/?utm_source=awesomebf) | AI-powered fully automated video creation for TikTok and YouTube for faceless channels. | 60% OFF all plans **BLACKFRIDAY2024** |
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 | 🔄 | [Loomos](https://loomos.co/login) | Transform boring screen recordings into studio-quality videos in single click. Edit the transcript, remove all the 'uhms', make videos a lot more engaging | 50% off till BLACK FRIDAY |
+| 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
 
 ### Social
 | | Name | Description | Deal |
@@ -274,12 +381,10 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & tasks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF Yearly Plan - no code needed |
 | 👥 | [MeetingMenu](https://www.meetingmenu.app/) | Manage, organize, and execute perfect meetings effortlessly, right from your Mac menu bar. | 60% OFF |
 | ✅ | [Trio: Mindful ToDo List App](https://apps.apple.com/redeem?ctx=offercodes&id=6636491845&code=BF24) | Your path to Mindful Productivity. Simplify, Focus, Achieve 🚀. Focus on just three key tasks daily to drive meaningful progress and maintain balance in your life. | 80% off the 1st year of Pro subscriptions with code **BF24** |
-| 📝 | [Quick Notes: Email Me](https://emailmeapp.net) | The fastest way to record your thoughts. Capture your ideas & tasks on-the-go. Available for iOS, iPadOS, macOS, watchOS & visionOS. | 50% OFF Yearly Plan - no code needed |
 | ✅ | [ToDoBar](https://apps.apple.com/app/id6470928617) | Your tasks on your menu bar. | 50% off on the App Store. No code needed. |
 | 📝 | [WriteMore](https://writemore.io) | Build Your Writing Muscle with Tools and Analytics Across All Devices | 30% OFF with code **BLACKFRIDAY2024** on annual plan for the first year. |
 | ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | ⏰ | [Timebox.so](https://www.timebox.so) | The #1 timeboxing app designed for focus. Drag and drop timeboxing scheduler, to-do lists, progress tracker, Notion-style notes, and Google calendar syncing - all in one place. | 50% OFF with code **BLACKFRIDAY50** |
-| ✍️ | [Kerlig™](https://www.kerlig.com/) | #1 Grammarly alternative. AI Writing Assistant & Chat for macOS, 350+ models, vision, attachments, presets, tones of voice | 10 x **BF50** 50% OFF and 50 x **BF25** 25% OFF |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen. | Lifetime 40% OFF |

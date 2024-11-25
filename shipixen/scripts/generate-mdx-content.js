@@ -8,7 +8,11 @@ const fs = require('fs');
 const path = require('path');
 
 async function generateMDXContent(app) {
-  const tags = applyCategoryOverrides(app.categories, sanitizeName(app.name));
+  const tags = applyCategoryOverrides(
+    app.categories,
+    app.subcategories,
+    sanitizeName(app.name),
+  );
   const { description, metaDescription, metaTitle, website, deal } =
     applyMetaOverrides(sanitizeName(app.name), app);
 
