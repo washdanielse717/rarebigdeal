@@ -5,6 +5,8 @@ module.exports = {
     },
     'a-developer-s-guide-to-blogging': {
       tags: ['Blogging', 'Books', 'Learning', 'Monetization', 'SEO'],
+      metaDescription:
+        'A Comprehensive Guide to Earning Extra Income through Blogging.If you had asked me if I would ever make money from my blogging, I would have said no. I lack any special talent, gift, or even a writer to mentor me.I’ve made more than $50,000 from writing in the last 2 years.',
     },
     'a11y-boost-reports': {
       ogImage: '/public/static/images/overrides/a11y-boost-reports/ogImage.png',
@@ -101,6 +103,8 @@ module.exports = {
       ],
     },
     'avo-admin-for-rails': {
+      metaDescription:
+        'Avo is a very custom Application Development Framework on Ruby on Rails that enables engineers and teams to build apps in weeks instead of months.',
       tags: [
         'APIs',
         'Developer',
@@ -211,6 +215,8 @@ module.exports = {
       ],
     },
     'character-quest-create-characters-for-personal-projects': {
+      metaDescription:
+        "Use this repeatable, easy-to-follow blueprint to create all the characters you want. We'll go through: Brainstorming your new character Doodling it to life Deciding and Tweaking a final design Coloring the entire character Creating a useful Character Sheet for your new character And more!",
       tags: [
         'Art Courses',
         'Character Design',
@@ -281,9 +287,13 @@ module.exports = {
       ],
     },
     collectiveintelligence: {
+      metaDescription:
+        'Get comprehensive insights faster and more affordably than traditional testing methods.',
       tags: ['Design', 'Graphics', 'Marketing'],
     },
     'complete-character-design-course-create-your-dream-character': {
+      metaDescription:
+        "You'll get over 30 videos packed with easy to follow content. No BS.",
       tags: [
         'Art Courses',
         'Character Design',
@@ -293,6 +303,8 @@ module.exports = {
       ],
     },
     'complete-chibi-drawing-course-draw-adorable-characters-': {
+      metaDescription:
+        "Do you want to create adorable Chibi characters step by step in less than 2 days? Chibis are very cute, small-sized characters that anybody can draw. And I'm here to help you master this skill, one step at a time.",
       tags: [
         'Art Courses',
         'Chibi Drawing',
@@ -302,6 +314,8 @@ module.exports = {
       ],
     },
     'complete-figure-drawing-course-create-dynamic-characters': {
+      metaDescription:
+        'Do you want to learn how to draw amazing characters and portraits? Tired of trying to memorize every muscle in the human body? Then this is the course for you!',
       tags: [
         'Art Courses',
         'Creativity',
@@ -340,6 +354,10 @@ module.exports = {
       tags: ['Courses', 'Hooks', 'Learning', 'Programming', 'React'],
     },
     cyberbots: {
+      metaTitle:
+        'cyberBots AI - Engage, Inform, Convert: The AI Chatbot That Speaks Your Customer\'s Language"',
+      metaDescription:
+        "Connect cyberBots AI to your website - where every conversation is an opportunity. Effortlessly guide visitors to solutions, purchases, and information, tailored to their needs and your brand's voice.",
       tags: [
         'AI Chatbots',
         'Customer Engagement',
@@ -441,6 +459,12 @@ module.exports = {
     'flutterflow-templates': {
       tags: ['Boilerplates', 'Startup SaaS/Tools'],
     },
+    'flux-ai-image-generator': {
+      tags: ['AI', 'Automation', 'Design', 'Graphics', 'Machine Learning'],
+      metaTitle: 'Transform your Imagination into Reality with Flux AI',
+      metaDescription:
+        'Transform your Imagination into Reality with Flux AI. Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced artificial',
+    },
     focu: {
       tags: ['AI', 'Automation', 'Machine Learning'],
     },
@@ -517,6 +541,8 @@ module.exports = {
       ],
     },
     'honeypot-newsletters-database': {
+      metaDescription:
+        'HoneyPot is a database of 1100+ Beehiiv Newsletters It includes details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication.',
       tags: ['Blogs', 'Books', 'Mailing Lists', 'Marketing', 'Newsletters'],
     },
     'hostedsoftware-ad': {
@@ -532,6 +558,11 @@ module.exports = {
         'DevTools',
         'Tools',
       ],
+    },
+    'how-to-build-better-portfolio-projects-as-a-web-developer': {
+      tags: ['Courses', 'Learning', 'Programming', 'Web Development'],
+      metaDescription:
+        'Your career as a web developer starts here!Learn to make a portfolio project that will get you hired. This guide contains everything you need to know to build an eye-catching developer portfolio.',
     },
     iconbuddy: {
       tags: ['Design', 'Design Tools', 'Graphics', 'Marketing', 'Productivity'],
@@ -584,6 +615,17 @@ module.exports = {
         'iOS',
         'Productivity',
         'Tools',
+      ],
+    },
+    'jason-s-plugins-for-carr': {
+      metaTitle: "Jason's Plugins for Carrd",
+      tags: [
+        'Carrd',
+        'Design',
+        'Graphics',
+        'Marketing',
+        'Productivity',
+        'Website Builders',
       ],
     },
     'kerlig-': {
@@ -682,9 +724,13 @@ module.exports = {
       ],
     },
     'machine-learning-for-soccer-betting-3-books-bundle': {
+      metaDescription:
+        'This bundle is made of all the books I have written about soccer betting. The individual purchase of these books would cost you €40. If you purchase the bundle you will save €15 which is a 37% discount on the full price.',
       tags: ['Books', 'Learning', 'Programming'],
     },
     'mail-mastery': {
+      metaDescription:
+        'Mail Mastery is essential for service-based businesses and freelancers to manage communication, overcome issues, and fuel growth.',
       tags: [
         'Books',
         'Business Documents',
@@ -758,6 +804,8 @@ module.exports = {
       tags: ['NextJs', 'Prisma', 'Productivity', 'React', 'SaaS', 'TypeScript'],
     },
     'notion-50-page-freelancer-pack': {
+      metaDescription:
+        'This is the Notion 50+ Page Freelancer Pack. Its packed full with 50+ Templates and Documents that can be saved online or downloaded in PDF, CSV and even HTMLBuilt in Notion it has every Template and Document a freelancer, business owner, remote worker or indie maker could ever need.',
       tags: [
         'Books',
         'Freelancers',
@@ -790,6 +838,12 @@ module.exports = {
         'Tools',
       ],
     },
+    'openai-crash-course-in-one-hour-build-production-ready-generative-ai-apps-with-react-typescript-remix':
+      {
+        metaDescription:
+          'In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.Every chapter of this book is a few-minute coding exercise you can do in your spare time.',
+        tags: ['Courses', 'Learning', 'Programming', 'Web Development'],
+      },
     'open-graph-design': {
       tags: ['Design', 'Graphics', 'Marketing', 'Social Media', 'Tools'],
     },
@@ -1002,6 +1056,8 @@ module.exports = {
       ],
     },
     'side-projects-making-': {
+      metaDescription:
+        'A complete collection of notion databases detailing every side project making real money posted to Hacker News threads from 2014-2024.',
       tags: ['Business', 'Entrepreneurship', 'Learning', 'Resources'],
     },
     'side-space': {
@@ -1078,7 +1134,9 @@ module.exports = {
       ],
     },
     'subsearchr-substack-newsletters-database': {
-      tags: ['Blogs', 'Books', 'Mailing Lists', 'Newsletters'],
+      metaDescription:
+        'Unveiling 1900+ Leading Newsletters on Substack! Discover the Substack Universe Like Never Before with publications that have a collective audience of 16+ million subscribers.',
+      tags: ['Mailing Lists', 'Newsletters'],
     },
     'supaboost-nextjs-boilerplate': {
       tags: [
@@ -1162,7 +1220,9 @@ module.exports = {
       tags: ['Courses', 'Flutter', 'Learning', 'Productivity', 'Programming'],
     },
     'the-big-service-business-bundle': {
-      tags: ['Books', 'Business', 'Growth', 'Miscellaneous'],
+      metaDescription:
+        'Grow your business with the all in one, unbeatable bundle',
+      tags: ['Business', 'Growth', 'Miscellaneous'],
     },
     thennow: {
       tags: ['Memories', 'Organization', 'Photography', 'Tools'],
@@ -1250,6 +1310,17 @@ module.exports = {
         'Text to Speech',
         'Voice',
         'Voice Cloning',
+      ],
+    },
+    'video-shorts-generator': {
+      metaDescription:
+        'This is a small tool that runs locally on your computer, allowing you to generate video shorts (under 60 seconds) for platforms like YouTube, Instagram, TikTok, and more—simply by providing a text prompt',
+      tags: [
+        'AI',
+        'Automation',
+        'Content Creation',
+        'Marketing',
+        'Video Tools',
       ],
     },
     'voice-type-dictation-tool': {

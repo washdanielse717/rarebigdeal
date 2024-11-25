@@ -50,14 +50,30 @@ layout: ProductLayout
 `;
 
   if (metaDescription) {
+    // Properly indent each line of metaDescription
+    const formattedMetaDescription = metaDescription
+      .split('\n')
+      .map((line) => line.trim())
+      .filter(Boolean)
+      .map((line) => `  ${line}`)
+      .join('\n');
+
     mdxContent += `metaDescription: >
-  ${metaDescription}
+${formattedMetaDescription}
 `;
   }
 
   if (metaTitle) {
+    // Properly indent metaTitle
+    const formattedMetaTitle = metaTitle
+      .split('\n')
+      .map((line) => line.trim())
+      .filter(Boolean)
+      .map((line) => `  ${line}`)
+      .join('\n');
+
     mdxContent += `metaTitle: >
-  ${metaTitle}
+${formattedMetaTitle}
 `;
   }
 
@@ -70,11 +86,16 @@ ${deal}
 `;
 
   if (metaTitle || metaDescription) {
+    // Format the content section differently from frontmatter
+    const formattedContentMetaTitle = (metaTitle || '').trim();
+    const formattedContentMetaDescription = (metaDescription || '').trim();
+
     mdxContent += `
 ## Product Details
-${metaTitle || ''}
 
-${metaDescription || ''}
+${formattedContentMetaTitle}
+
+${formattedContentMetaDescription}
 `;
   }
 
