@@ -7,7 +7,7 @@ import Footer from '@/components/shared/Footer';
 import Header from '@/components/shared/Header';
 import { LandingPrimaryTextCtaSection } from '@/components/landing/cta/LandingPrimaryCta';
 
-export default function CategoryPage({}: {}) {
+export default function CategoryPage() {
   const sortedPosts = useMemo(() => {
     return allCoreContent(
       allBlogs.filter(

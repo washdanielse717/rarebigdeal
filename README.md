@@ -30,16 +30,17 @@ It's free & open-source. Enjoy! 🚀
   - [Menu Bar \& More](#menu-bar--more)
 - [iOS Apps](#ios-apps)
   - [Writing \& Notes](#writing--notes-1)
+  - [Productivity](#productivity-2)
   - [Photos \& Videos](#photos--videos)
   - [Health \& Fitness](#health--fitness-1)
   - [Hobby \& Lifestyle](#hobby--lifestyle)
   - [Other](#other-1)
 - [Design Tools](#design-tools-1)
-  - [Productivity](#productivity-2)
+  - [Productivity](#productivity-3)
   - [AI Design Tools](#ai-design-tools)
   - [Video Tools](#video-tools)
   - [Social](#social)
-- [Productivity](#productivity-3)
+- [Productivity](#productivity-4)
   - [Todo Apps, Notes \& Writing](#todo-apps-notes--writing)
   - [Marketing](#marketing)
   - [Other](#other-2)
@@ -311,10 +312,16 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
 
+### Productivity
+| | Name | Description | Deal |
+| - | - | - | - |
+| ✅ | [Things3](https://apps.apple.com/app/things-3/id904237743) | Organize your life with the award-winning to-do list app. | 30% off in the AppStore |
+
 ### Photos & Videos
 | | Name | Description | Deal |
 | - | - | - | - |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+| 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
 
 ### Health & Fitness
 | | Name | Description | Deal |
@@ -328,6 +335,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
+| 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
 
 ### Other
 | | Name | Description | Deal |

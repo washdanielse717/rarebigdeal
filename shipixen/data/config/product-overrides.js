@@ -66,6 +66,11 @@ module.exports = {
       ogImage: '/public/static/images/overrides/ai-scraper/ogImage.png',
       tags: ['AI', 'Automation', 'Developer', 'Machine Learning', 'Tools'],
     },
+    airview: {
+      logo: '/public/static/images/overrides/airview/logo.png',
+      ogImage: '/public/static/images/overrides/airview/ogImage.png',
+      tags: ['Marketing', 'Social Media', 'Bluesky', 'Analytics', 'Scheduling'],
+    },
     albusbit: {
       tags: [
         'Active Directory',
