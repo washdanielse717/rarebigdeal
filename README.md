@@ -309,6 +309,8 @@ It's free & open-source. Enjoy! 🚀
 | 🛠️ | [AlbusBit](https://albusbit.com/blackfriday/) | Tools for Active Directory management, permissions auditing, and sysadmin reporting. | 40% OFF with code **BF2024** |
 | 🖥️ | [Workspaces](https://www.apptorium.com/workspaces) | Project-based launcher that opens your files, folders, websites, apps etc. with one click. | Lifetime 50% OFF |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
+| 📞 | [MuteDeck](https://mutedeck.com?ref=rbd) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
+| 📊 | [WhatPulse](https://whatpulse.org?ref=rbd) | Map your computing habits and boost productivity | 35% OFF yearly sub **HOLIDAYS24** |
 
 [⬆️ All categories](#table-of-contents)
 
