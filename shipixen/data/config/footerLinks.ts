@@ -84,7 +84,8 @@ export const footerLinks: Array<{
     links: [
       { href: '/', title: 'Home' },
       { href: '/categories', title: 'All Categories' },
-      { href: '/handpicked-deals', title: 'Popular' },
+      { href: '/handpicked-deals', title: 'Staff Picks' },
+      { href: '/most-popular', title: 'Most Popular' },
       { href: '/all-deals', title: 'All Deals' },
       {
         href: 'https://github.com/danmindru/rare-big-deal/issues/130',

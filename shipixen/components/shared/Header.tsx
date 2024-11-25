@@ -28,7 +28,7 @@ const Header = ({ className }: { className?: string }) => {
               className="group-hover:animate-wiggle w-8 h-8 sm:w-10 sm:h-10 md:w-14 md:h-14"
             />
 
-            <div className="text-xs sm:text-xl font-semibold h-full">
+            <div className="text-xs sm:text-sm md:text-base font-semibold h-full">
               Rare Big Deal
             </div>
           </div>
@@ -53,9 +53,10 @@ const Header = ({ className }: { className?: string }) => {
           href="https://www.youtube.com/live/F7cs6tB_iX0?si=NSdAvCJyicar61zj&t=2924"
           target="_blank"
           rel="noopener noreferrer"
-          className="animated-fancy-text hidden lg:flex"
+          className="animated-fancy-text hidden lg:inline-block"
         >
-          Made with Shipixen in hours
+          Made with Shipixen{' '}
+          <span className="hidden xl:inline-block">in hours</span>
         </a>
 
         <a

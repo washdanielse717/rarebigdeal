@@ -67,29 +67,38 @@ export function PostItem({
       )}
     >
       <div className="w-full px-3 py-1">
-        {leaderboardPosition !== -1 ? (
-          <></>
-        ) : (
-          <>
-            {logo ? (
-              <Image
-                aria-hidden="true"
-                className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-                src={logo}
-                alt={title}
-                width={200}
-                height={200}
-              />
-            ) : (
-              <div
-                className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-                style={{
-                  backgroundImage: `url(${fallbackImage})`,
-                  backgroundColor: tintColor,
-                }}
-              />
+        {leaderboardPosition &&
+        leaderboardPosition > 0 &&
+        leaderboardPosition <= 20 ? (
+          <div
+            className={clsx(
+              leaderboardPosition === 1 && 'ribbon-gold',
+              leaderboardPosition === 2 && 'ribbon-silver',
+              leaderboardPosition === 3 && 'ribbon-bronze',
+              leaderboardPosition > 3 && 'ribbon-default',
             )}
-          </>
+          >
+            #{leaderboardPosition}
+          </div>
+        ) : null}
+
+        {logo ? (
+          <Image
+            aria-hidden="true"
+            className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+            src={logo}
+            alt={title}
+            width={200}
+            height={200}
+          />
+        ) : (
+          <div
+            className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+            style={{
+              backgroundImage: `url(${fallbackImage})`,
+              backgroundColor: tintColor,
+            }}
+          />
         )}
 
         <section
@@ -127,7 +136,7 @@ export function PostItem({
             </div>
           </div>
 
-          <div className="ml-auto w-full sm:w-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-left sm:text-right">
+          <div className="ml-auto w-full sm:w-auto flex-shrink flex gap-2 tabular-nums max-w-sm text-left sm:text-right pr-2">
             <span
               className={cn(
                 'flex-col flex gap-1 items-center text-[0.7rem] sm:text-xs p-2 min-w-[40px]',

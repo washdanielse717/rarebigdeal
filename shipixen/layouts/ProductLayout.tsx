@@ -65,27 +65,48 @@ export default function PostLayout({
   }
 
   const getRecommendedProducts = () => {
+    // Get top 20 ranked products (excluding current)
+    const topProducts = allProducts
+      .filter(
+        (product) =>
+          product.slug !== slug &&
+          product.leaderboardPosition &&
+          product.leaderboardPosition > 0 &&
+          product.leaderboardPosition <= 20,
+      )
+      .sort(
+        (a, b) =>
+          (a.leaderboardPosition || 999) - (b.leaderboardPosition || 999),
+      );
+
+    // Randomly select 3 from top 20
+    const selectedTopProducts = shuffleArray([...topProducts]).slice(0, 3);
+
+    // Get category matches (excluding current and selected top products)
     const sameCategoryProducts = allProducts.filter(
       (product) =>
         product.slug !== slug &&
+        !selectedTopProducts.find((p) => p.slug === product.slug) &&
         product.categories &&
         product.categories.some((cat) => categories?.includes(cat)),
     );
+
+    // Get other products for remaining spots
     const otherProducts = allProducts.filter(
       (product) =>
         product.slug !== slug &&
-        (!product.categories ||
-          !product.categories.some((cat) => categories?.includes(cat))),
+        !selectedTopProducts.find((p) => p.slug === product.slug) &&
+        !sameCategoryProducts.find((p) => p.slug === product.slug),
     );
 
-    const shuffledSameCategoryProducts = shuffleArray(sameCategoryProducts);
-    const shuffledOtherProducts = shuffleArray(otherProducts);
+    // Fill remaining spots with category matches and others
+    const remainingCount = 15 - selectedTopProducts.length;
+    const shuffledRemainder = shuffleArray([
+      ...sameCategoryProducts.slice(0, 10),
+      ...otherProducts,
+    ]).slice(0, remainingCount);
 
-    const recommendations = [
-      ...shuffledSameCategoryProducts.slice(0, 5),
-      ...shuffledOtherProducts.slice(0, 5),
-    ];
-    return recommendations;
+    return [...selectedTopProducts, ...shuffledRemainder];
   };
 
   const recommendedProducts = getRecommendedProducts();

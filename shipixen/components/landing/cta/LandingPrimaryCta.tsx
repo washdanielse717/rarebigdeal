@@ -401,6 +401,8 @@ export const LandingPrimaryTextCtaSection = ({
   textPosition = 'center',
   withBackground = false,
   variant = 'primary',
+  withSparkles = true,
+  sparklesClassName,
 }: {
   children?: React.ReactNode;
   className?: string;
@@ -414,6 +416,8 @@ export const LandingPrimaryTextCtaSection = ({
   textPosition?: 'center' | 'left';
   withBackground?: boolean;
   variant?: 'primary' | 'secondary';
+  withSparkles?: boolean;
+  sparklesClassName?: string;
 }) => {
   return (
     <section
@@ -428,7 +432,14 @@ export const LandingPrimaryTextCtaSection = ({
         className,
       )}
     >
-      <Sparkles className="-top-24 scale-75 opacity-80 contrast-200" />
+      {withSparkles ? (
+        <Sparkles
+          className={clsx(
+            '-top-24 scale-75 opacity-80 contrast-200',
+            sparklesClassName,
+          )}
+        />
+      ) : null}
 
       <div
         className={clsx(
