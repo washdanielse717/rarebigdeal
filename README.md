@@ -127,6 +127,7 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
 | 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off |
+| 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -145,6 +146,7 @@ It's free & open-source. Enjoy! 🚀
 | 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
 | 💡 | [ProductLogz](https://productlogz.com/) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications | **Get 10% OFF** on the LTD Plans |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
+|  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -209,6 +211,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [Chibi AI](https://chibi.ai/?via=rarebigdeal) | The right tool for the write job | 33% off on [chibi.ai](https://chibi.ai/l/black-friday-2024?via=rarebigdeal) |
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=rarebigdeal) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** on all plans |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Other
 | | Name | Description | Deal |
@@ -294,6 +297,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Menu Bar & More
 | | Name | Description | Deal |
@@ -413,6 +417,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
 | 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
+| 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Marketing
 | | Name | Description | Deal |
@@ -752,5 +757,6 @@ It's free & open-source. Enjoy! 🚀
 |  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
+|  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 
 [⬆️ All categories](#table-of-contents)
