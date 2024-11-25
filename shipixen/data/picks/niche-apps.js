@@ -4,6 +4,7 @@ module.exports = {
   apps: [
     'Stagetimer Desktop: Lifetime License',
     'ScreenshotOne',
+    'Lifelog',
     'ReadReviews',
     'Ghostfolio',
     'The Best Flutter Course on the Internet',

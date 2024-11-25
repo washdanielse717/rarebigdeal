@@ -8,6 +8,7 @@ module.exports = {
     'Link Building Software',
     'Boringlaunch',
     'ScreenshotOne',
+    'Lifelog',
     'A11Y Boost Reports',
     'Branding5',
     'FragDasPDF',
