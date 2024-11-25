@@ -5,12 +5,6 @@ import { allCoreContent } from '@shipixen/pliny/utils/contentlayer';
 import { allBlogs } from 'shipixen-contentlayer/generated';
 import Link from '@/components/shared/Link';
 import { CategorySection } from '@/components/blog/HomeList';
-import { Showcase } from '@/components/showcase/Showcase';
-import shipApps from '@/data/picks/ship-apps';
-import nicheApps from '@/data/picks/niche-apps';
-import marketingApps from '@/data/picks/marketing-apps';
-import developerTools from '@/data/picks/developer-tools';
-import aiApps from '@/data/picks/ai-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -63,10 +57,6 @@ export default function CategoryPage({
   return (
     <div className="flex flex-col w-full items-center justify-between">
       <div className="flex flex-col gap-4 w-full">
-        {slug(params.category) === slug('AI Tools') ? (
-          <Showcase bundle={aiApps} />
-        ) : null}
-
         <CategorySection
           category={params.category}
           posts={sortedPosts}

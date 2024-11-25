@@ -18,6 +18,7 @@ import shipApps from '@/data/picks/ship-apps';
 import nicheApps from '@/data/picks/niche-apps';
 import marketingApps from '@/data/picks/marketing-apps';
 import developerTools from '@/data/picks/developer-tools';
+import aiApps from '@/data/picks/ai-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -95,7 +96,18 @@ export default function HomeList({
     return categoryMap;
   }, [posts]);
 
-  const sortedCategories = Object.keys(categories).sort();
+  const sortedCategories = useMemo(() => {
+    const priorityCategories = [
+      'Developer Tools',
+      'AI Tools',
+      'Boilerplates, Starters & Libraries',
+      'Marketing',
+    ];
+    const otherCategories = Object.keys(categories)
+      .filter((category) => !priorityCategories.includes(category))
+      .sort();
+    return [...priorityCategories, ...otherCategories];
+  }, [categories]);
 
   const toggleSubcategory = (category: string, subcategory: string) => {
     setSelectedSubcategories((prevSelected) => {
@@ -185,6 +197,7 @@ export default function HomeList({
             numberOfPosts={numberOfPosts}
             showImage={showImage}
             showCaseClass="mt-4"
+            hideCarousels={['Developer Tools']}
           />
         ))}
 
@@ -224,6 +237,7 @@ export function CategorySection({
   overrideClassName,
   showTitle = true,
   showCaseClass = '',
+  hideCarousels = [],
 }: {
   category: string;
   posts: CoreContent<Blog>[];
@@ -234,6 +248,7 @@ export function CategorySection({
   overrideClassName?: string;
   showTitle?: boolean;
   showCaseClass?: string;
+  hideCarousels?: string[];
 }) {
   const [textToCopy, setTextToCopy] = useState<string>(category);
 
@@ -247,20 +262,29 @@ export function CategorySection({
 
   return (
     <>
-      {slug(category) === slug('Boilerplates, Starters & Libraries') ? (
+      {slug(category) === slug('Boilerplates, Starters & Libraries') &&
+      !hideCarousels.includes('Boilerplates, Starters & Libraries') ? (
         <Showcase className={showCaseClass} bundle={shipApps} />
       ) : null}
 
-      {slug(category) === slug('Learining') ? (
+      {slug(category) === slug('Learning') &&
+      !hideCarousels.includes('Learning') ? (
         <Showcase className={showCaseClass} bundle={nicheApps} />
       ) : null}
 
-      {slug(category) === slug('Marketing') ? (
+      {slug(category) === slug('Marketing') &&
+      !hideCarousels.includes('Marketing') ? (
         <Showcase className={showCaseClass} bundle={marketingApps} />
       ) : null}
 
-      {slug(category) === slug('Developer Tools') ? (
+      {slug(category) === slug('Developer Tools') &&
+      !hideCarousels.includes('Developer Tools') ? (
         <Showcase className={showCaseClass} bundle={developerTools} />
+      ) : null}
+
+      {slug(category) === slug('AI Tools') &&
+      !hideCarousels.includes('AI Tools') ? (
+        <Showcase bundle={aiApps} />
       ) : null}
 
       <div className="mb-8" id={category}>
