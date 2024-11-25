@@ -328,6 +328,8 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
+|  🚫 | [AdBlock Bolt](https://apps.apple.com/app/apple-store/id1041834536?pt=521486&ct=rarebigdeal2024BF&mt=8) | Bolt is a fully free to use ad-blocker and tracker-blocker for Safari on all Apple devices. Bolt+ is a paid feature that works across the whole system to block even more ads and trackers, greatly improving your privacy. Not a single data is collected. | Get a 30% discount on Bolt+ lifetime purchase during Black Friday 2024 Nov 29 - Nov 30 |
+|  🖼️ | [Flux AI Image Generator](https://apps.apple.com/us/app/flux-ai-image-generator/id6670344892?pt=521486&ct=rarebigdeal2024BF&mt=8) | Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced models. Turn your text prompts into stunning, high-quality images. | Enjoy up to 50% off credit purchases throughout this month! Nov 1 - Nov 30 |
 
 [⬆️ All categories](#table-of-contents)
 
