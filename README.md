@@ -387,6 +387,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎹 | [AI Music Video Generator](https://aivideo.to/ai-music-video-generator) | Make music videos with AI. Enter a song title, select genre, and click generate. Your Music Video will be ready in minutes. | **50% OFF** with code **BLACKFRIDAY**, for 6 months on all plans |
 | 🔄 | [Loomos](https://loomos.co/login) | Transform boring screen recordings into studio-quality videos in single click. Edit the transcript, remove all the 'uhms', make videos a lot more engaging | 50% off till BLACK FRIDAY |
 | 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
+| 🎬 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
 
 ### Social
 | | Name | Description | Deal |
