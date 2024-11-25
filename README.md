@@ -124,6 +124,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th |
 | 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
 | 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
+| 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
