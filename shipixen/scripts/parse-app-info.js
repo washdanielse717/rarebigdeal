@@ -29,9 +29,28 @@ async function downloadImage(url, outputPath) {
     console.log(`Content-Type for ${url}: ${contentType}`);
 
     if (contentType && contentType.startsWith('image/')) {
-      fs.writeFileSync(outputPath, response.data);
-      console.log(`Downloaded image from ${url} to ${outputPath}`);
-      return true;
+      let imageBuffer = response.data;
+
+      // If the image is a JPG or WebP, convert it to PNG
+      if (
+        contentType === 'image/jpeg' ||
+        contentType === 'image/webp' ||
+        contentType === 'image/png'
+      ) {
+        const pngOutputPath = outputPath.replace(
+          /\.(jpg|jpeg|webp|png)$/,
+          '.png',
+        );
+        await sharp(imageBuffer).png().toFile(pngOutputPath);
+        console.log(
+          `Converted ${contentType} to PNG and saved to ${pngOutputPath}`,
+        );
+        return true;
+      } else {
+        fs.writeFileSync(outputPath, imageBuffer);
+        console.log(`Downloaded image from ${url} to ${outputPath}`);
+        return true;
+      }
     } else {
       console.error(
         `Invalid image type from ${url}. Detected Content-Type: ${contentType}`,
@@ -47,6 +66,7 @@ async function downloadImage(url, outputPath) {
 async function fetchWebsiteData(website, hasLogoOverride) {
   let description = '';
   let title = '';
+  let appStoreImageUrl = null;
 
   try {
     const response = await axios.get(website, {
@@ -69,6 +89,22 @@ async function fetchWebsiteData(website, hasLogoOverride) {
       ogImageUrl = new URL(ogImageUrl, website).href;
     }
 
+    // Try to find the app store image
+    const appStoreImageSource = $(
+      'picture.we-artwork source[type="image/jpeg"], picture.we-artwork source[type="image/webp"], picture.we-artwork source[type="image/png"]',
+    ).attr('srcset');
+
+    if (appStoreImageSource) {
+      // Get the first image URL from the srcset
+      const firstEntry = appStoreImageSource.split(',')[0];
+      appStoreImageUrl = firstEntry.trim().split(' ')[0];
+
+      // Ensure the URL is absolute
+      if (appStoreImageUrl && !appStoreImageUrl.startsWith('http')) {
+        appStoreImageUrl = new URL(appStoreImageUrl, website).href;
+      }
+    }
+
     let highestResFaviconUrl = null;
     if (!hasLogoOverride) {
       // Try to find the highest resolution PNG favicon
@@ -82,6 +118,7 @@ async function fetchWebsiteData(website, hasLogoOverride) {
         // Get .ico too
         $('link[rel="icon"]').attr('href'),
         $('link[rel="shortcut icon"]').attr('href'),
+        appStoreImageUrl, // Add the app store image URL to the list
       ]
         .filter(Boolean)
         .map((url) => new URL(url, website).href);
@@ -171,7 +208,10 @@ async function fetchAssets(app) {
 
       if (
         highestResFaviconUrl &&
-        (highestResFaviconUrl.endsWith('.png') ||
+        (highestResFaviconUrl.endsWith('.jpg') ||
+          highestResFaviconUrl.endsWith('.jpeg') ||
+          highestResFaviconUrl.endsWith('.png') ||
+          highestResFaviconUrl.endsWith('.webp') ||
           highestResFaviconUrl.endsWith('.ico')) &&
         !override?.logo
       ) {

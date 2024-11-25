@@ -20,6 +20,7 @@ import marketingApps from '@/data/picks/marketing-apps';
 import developerTools from '@/data/picks/developer-tools';
 import aiApps from '@/data/picks/ai-apps';
 import macApps from '@/data/picks/mac-apps';
+import iosApps from '@/data/picks/ios-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -293,6 +294,11 @@ export function CategorySection({
       {slug(category) === slug('MacOS Apps') &&
       !hideCarousels.includes('MacOS Apps') ? (
         <Showcase bundle={macApps} />
+      ) : null}
+
+      {slug(category) === slug('iOS Apps') &&
+      !hideCarousels.includes('iOS Apps') ? (
+        <Showcase bundle={iosApps} />
       ) : null}
 
       <div className="mb-8" id={category}>

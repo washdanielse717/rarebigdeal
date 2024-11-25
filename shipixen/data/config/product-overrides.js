@@ -1103,6 +1103,10 @@ module.exports = {
     smartgantt: {
       tags: ['Efficiency', 'Productivity', 'Tools'],
     },
+    'small-bets-community': {
+      logo: '/public/static/images/overrides/small-bets-community/logo.png',
+      tags: ['Community', 'Learning', 'Marketing', 'Miscellaneous'],
+    },
     'sortpin-com': {
       tags: ['Marketing', 'Pinterest', 'Social', 'Tools'],
     },

@@ -9,6 +9,7 @@ module.exports = {
     'Boringlaunch',
     'Crontap',
     'Tailkit',
+    'Small Bets Community',
     'IllustraAI',
     'Carrd',
     'Verbatik AI',

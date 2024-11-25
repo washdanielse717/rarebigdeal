@@ -3,6 +3,7 @@
   "ai-apps.js",
   "best-apps.js",
   "developer-tools.js",
+  "ios-apps.js",
   "mac-apps.js",
   "marketing-apps.js",
   "niche-apps.js",
