@@ -46,15 +46,16 @@ It's free & open-source. Enjoy! 🚀
   - [Content Creation](#content-creation-1)
 - [Boilerplates, Starters \& Libraries](#boilerplates-starters--libraries)
   - [React/Next.js](#reactnextjs)
+  - [Nuxt](#nuxt)
   - [iOS](#ios)
   - [Flutter](#flutter)
+  - [Laravel](#laravel)
   - [Django](#django)
   - [Rails](#rails)
-  - [Laravel](#laravel)
   - [Astro](#astro)
   - [Remix](#remix)
   - [SvelteKit](#sveltekit)
-  - [Nuxt](#nuxt)
+  - [HTML](#html)
   - [Chrome Extensions](#chrome-extensions)
   - [Libraries \& More](#libraries--more)
 - [Learning](#learning)
@@ -107,7 +108,8 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [TextSniper](https://textsniper.app/) | Extract text (OCR) from any content, scan QR codes/barcodes, and more on your Mac | 60% OFF with code **BLACKFRIDAY24** |
 | 📂 | [FileMinutes](https://www.fileminutes.com/) | Simplifies file handling on your Mac with fast search, easy navigation, and file actions in one app | 50% OFF with code **BF2024** |
 | 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
-| 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th|
+| 🎤 | [Captionify](https://captionify.app/) | Easily transcribe into subtitle, plain text, or video captions from your video or audio files. All processed privately without any data leaving your Mac. | 40% OFF ($15 from $25) till Nov 30th |
+| 🔥 | [Webhookify](https://webhookify.io/) | Effortless Webhook Integrations for Developers. | 70% OFF |
 | 💻 | [Bayview - Window Manager](https://bayview.app/) | Quickly and easily move and resize your windows with the Bayview grid, using your mouse or keyboard. | 50% OFF with code **BF24** |
 
 ### APIs, Tools & SaaS
@@ -126,6 +128,7 @@ It's free & open-source. Enjoy! 🚀
 | 📔 | [Quotion](https://quotion.co/) | Apple Notes to blogs/portfolios/portals in minutes. | **30% OFF** on all plans for 12 months with code **BLACKFRIDAY2024** |
 | 🌐 | [DomainDetails](https://domaindetails.io) | Local first Domain Registration Data Lookup & Change Monitoring | **1 extra free month** on yearly plan with **BF2024** |
 | 💡 | [ProductLogz](https://productlogz.com/) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications | **Get 10% OFF** on the LTD Plans |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -282,6 +285,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen. | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
+| 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 
 ### Marketing
 | | Name | Description | Deal |
@@ -438,6 +442,12 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**  |
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
 
+### Nuxt
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🚀 | [supastarter for Nuxt](https://supastarter.dev/nuxt) | The ultimate Nuxt starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
+| 🚀 | [Nuxt SaaS Kit](https://nuxtsaaskit.com) | The complete Nuxt starter kit to build a robust and market-ready SaaS | **Get it for just $69** - Apply code **IZNDE5NQ** at checkout! |
+
 ### iOS
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -451,6 +461,12 @@ It's free & open-source. Enjoy! 🚀
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 | 📱 | [ApparenceKit flutter template](https://apparencekit.dev) | Save months of work and money by building a Flutter app. Crafted by an ex-agency owner with over 6 years of Flutter experience. | 35% with code **BLACKFRIDAY2024** |
 
+### Laravel
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🐌 | [Larafast](https://larafast.com) | #1 Laravel SaaS Starter Kit | 50% OFF on all Starter Kits (Livewire, Vue, Directories, API) with code **BLACKFRIDAY2024** |
+| 🚀 | [ZapKit](https://zapkit.dev) | AI Laravel Starter Kit to Build & Ship fast and Automate it using built in AI Agents | $80 OFF |
+
 ### Django
 | | Name | Description | Deal |
 | - | - | - | - |
@@ -460,12 +476,6 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | ⭐ | [Business Class](https://businessclasskit.com) | A Rails starter template with subscriptions, SEO-optimized blog, and built-in Kamal deployment. | 30% OFF lifetime license with code **BLACK2024** |
-
-### Laravel
-| | Name | Description | Deal |
-| - | - | - | - |
-| 🐌 | [Larafast](https://larafast.com) | #1 Laravel SaaS Starter Kit | 50% OFF on all Starter Kits (Livewire, Vue, Directories, API) with code **BLACKFRIDAY2024** |
-| 🚀 | [ZapKit](https://zapkit.dev) | AI Laravel Starter Kit to Build & Ship fast and Automate it using built in AI Agents | $80 OFF |
 
 ### Astro
 | | Name | Description | Deal |
@@ -483,11 +493,10 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🚀 | [LaunchFast](https://www.launchfa.st) | A comprehensive SaaS starter kit, covering SEO, documentation, blogs, file uploads, authentication, payments, and more. | 25% OFF with code **BLACKFRIDAY2024** |
 
-### Nuxt
+### HTML
 | | Name | Description | Deal |
 | - | - | - | - |
-| 🚀 | [supastarter for Nuxt](https://supastarter.dev/nuxt) | The ultimate Nuxt starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
-| 🚀 | [Nuxt SaaS Kit](https://nuxtsaaskit.com) | The complete Nuxt starter kit to build a robust and market-ready SaaS | **Get it for just $69** - Apply code **IZNDE5NQ** at checkout! |
+| 🗂️ | [Lists Kit](https://listskit.com/?rarebigdeal) | A simple HTML template for business directories – A plain HTML, CSS, JavaScript boilerplate for making business directories with minimal maintenance. | Use **BF2024** for 40% off |
 
 ### Chrome Extensions
 | | Name | Description | Deal |
@@ -502,6 +511,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [NextReady](https://nextready.dev) | Ready-to-use and type-safe components for Next.js, TypeScript, Prisma, LemonSqueezy, shadcn/ui, etc. | 63% OFF with code **BF2024** |
 | 🚚 | [Saas UI](https://saas-ui.dev) | React toolkit for building beautiful SaaS products. Design system, component library, Next.js starterkit, TypeScript, Chakra UI, Stripe and more. | 30% OFF with code **BLACKFRIDAY30** |
 | 🚀 | [BoilerplateHub](https://boilerplatehub.com/?ref=rare) | The best boilerplates and starters directory. Find your next code template and speed up your development. | 🎅 Curated Black Friday deals with exclusive codes for the dev community |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -603,5 +613,6 @@ It's free & open-source. Enjoy! 🚀
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 |  📆 | [ShiftApp](https://shiftapp.com/black-friday) | Employee Scheduling and Shift Management software with drag-and-drop simplicity, automated notifications, and real-time access. | 77% OFF for SEVEN months on all plans with code **BLACKFRIDAY2024** |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 
 [⬆️ All categories](#table-of-contents)
