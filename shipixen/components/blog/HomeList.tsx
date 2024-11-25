@@ -288,8 +288,8 @@ export function CategorySection({
         <Showcase bundle={aiApps} />
       ) : null}
 
-      {slug(category) === slug('Mac Apps') &&
-      !hideCarousels.includes('Mac Apps') ? (
+      {slug(category) === slug('MacOS Apps') &&
+      !hideCarousels.includes('MacOS Apps') ? (
         <Showcase bundle={macApps} />
       ) : null}
 

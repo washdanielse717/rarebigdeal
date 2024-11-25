@@ -6,6 +6,80 @@ export const footerLinks: Array<{
   }>;
 }> = [
   {
+    columnName: 'Popular Categories',
+    links: [
+      {
+        href: '/categories/design-tools',
+        title: 'Design Tools',
+      },
+      {
+        href: '/categories/seo-tools',
+        title: 'SEO Tools',
+      },
+      {
+        href: '/categories/health-and-fitness',
+        title: 'Health and Fitness',
+      },
+      {
+        href: '/categories/finance',
+        title: 'Finance',
+      },
+      {
+        href: '/categories/mailing-lists-newsletters--blogs',
+        title: 'Mailing Lists & Newsletters',
+      },
+      {
+        href: '/categories/productized-services',
+        title: 'Productized Services',
+      },
+      {
+        href: '/categories/miscellaneous',
+        title: 'Miscellaneous',
+      },
+    ],
+  },
+
+  {
+    columnName: 'Categories',
+    links: [
+      {
+        href: '/categories/developer-tools',
+        title: 'Developer Tools',
+      },
+      {
+        href: '/categories/ai-tools',
+        title: 'AI Tools',
+      },
+      {
+        href: '/categories/macos-apps',
+        title: 'MacOS Apps',
+      },
+      {
+        href: '/categories/ios-apps',
+        title: 'iOS Apps',
+      },
+
+      {
+        href: '/categories/productivity',
+        title: 'Productivity',
+      },
+      {
+        href: '/categories/marketing',
+        title: 'Marketing',
+      },
+
+      {
+        href: '/categories/boilerplates-starters--libraries',
+        title: 'Boilerplates & Libraries',
+      },
+      {
+        href: '/categories/learning',
+        title: 'Learning',
+      },
+    ],
+  },
+
+  {
     columnName: 'Company',
     links: [
       { href: '/', title: 'Home' },
@@ -31,65 +105,6 @@ export const footerLinks: Array<{
       },
       { href: '/terms', title: 'Terms of Service' },
       { href: '/privacy', title: 'Privacy Policy' },
-    ],
-  },
-  {
-    columnName: 'Categories',
-    links: [
-      {
-        href: '/categories/developer-tools',
-        title: 'Productivity Deals',
-      },
-      {
-        href: '/categories/boilerplates-startup-saastools',
-        title: 'Boilerplates, Startup SaaS/Tools Deals',
-      },
-      {
-        href: '/categories/ai-tools',
-        title: 'AI Tool Deals',
-      },
-      {
-        href: '/categories/marketing-tools',
-        title: 'Marketing Tool Deals',
-      },
-      {
-        href: '/categories/design-tools',
-        title: 'Design Tool Deals',
-      },
-      {
-        href: '/categories/developer-tools',
-        title: 'Developer Tool Deals',
-      },
-      {
-        href: '/categories/seo-tools',
-        title: 'SEO Tool Deals',
-      },
-      { href: '/categories/courses', title: 'Course Deals' },
-      {
-        href: '/categories/health-and-fitness',
-        title: 'Health and Fitness Deals',
-      },
-      {
-        href: '/categories/other-ai-tools',
-        title: 'Other AI tool Deals',
-      },
-      {
-        href: '/categories/themes-plugins',
-        title: 'Themes, Plugin Deals',
-      },
-      {
-        href: '/categories/data-tools',
-        title: 'Data Tool Deals',
-      },
-      { href: '/categories/books', title: 'Book Deals' },
-      {
-        href: '/categories/code-libraries',
-        title: 'Code Library Deals',
-      },
-      {
-        href: '/categories/video-tools',
-        title: 'Video Tools Deals',
-      },
     ],
   },
 ];

@@ -80,8 +80,7 @@ export default function Footer({ className }: { className?: string }) {
                   <ul
                     key={index}
                     className={cn(
-                      column.columnName === 'Categories' ? 'md:col-span-2' : '',
-                      'flex flex-col flex-wrap gap-4 justify-center w-full text-xs',
+                      'flex flex-col flex-wrap gap-4 justify-center w-full text-xs md:col-span-2',
                     )}
                   >
                     {column.columnName ? (
