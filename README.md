@@ -320,9 +320,13 @@ It's free & open-source. Enjoy! 🚀
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% OFF |
 
 ### Hobby & Lifestyle
+| | Name | Description | Deal |
+| - | - | - | - |
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 
 ### Other
+| | Name | Description | Deal |
+| - | - | - | - |
 |  🌍 | [QuakeSense](https://quakesense.app) | Real-time global earthquake monitoring app that aggregates alerts from multiple authoritative sources worldwide (USGS, EMSC, CENC, etc.), featuring native SwiftUI design and critical push notifications. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)

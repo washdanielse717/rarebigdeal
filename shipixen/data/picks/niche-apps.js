@@ -7,6 +7,7 @@ module.exports = {
     'Lifelog',
     'ReadReviews',
     'Ghostfolio',
+    'DonkeyCarrot',
     'The Best Flutter Course on the Internet',
     'Complete Character Design Course',
     'GameDevTools',

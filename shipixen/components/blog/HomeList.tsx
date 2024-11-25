@@ -19,6 +19,7 @@ import nicheApps from '@/data/picks/niche-apps';
 import marketingApps from '@/data/picks/marketing-apps';
 import developerTools from '@/data/picks/developer-tools';
 import aiApps from '@/data/picks/ai-apps';
+import macApps from '@/data/picks/mac-apps';
 
 const MAX_DISPLAY = 1000;
 
@@ -285,6 +286,11 @@ export function CategorySection({
       {slug(category) === slug('AI Tools') &&
       !hideCarousels.includes('AI Tools') ? (
         <Showcase bundle={aiApps} />
+      ) : null}
+
+      {slug(category) === slug('Mac Apps') &&
+      !hideCarousels.includes('Mac Apps') ? (
+        <Showcase bundle={macApps} />
       ) : null}
 
       <div className="mb-8" id={category}>
