@@ -104,7 +104,7 @@ export const Blog = defineDocumentType(() => ({
     website: { type: 'string' },
     metaDescription: { type: 'string' },
     metaTitle: { type: 'string' },
-    topApp: { type: 'boolean' },
+    leaderboardPosition: { type: 'number' },
   },
   computedFields: {
     ...computedFields,

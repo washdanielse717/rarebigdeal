@@ -39,6 +39,7 @@ export function PostItem({
     logo,
     deal,
     website,
+    leaderboardPosition,
   } = post;
   const firstImage = images?.[0];
   const [showDescription, setShowDescription] = useState(false);
@@ -66,23 +67,29 @@ export function PostItem({
       )}
     >
       <div className="w-full px-3 py-1">
-        {logo ? (
-          <Image
-            aria-hidden="true"
-            className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-            src={logo}
-            alt={title}
-            width={200}
-            height={200}
-          />
+        {leaderboardPosition !== -1 ? (
+          <></>
         ) : (
-          <div
-            className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
-            style={{
-              backgroundImage: `url(${fallbackImage})`,
-              backgroundColor: tintColor,
-            }}
-          />
+          <>
+            {logo ? (
+              <Image
+                aria-hidden="true"
+                className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                src={logo}
+                alt={title}
+                width={200}
+                height={200}
+              />
+            ) : (
+              <div
+                className="absolute w-full h-full left-0 top-0 -z-100 opacity-20 dark:opacity-20 saturate-200 dark:saturate-[3] blur-2xl bg-cover"
+                style={{
+                  backgroundImage: `url(${fallbackImage})`,
+                  backgroundColor: tintColor,
+                }}
+              />
+            )}
+          </>
         )}
 
         <section

@@ -6,6 +6,7 @@ const { sanitizeName } = require('./sanitize-name');
 const { markdownDir } = require('./settings');
 const fs = require('fs');
 const path = require('path');
+const { getLeaderboardPosition } = require('./leaderboard-utils');
 
 async function generateMDXContent(app) {
   const tags = applyCategoryOverrides(
@@ -48,6 +49,12 @@ deal: >
 website: ${website}
 layout: ProductLayout
 `;
+
+  const leaderboardPosition = getLeaderboardPosition(sanitizeName(app.name));
+  if (leaderboardPosition !== null) {
+    mdxContent += `leaderboardPosition: ${leaderboardPosition}
+`;
+  }
 
   if (metaDescription) {
     // Properly indent each line of metaDescription
