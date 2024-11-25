@@ -204,6 +204,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
 | 🤖 | [Chibi AI](https://chibi.ai/?via=rarebigdeal) | The right tool for the write job | 33% off on [chibi.ai](https://chibi.ai/l/black-friday-2024?via=rarebigdeal) |
 | 🎙️ | [GuestLab](https://guestlab.ai) | Research your podcast guests faster and more efficiently | Use promo code **GUESTFRIDAY** for a **50%** discount on any credits package |
+| 🔥 | [Transcript LOL](https://transcript.lol?ref=rarebigdeal) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** on all plans |
 
 ### Other
 | | Name | Description | Deal |
