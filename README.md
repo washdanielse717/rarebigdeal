@@ -350,6 +350,7 @@ It's free & open-source. Enjoy! 🚀
 |  🚫 | [AdBlock Bolt](https://apps.apple.com/app/apple-store/id1041834536?pt=521486&ct=rarebigdeal2024BF&mt=8) | Bolt is a fully free to use ad-blocker and tracker-blocker for Safari on all Apple devices. Bolt+ is a paid feature that works across the whole system to block even more ads and trackers, greatly improving your privacy. Not a single data is collected. | Get a 30% discount on Bolt+ lifetime purchase during Black Friday 2024 Nov 29 - Nov 30 |
 |  🖼️ | [Flux AI Image Generator](https://apps.apple.com/us/app/flux-ai-image-generator/id6670344892?pt=521486&ct=rarebigdeal2024BF&mt=8) | Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced models. Turn your text prompts into stunning, high-quality images. | Enjoy up to 50% off credit purchases throughout this month! Nov 1 - Nov 30 |
 | 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+| 🎤 | [Roads Audio - Private Podcasts With Friends](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)
 
