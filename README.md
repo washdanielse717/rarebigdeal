@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-213+ awesome deals inside 🔥
+238+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -368,6 +368,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🦄 | [Unicorn Platform](https://johnrush.me/black-friday-deals/?ref=rare) | Unicorn Platform is an AI website builder that helps to quickly create websites without design or development skills. | 50% off on [unicornplatform.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💳 | [Carrd](https://carrd.co?ref=rarebigdeal) | Simple, free, fully responsive one-page sites for pretty much anything. | 40% off all Carrd Pro plans using BF2024 |
+| 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 | 📝 | [Rapid Forms](https://johnrush.me/black-friday-deals/?ref=rare) | The easiest way to create forms people love to fill out | 50% off [rapidforms.co](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [Marketsy](https://johnrush.me/black-friday-deals/?ref=rare) | Marketsy.ai can whip up a complete e-commerce solution in just a few seconds via a single prompt. | 50% off [marketsy.ai](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 🍍 | [Pineapple Builder](https://pineapplebuilder.com?utm_source=github&utm_medium=dealdirectory&utm_campaign=bf2024) | AI Website Builder for Small Businesses: Launch under 5 Minutes, Blog Included, and AI-Assistant to Grow Your Traffic & Conversions. | **20% off** all plans with code BLACK_20 at checkout. |
