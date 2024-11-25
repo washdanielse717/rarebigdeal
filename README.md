@@ -315,6 +315,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Audio Writer](https://audiowriter.app) | Braindump your thoughts - It turns your stream of thoughts from speech into well-structured written text ✨ | Lifetime 50% OFF |
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
+| 📱 | [Voice Typing: Speech To Text](https://apple.co/3CD0wzV) | Transcribe your voice into the text in real time with 90+ languages support ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=1150900877&code=BLACKFRIDAY50) |
 
 ### Productivity
 | | Name | Description | Deal |
