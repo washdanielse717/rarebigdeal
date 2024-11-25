@@ -316,6 +316,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
 | 📞 | [MuteDeck](https://mutedeck.com?ref=rbd) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
 | 📊 | [WhatPulse](https://whatpulse.org?ref=rbd) | Map your computing habits and boost productivity | 35% OFF yearly sub **HOLIDAYS24** |
+| 🌊 | [Flowlu](https://www.flowlu.com/) | All-in-one platform for business professionals. Track opportunities, manage projects, generate invoices, and collaborate with your team from a single app. | 50% OFF on Annual Plans with code 24BF50 |
 
 [⬆️ All categories](#table-of-contents)
 
