@@ -762,6 +762,14 @@ module.exports = {
         'Themes',
       ],
     },
+    'marketing-strategy-generator': {
+      metaDescription:
+        'AI-powered marketing platform for Solopreneurs. Understand your ideal customer, sharpen your product positioning, and get personalized marketing ideas.',
+      metaTitle: 'Perfect marketing strategy for your product in 5 minutes',
+      logo: '/public/static/images/overrides/marketing-strategy-generator/logo.png',
+      ogImage:
+        '/public/static/images/overrides/marketing-strategy-generator/ogImage.png',
+    },
     marketsy: {
       logo: '/public/static/images/overrides/marketsy/logo.png',
       ogImage: '/public/static/images/overrides/marketsy/ogImage.png',
