@@ -10,6 +10,7 @@ module.exports = {
     'Crontap',
     'Tailkit',
     'Small Bets Community',
+    'Marketing Strategy Generator',
     'IllustraAI',
     'Carrd',
     'Verbatik AI',
