@@ -4,8 +4,9 @@ module.exports = {
   apps: [
     'Things3',
     'Paprika Recipe Manager 3',
+    'Fit Records',
     'TimeLapsed',
-    'Atomic',
+    'Presence',
     'Inventory Tracker Itemlist',
   ],
 };
