@@ -7,6 +7,7 @@ module.exports = {
     'Fit Records',
     'TimeLapsed',
     'Presence',
+    'PastePal',
     'Inventory Tracker Itemlist',
   ],
 };

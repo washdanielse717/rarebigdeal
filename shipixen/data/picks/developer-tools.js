@@ -9,5 +9,8 @@ module.exports = {
     'LocalCan',
     'BoltAi',
     'ScreenshotOne',
+    'Proxyman',
+    'CompressX',
+    'TablePlus',
   ],
 };

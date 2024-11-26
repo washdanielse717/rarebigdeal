@@ -899,6 +899,12 @@ module.exports = {
         'Tools',
       ],
     },
+    'pastepal-clipboard-manager': {
+      metaTitle: 'Unlimited history with blazing fast index and search.',
+      metaDescription:
+        'Organize clipboard history the way you want. Specify what and how the history is saved with various settings in the app.',
+      tags: ['Clipboard', 'macOS', 'Productivity', 'Tools', 'Utility'],
+    },
     'pdf-pals': {
       tags: [
         'AI',

@@ -11,5 +11,7 @@ module.exports = {
     'DevUtils',
     'Proxyman',
     'TypingMind',
+    'Things3',
+    'TablePlus',
   ],
 };

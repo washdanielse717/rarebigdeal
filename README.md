@@ -342,6 +342,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | ✅ | [Things3](https://apps.apple.com/app/things-3/id904237743) | Organize your life with the award-winning to-do list app. | 30% off in the AppStore |
 | 🔍 | [Search By Image: Lens Identify](https://apple.co/3Z5A0a6) | Lens lets you search what you see. It brings the best results from all around the web. You can search any products, people, artworks, etc. ✨ | **50% OFF** [Link](https://apps.apple.com/redeem?ctx=offercodes&id=1155925769&code=BLACKFRIDAY50) |
+| 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
 
 ### Photos & Videos
 | | Name | Description | Deal |
