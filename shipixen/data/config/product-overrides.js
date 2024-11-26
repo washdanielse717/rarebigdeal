@@ -990,6 +990,7 @@ module.exports = {
       ],
     },
     resmume: {
+      logo: '/public/static/images/overrides/resmume/logo.png',
       tags: ['AI', 'Automation', 'Machine Learning'],
     },
     'saas-pegasus': {
