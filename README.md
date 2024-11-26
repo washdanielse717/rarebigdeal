@@ -288,6 +288,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 | 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
+| 🆂 | [Sitely](https://sitely.app/) | Visual + AI Website Builder formerly known as Sparkle. Build the website you always wanted, visually, on your Mac | 50% OFF automatically applied |
 
 ### Health & Fitness
 | | Name | Description | Deal |
@@ -384,6 +385,7 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [IconKit](https://iconkit.ai?utm_source=rarebigdeal) | Create premium AI-generated icons for your next business, side project, or Discord server in seconds. | 20% OFF the 200 credit pack with **BLACKFRIDAY24** |
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
+| 🆂 | [Sitely](https://sitely.app/) | Visual + AI Website Builder formerly known as Sparkle. Build the website you always wanted, visually, on your Mac | 50% OFF automatically applied |
 
 ### Video Tools
 | | Name | Description | Deal |
