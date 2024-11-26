@@ -161,6 +161,7 @@ It's free & open-source. Enjoy! 🚀
 | 🩵 | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | **25% OFF** auto-applied! |
 | 🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=rarebigdeal.com) | Automate OpenGraph images for any website or link and improve click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated webpage screenshots 💅 | **50% OFF** with coupon code BF24! |
+|  🪄 | [Protego for Reddit](https://apps.apple.com/us/app/protego-for-reddit/id6737959724) | Like a spell shield for your mental health, Protego is a browser extension for Safari which lets you filter out unwanted posts from Reddit and customize your browsing experience to focus on what matters to you. | 25% off one time purchase |
 
 ### Productivity & AI
 | | Name | Description | Deal |
