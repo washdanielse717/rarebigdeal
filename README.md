@@ -551,6 +551,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [NextJsStarter Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and paid listings on a directory of NextJS boilerplates. | 50% off ads [nextjsstarter.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [DevHunt Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and Paid listings on biggest launchpad for dev tools. | 50% off ads [devhunt.org](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform |
+| 🚀 | [Microlaunch](https://microlaunch.net/premium?ref=rbd) | Launch your Product, Get Exposure and First Sales | 20% OFF Pro Launches with code **BLACKFRIDAY2024**, limited to 20 spots |
 
 ### Other
 | | Name | Description | Deal |
