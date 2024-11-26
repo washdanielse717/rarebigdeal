@@ -558,6 +558,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [BlitzBear](https://blitzbear.com) | Rank higher the easy way. BlitzBear is SEO software that refreshes your existing content to move you up in Google. Our AI analyzes your articles against SERP competitors, identifies opportunities, and makes intelligent suggestions. | 30% OFF using **[this link](https://app.blitzbear.com/signup?promo=ESXHzhUN)** |
 | 📈 | [Keyword.com](https://keyword.com/) | Keyword.com is a best-in-class Google keyword rank tracking solution. It provides everything you need to track, pinpoint and validate your SEO efforts to get to the 1st position in the SERPs. | 20% OFF for 12-months with code **BLACKFRIDAY2024** |
 | 🤖 | [IndexRusher](https://johnrush.me/black-friday-deals/?ref=rare) | Auto Indexing. Get indexed by Google in hours | 50% off [indexrusher.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| ⚡️ | [Sitetag](https://sitetag.ai) | Fix and improve your SEO issues automatically with a single script tag | 30% OFF with code **BLACKFRIDAY2024** 
 
 ### Analyze & Audit
 | | Name | Description | Deal |
