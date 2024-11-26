@@ -217,6 +217,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [Transcript LOL](https://transcript.lol?ref=rarebigdeal) | Accurate transcriptions and insights for audio or video | Use promo code **BLACKFRIDAY30** for a **30% discount** on all plans |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
+| 🤖 | [Letty](https://www.useletty.com/?ref=rarebigdeal) | Write professional emails that sound just like you in seconds with AI | 30% OFF all plans with code **BF2024** |
 
 ### Other
 | | Name | Description | Deal |
@@ -462,6 +463,7 @@ It's free & open-source. Enjoy! 🚀
 | 📞 | [MuteDeck](https://mutedeck.com?ref=rbd) | Never hear "hey, you're on mute" again. | 35% OFF with code **VMUGMDADV24** |
 | 📊 | [WhatPulse](https://whatpulse.org?ref=rbd) | Map your computing habits and boost productivity | 35% OFF yearly sub **HOLIDAYS24** |
 | 🌊 | [Flowlu](https://www.flowlu.com/) | All-in-one platform for business professionals. Track opportunities, manage projects, generate invoices, and collaborate with your team from a single app. | 50% OFF on Annual Plans with code 24BF50 |
+| 🧼 | [InboxPurge](https://www.inboxpurge.com/?ref=rarebigdeal) | Clean up your Gmail in minutes | 30% OFF the PRO plan with code **BF2024** |
 
 [⬆️ All categories](#table-of-contents)
 
