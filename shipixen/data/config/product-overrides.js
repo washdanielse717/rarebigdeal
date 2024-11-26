@@ -233,6 +233,11 @@ module.exports = {
     chatsy: {
       tags: ['Boilerplates', 'Startup SaaS/Tools'],
     },
+    'chatask-ai-chatbot-assistant': {
+      metaDescription:
+        'Welcome to ChatASK, the advanced AI chat app powered by the latest ChatGPT technology. Transform your digital interactions with our cutting-edge features designed to make your life easier, more productive, and more fun. Whether it’s generating images, solving complex math problems, or accessing AI-powered tools across your devices, ChatASK is your all-in-one conversational assistant. ✨',
+      tags: ['AI', 'Chatbots', 'Developer', 'Productivity', 'Tools'],
+    },
     chatwith: {
       tags: ['AI', 'Chatbots', 'Developer', 'Productivity', 'Tools'],
     },
@@ -623,6 +628,7 @@ module.exports = {
       ],
     },
     'jason-s-plugins-for-carr': {
+      logo: '/public/static/images/overrides/jason-s-plugins-for-carr/logo.png',
       metaTitle: "Jason's Plugins for Carrd",
       tags: [
         'Carrd',

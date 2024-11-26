@@ -159,6 +159,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🧙‍♂️ | [CanvasWizard](https://canvaswizard.co/?via=rarebigdeal) | The AI Chrome Extension for Canvas Quizzes: Get answers & explanations to your Quizzes, Homeworks and Tests with a single click. | 50% OFF your SEMESTRER (3 Months) with code **BFSEM50** |
 | 🩵 | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | **25% OFF** auto-applied! |
+| 🔍 | [Vision GPT Extension](https://visiongpthq.com) | A Chrome Extension that let you capture, analyze, and extract insights from browser screenshots instantly using the power of GPT-4 Vision with your own OPENAI API key [ BYOK ]. | 50% ONCE OFF with code **LAUNCH2024** |
 | ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=rarebigdeal.com) | Automate OpenGraph images for any website or link and improve click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated webpage screenshots 💅 | **50% OFF** with coupon code BF24! |
 
 ### Productivity & AI
@@ -180,6 +181,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. Zapier integration | Use promo code **BF30** for a **30% discount** on all plans |
 | ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Use flowcharts to define and track the dependencies between your tasks. | 70% OFF the Full Version |
 | 📚 | [Subjects](https://eyen.fr/subjects/) | Keep track of your timetables, homework and grades. | 70%OFF the Yearly Plan |
+| 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -194,6 +196,7 @@ It's free & open-source. Enjoy! 🚀
 | ✨ | [FridayGPT](https://fridaygpt.app/) | AI Copilot for your Mac. Instant access to multiple LLM models, voice-to-text and quick AI actions | 30% OFF with code **ABFCM30** |
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
+| 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -234,14 +237,18 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
-| 📚 | [SiteSpeakAI](https://sitespeak.ai) | Automate your customer support with AI | 30% OFF with code **BLACKFRIDAY2024**
+| 📚 | [SiteSpeakAI](https://sitespeak.ai) | Automate your customer support with AI | 30% OFF with code **BLACKFRIDAY2024** |
+| 📚 | [Rephrasy](https://rephrasy.ai) | Rephrasy - AI Humanizer and built-in AI Detector | Use promo code **BLF25** for an additional **25% discount** on the lifetime deal |
 | 🤖 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans |
+| 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform |
+| 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
+| 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
 
 [⬆️ All categories](#table-of-contents)
 
 ### Lifestyle
-|     | Name                                                     | Description                                            | Deal                       |
-| --- | -------------------------------------------------------- | ------------------------------------------------------ | -------------------------- |
+| | Name | Description | Deal |
+| - | - | - | - |
 | 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |
 | 💇🏼‍♀️ | [AI Hairstyles](https://aihairstyles.com/) | Try on different hairstyles and colours in seconds with AI. | 30% OFF with code **BFRIDAY30** |
@@ -333,6 +340,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | ✅ | [Things3](https://apps.apple.com/app/things-3/id904237743) | Organize your life with the award-winning to-do list app. | 30% off in the AppStore |
+| 🔍 | [Search By Image: Lens Identify](https://apple.co/3Z5A0a6) | Lens lets you search what you see. It brings the best results from all around the web. You can search any products, people, artworks, etc. ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=1155925769&code=BLACKFRIDAY50) |
 
 ### Photos & Videos
 | | Name | Description | Deal |
@@ -363,6 +371,7 @@ It's free & open-source. Enjoy! 🚀
 |  🚫 | [AdBlock Bolt](https://apps.apple.com/app/apple-store/id1041834536?pt=521486&ct=rarebigdeal2024BF&mt=8) | Bolt is a fully free to use ad-blocker and tracker-blocker for Safari on all Apple devices. Bolt+ is a paid feature that works across the whole system to block even more ads and trackers, greatly improving your privacy. Not a single data is collected. | Get a 30% discount on Bolt+ lifetime purchase during Black Friday 2024 Nov 29 - Nov 30 |
 |  🖼️ | [Flux AI Image Generator](https://apps.apple.com/us/app/flux-ai-image-generator/id6670344892?pt=521486&ct=rarebigdeal2024BF&mt=8) | Unleash your creativity with Flux AI, the ultimate image generation app powered by advanced models. Turn your text prompts into stunning, high-quality images. | Enjoy up to 50% off credit purchases throughout this month! Nov 1 - Nov 30 |
 | 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+| 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 | 🎤 | [Roads Audio - Private Podcasts With Friends](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 
 [⬆️ All categories](#table-of-contents)
@@ -447,6 +456,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [FeedbackGlow](https://feedbackglow.com) | A Customer Feedback Management Software. | 40% off with code **BF2024** on 3 months subscriptions. |
 | 👨‍🏫 | [Guidejar](https://www.guidejar.com?ref=rare-big) | Showcase your product's full capabilities with AI-powered interactive product demos | 40% off with code **BLACKFRIDAY24** on all plans |
 | ⚡ | [Sparkbase](https://sparkbase.ai/?ref=rarebigdeal) | Book high-intent sales calls on autopilot | 20% OFF with code **RBD20** |
+| ⚡ | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools|
 
 ### Other
 | | Name | Description | Deal |
@@ -510,6 +520,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🤑 | [TapRefer](https://taprefer.com/) | Find & submit Affiliate programs to monetize your content, fast | 80% OFF with code **NEXT100** |
 | 🤝 | [Affonso.io](https://affonso.io) | Affiliate Marketing Software built for SaaS & productized services. Set up once, scale | 10% OFF on Revenue Pass (One-time payment) with code **BLACKFRIDAY** |
+| 🤝 | [AiAffiliateList](https://AiAffiliateList.com) | AI AffiliateList is your ultimate guide to the best AI affiliate programs. Explore commission rates, payment options, and marketing resources to elevate your affiliate strategy and boost your success. | 50% OFF (One-time payment) with code **BIGDEAL** |
 
 ### Analytics
 | | Name | Description | Deal |
@@ -537,6 +548,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [OSSsoftware Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads & Paid listings on a directory of open source alternatives. | 50% off ads [osssoftware.org](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [NextJsStarter Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and paid listings on a directory of NextJS boilerplates. | 50% off ads [nextjsstarter.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | ⭐ | [DevHunt Ad](https://johnrush.me/black-friday-deals/?ref=rare) | Ads and Paid listings on biggest launchpad for dev tools. | 50% off ads [devhunt.org](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform |
 
 ### Other
 | | Name | Description | Deal |
@@ -570,7 +582,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [BlitzBear](https://blitzbear.com) | Rank higher the easy way. BlitzBear is SEO software that refreshes your existing content to move you up in Google. Our AI analyzes your articles against SERP competitors, identifies opportunities, and makes intelligent suggestions. | 30% OFF using **[this link](https://app.blitzbear.com/signup?promo=ESXHzhUN)** |
 | 📈 | [Keyword.com](https://keyword.com/) | Keyword.com is a best-in-class Google keyword rank tracking solution. It provides everything you need to track, pinpoint and validate your SEO efforts to get to the 1st position in the SERPs. | 20% OFF for 12-months with code **BLACKFRIDAY2024** |
 | 🤖 | [IndexRusher](https://johnrush.me/black-friday-deals/?ref=rare) | Auto Indexing. Get indexed by Google in hours | 50% off [indexrusher.com](https://johnrush.me/black-friday-deals/?ref=rare) |
-| ⚡️ | [Sitetag](https://sitetag.ai) | Fix and improve your SEO issues automatically with a single script tag | 30% OFF with code **BLACKFRIDAY2024** 
+| ⚡️ | [Sitetag](https://sitetag.ai) | Fix and improve your SEO issues automatically with a single script tag | 30% OFF with code **BLACKFRIDAY2024**
 
 ### Analyze & Audit
 | | Name | Description | Deal |
@@ -601,6 +613,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**  |
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
+| 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 | ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
 
 ### Nuxt
