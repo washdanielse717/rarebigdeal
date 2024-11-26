@@ -335,6 +335,8 @@ It's free & open-source. Enjoy! 🚀
 | 🍊 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% OFF |
 | 💪 | [Fit Records](https://apps.apple.com/us/app/fit-records-gym-workout-log/id6449899890?platform=iphone) | Fit Records is a workout tracker focusing on building your own training plans, tracking workouts, seeing progress and achieving your fitness goals. Need a little help? It generates personalized training plans as well. | **50% OFF Lifetime Access** |
+| 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
+
 
 ### Hobby & Lifestyle
 | | Name | Description | Deal |
