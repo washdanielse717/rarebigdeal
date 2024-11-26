@@ -443,7 +443,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [SideNotes](https://www.apptorium.com/sidenotes) | Take notes on the side of your screen. | Lifetime 40% OFF |
 | 📝 | [FiveNotes](https://www.apptorium.com/fivenotes) | Five quick notes in your Menubar. | Lifetime 37% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
-| 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develo a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
+| 📝 | [Lifelog](https://golifelog.com/?rarebigdeal) | Write 100 word a day, every day. A writing community to develop a daily writing habit. | Use **BF2024** for 40% off for 12 months - |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 
 ### Marketing

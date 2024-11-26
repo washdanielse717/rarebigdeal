@@ -685,6 +685,12 @@ module.exports = {
     'learn-programming-with-go-one-game-at-a-time': {
       tags: ['Books', 'Game Development', 'Golang', 'Learning', 'Programming'],
     },
+    lifelog: {
+      metaDescription:
+        '100 words a day about your goals, whatever they might be. Write to think, plan, imagine, aspire, and get inspired by others doing the same.',
+      tags: ['Journaling', 'Productivity', 'Writing'],
+      ogImage: '/public/static/images/overrides/lifelog/ogImage.png',
+    },
     'link-building-software': {
       logo: '/public/static/images/overrides/link-building-software/logo.png',
       metaDescription:
