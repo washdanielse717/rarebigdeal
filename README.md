@@ -229,6 +229,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [SEObot](https://johnrush.me/black-friday-deals/?ref=rare) | Fully autonomous "SEO Robot" with AI agents for Busy Founders | 50% off [seobotai.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
+| 📚 | [SiteSpeakAI](https://sitespeak.ai) | Automate your customer support with AI | 30% OFF with code **BLACKFRIDAY2024**
 
 [⬆️ All categories](#table-of-contents)
 
