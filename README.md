@@ -147,6 +147,7 @@ It's free & open-source. Enjoy! 🚀
 | 💡 | [ProductLogz](https://productlogz.com/) | Collect & organize Feature Requests, conduct user research with in App Surveys, publish Roadmaps & Changelogs with User Notifications | **Get 10% OFF** on the LTD Plans |
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
+| 🔌 | [Terminalwire](https://terminalwire.com/black-friday?utm_source=rarebigdeal.com) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | Use **BF24** for 25% off Terminalwire Pro license |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -157,6 +158,7 @@ It's free & open-source. Enjoy! 🚀
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🧙‍♂️ | [CanvasWizard](https://canvaswizard.co/?via=rarebigdeal) | The AI Chrome Extension for Canvas Quizzes: Get answers & explanations to your Quizzes, Homeworks and Tests with a single click. | 50% OFF your SEMESTRER (3 Months) with code **BFSEM50** |
 | 🩵 | [Tailscan for Tailwind CSS](https://tailscan.com) | The ultimate devtool browser extension for Tailwind CSS. Inspect, debug, convert and more! | **25% OFF** auto-applied! |
+| ⚡️ | [TinyZap](https://tinyzap.com/black-friday?utm_source=rarebigdeal.com) | Automate OpenGraph images for any website or link and improve click-through rates 📈 for links shared on Twitter, LinkedIn, Facebook, and social posts with automatically generated webpage screenshots 💅 | **50% OFF** with coupon code BF24! |
 
 ### Productivity & AI
 | | Name | Description | Deal |
@@ -236,7 +238,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |
 | 💇🏼‍♀️ | [AI Hairstyles](https://aihairstyles.com/) | Try on different hairstyles and colours in seconds with AI. | 30% OFF with code **BFRIDAY30** |
-
+| 🧸 | [Thingybase](https://thingybase.com/black-friday?utm_source=rarebigdeal.com) | Organize, track, & treasure your stuff | **50% off** annual subscription with coupon code **BF24** |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -729,6 +731,8 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [HoneyPot Newsletters Database](https://unapologeticih.gumroad.com/l/ejsmjv) | HoneyPot is a database of 1100+ Beehiiv Newsletters - including details like the newsletter title, the URL/link to the publication and categories and topics covered in each publication. | 50% OFF with code **50BEEHIIV** |
 | 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
 | 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
+| 📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=rarebigdeal.com) | News that makes you smarter, published once daily, delivered to your inbox | **25% OFF** annual subscription with code **BF24** |
+
 
 [⬆️ All categories](#table-of-contents)
 
