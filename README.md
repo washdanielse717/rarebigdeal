@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-266+ awesome deals inside 🔥
+268+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
@@ -232,6 +232,7 @@ It's free & open-source. Enjoy! 🚀
 | 💫 | [Tailored Emails](https://tailoredemails.com) | Create cold email openings with AI that convert your prospects into customers | Lifetime 50% OFF (applied on website) |
 | 💸 | [HammerAI](https://www.hammerai.com/) | Private and uncensored character chat app - either run models locally with Ollama, or use our cloud-hosted models. | 50% OFF with code **BZAOH18** |
 | 📚 | [SiteSpeakAI](https://sitespeak.ai) | Automate your customer support with AI | 30% OFF with code **BLACKFRIDAY2024**
+| 🤖 | [DocuChat](https://www.docuchat.io) | Create AI chatbots trained on your documents, with unrivaled accuracy in answers and full EU data residency. | **90% OFF** for two months or **65% OFF** on yearly plans |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -731,6 +732,7 @@ It's free & open-source. Enjoy! 🚀
 | 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 | 🥳 | [Capitally](https://www.mycapitally.com/) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | Lifetime deal, Nov 25 - Dec 8 |
 | 📊 | [Tradojo](https://www.tradojo.com) | Automated trading journal & analytics for crypto traders | 50% OFF all plans. Applied automatically. |
+| 🗒️ | [Notion Finance Tracker](https://www.notionfinancetracker.com) | An API-enhanced Notion template for tracking net worth, investments, liabilities, and budgeting. All-in-one solution with real-time asset prices, multi-currency support, and charts inside Notion. | **80% OFF**, buy once own forever |
 
 [⬆️ All categories](#table-of-contents)
 
