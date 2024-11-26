@@ -533,6 +533,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎨 | [FilterGrade](https://filtergrade.com) | A creative marketplace and digital tools platform offering presets, templates, overlays, and educational resources for photographers, videographers, and designers. | 30% off marketplace with code **BLACKFRIDAY2024** |
 | 🛒 | [Zylvie](https://zylvie.com) | High-converting checkout solution for coaches and creators. Maximize your AOV. | 75% OFF all plans with code **BFRIDAY2024** |
 | 🤖 | [ListingBott](https://johnrush.me/black-friday-deals/?ref=rare) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | 50% off [listingbott.com](https://johnrush.me/black-friday-deals/?ref=rare) |
+| 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes. | 50% off all plans |
 
 [⬆️ All categories](#table-of-contents)
 
