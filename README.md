@@ -717,6 +717,7 @@ It's free & open-source. Enjoy! 🚀
 | 👻 | [Ghostfolio](https://ghostfol.io) | Ghostfolio is a privacy-focused, open source dashboard for managing your finances. It simplifies asset tracking and empowers informed investment decisions. | **25% OFF** on the annual Ghostfolio Premium subscription **plus 3 months extra** |
 | 🛡️ | [DeskVault](https://deskvault.app/) | All your Stripe accounts & revenue in one private desktop app. | 30% OFF with code **BF24** |
 | 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
+| 🥳 | [Capitally](https://www.mycapitally.com/) | Track, understand and improve the performance of your investment strategy, no matter how simple or complex, and achieve your life goals sooner! | Lifetime deal, Nov 25 - Dec 8 |
 
 [⬆️ All categories](#table-of-contents)
 
