@@ -128,6 +128,7 @@ It's free & open-source. Enjoy! 🚀
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
 | 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF |
+| 💰 | [Codelime](https://indiegoodies.com/codelime) | Powerful code snippet manager with many dev tools for iOS development. | 50% OFF |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
@@ -284,6 +285,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧑‍💻 | [Alter, AI built for MacOS](https://alterhq.com?utm_source=github&utm_campaign=rarebigdeals&utm_content=blackfriday2024) | Skip lengthy conversations, use 80+ AI-driven actions on any apps. Chat instantly from the Finder, native apps, webpages and YouTube videos. 30+ models provided or bring your own (cloud, local). Use codes at checkout after downloading the app. | Power User Plan: 3x 50% OFF **BF2024LIMITED** / 25% OFF **BF2024** |
 | 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 | 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
+| 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
 
 ### Design Tools
 | | Name | Description | Deal |
