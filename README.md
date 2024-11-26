@@ -593,6 +593,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [supastarter for Next.js](https://supastarter.dev) | The ultimate Next.js starter kit for scalable and production-ready SaaS apps | **$100 OFF** with code **BLACKFRIDAY** |
 | 🚀 | [Launchway](https://www.launchway.dev) | Remix starter kit with auth, payments, and more. No vendor lock-in. | **$120 OFF** with code **BLACK**  |
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
+| ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
 
 ### Nuxt
 | | Name | Description | Deal |
