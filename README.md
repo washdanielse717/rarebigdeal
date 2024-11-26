@@ -618,6 +618,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 | ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
+| 📱 | [KAppMaker](https://kappmaker.com) | Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS. | **30% OFF** with code **BLACKFRIDAY30** |
 
 ### Nuxt
 | | Name | Description | Deal |
