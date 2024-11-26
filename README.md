@@ -8,7 +8,7 @@ Hi there! Feel free to submit your own deal via a [Pull Request](https://github.
 It's free & open-source. Enjoy! 🚀
 
 ## Table of Contents
-268+ awesome deals inside 🔥
+291+ awesome deals inside 🔥
 
 - [Table of Contents](#table-of-contents)
 - [Developer Tools](#developer-tools)
