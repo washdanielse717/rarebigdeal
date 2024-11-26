@@ -128,7 +128,7 @@ It's free & open-source. Enjoy! 🚀
 | 👨‍💻 | [RunJS](https://runjs.app) | A playground for JavaScript and TypeScript. Zero config needed. Just run your code and see instant feedback. | 30% OFF! |
 | 🐳 | [WhaleDeck](https://apple.co/3NQJi4w) | The only Docker manager you will ever need. Available for iOS, iPadOS, and macOS. | Lifetime 20% off |
 | 💰 | [Tower](https://www.git-tower.com/) | Powerful Git client for Mac and Windows | 30% OFF |
-| 💰 | [Codelime]([https://www.git-tower.com/](https://indiegoodies.com/codelime)) | Powerful code snippet manager with many dev tools for iOS development. | 50% OFF |
+| 💰 | [Codelime](https://indiegoodies.com/codelime) | Powerful code snippet manager with many dev tools for iOS development. | 50% OFF |
 
 ### APIs, Tools & SaaS
 | | Name | Description | Deal |
