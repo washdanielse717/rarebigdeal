@@ -177,6 +177,8 @@ It's free & open-source. Enjoy! 🚀
 | 🗣️ | [Cleft Notes](https://cleftnotes.com) | Create shareable markdown notes from voice memos | **$60 OFF** Cleft Plus Annual Plan |
 | 🎬 | [Video Shorts Generator](https://harishgarg.gumroad.com/l/vxolwd) | Create Video Shorts from a Text Prompt, Runs Locally, No Subscriptions, One-time purchase, Source Code included | 30% off with code **RAREDEAL2024** until Nov 20th |
 | 🚀 | [Repurpose LOL](https://repurpose.lol?utm_source=awesomebf&utm_medium=github) | Automate your content marketing - video to short clips, blogs, social posts, newsletter etc. Zapier integration | Use promo code **BF30** for a **30% discount** on all plans |
+| ☑️ | [Taskheat](https://eyen.fr/taskheat/) | Use flowcharts to define and track the dependencies between your tasks. | 70% OFF the Full Version |
+| 📚 | [Subjects](https://eyen.fr/subjects/) | Keep track of your timetables, homework and grades. | 70%OFF the Yearly Plan |
 
 [⬆️ All categories](#table-of-contents)
 
