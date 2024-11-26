@@ -3,7 +3,7 @@ const path = require('path');
 
 const csvFilePath = path.join(
   __dirname,
-  '../data/config/export-app-page-views.csv',
+  '../data/config/export-hog-popular.csv',
 );
 
 function parseCSV() {
