@@ -219,6 +219,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 | 🤖 | [Letty](https://www.useletty.com/?ref=rarebigdeal) | Write professional emails that sound just like you in seconds with AI | 30% OFF all plans with code **BF2024** |
+| 🎧 | [Tales.so](https://www.tales.so/?ref=rarebigdeal) | Tales.so is an AI-powered platform with concise audio summaries as podcasts of top books across productivity, parenting, and self-growth genres—perfect for squeezing in knowledge during those “lost” minutes of the day. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
 
 ### Other
 | | Name | Description | Deal |
