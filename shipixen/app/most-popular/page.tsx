@@ -13,13 +13,15 @@ export default function CategoryPage() {
       allBlogs.filter(
         (post) => post.leaderboardPosition && post.leaderboardPosition > 0,
       ),
-    ).sort((a, b) => {
-      if (a.leaderboardPosition && b.leaderboardPosition) {
-        return a.leaderboardPosition - b.leaderboardPosition;
-      }
+    )
+      .sort((a, b) => {
+        if (a.leaderboardPosition && b.leaderboardPosition) {
+          return a.leaderboardPosition - b.leaderboardPosition;
+        }
 
-      return 0;
-    });
+        return 0;
+      })
+      .slice(0, 20);
   }, []);
 
   return (
