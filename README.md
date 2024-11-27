@@ -376,6 +376,8 @@ It's free & open-source. Enjoy! 🚀
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 | 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
+| + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | Lifetime 100% off |
+
 
 ### Other
 | | Name | Description | Deal |
