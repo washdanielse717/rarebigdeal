@@ -352,6 +352,8 @@ It's free & open-source. Enjoy! 🚀
 | 🔍 | [Search By Image: Lens Identify](https://apple.co/3Z5A0a6) | Lens lets you search what you see. It brings the best results from all around the web. You can search any products, people, artworks, etc. ✨ | **50% OFF** [Link](https://apps.apple.com/redeem?ctx=offercodes&id=1155925769&code=BLACKFRIDAY50) |
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime plan - 50% OFF |
+| 🦁 | [FontFlex Safari extension](https://apps.apple.com/app/apple-store/id1597034898?pt=570857&ct=rarebigdeal&mt=8) | Customize fonts and text size in Safari for a more readable, personal web experience. | Lifetime plan - 50% OFF |
+| 🧺 | [Tasky Apple Reminder Widgets](https://apps.apple.com/app/apple-store/id6502542119?pt=570857&ct=rarebigdeal&mt=8) | Transform Apple Reminders with widgets, progress tracking, and sleek designs to stay organized. | Lifetime plan - 50% OFF |
 
 ### Photos & Videos
 | | Name | Description | Deal |
