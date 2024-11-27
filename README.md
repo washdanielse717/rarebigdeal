@@ -360,6 +360,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% OFF |
 | 💪 | [Fit Records](https://apps.apple.com/us/app/fit-records-gym-workout-log/id6449899890?platform=iphone) | Fit Records is a workout tracker focusing on building your own training plans, tracking workouts, seeing progress and achieving your fitness goals. Need a little help? It generates personalized training plans as well. | **50% OFF Lifetime Access** |
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
+| 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | **33% OFF Annual Plan** |
 
 
 ### Hobby & Lifestyle
