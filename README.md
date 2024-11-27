@@ -579,6 +579,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [ListingBott](https://johnrush.me/black-friday-deals/?ref=rare) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | 50% off [listingbott.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes. | 50% off all plans |
 | 🔥 | [FormNX](https://formnx.com/?ref=rare-big-deal) | Your most affordable nocode form builder. Create any forms in minutes | 50% OFF on Yearly Plans for LIFE, use **BLACKFRIDAY2024** in checkout.|
+| 🙀 | [Inline Manual](https://inlinemanual.com/?ref=rare-big-deal) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF for one year with code **33BFDEAL**
 
 [⬆️ All categories](#table-of-contents)
 
