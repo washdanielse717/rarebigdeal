@@ -297,6 +297,8 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 | 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
+| 🖥️ | [Beaconly - Extensible Menu Bar App](https://beaconly.app/) | Beaconly is most versatile macOs menu app allowing you to track your tasks from Jira, Asana and others, your service status and more right inside your menu. | 33% off till end of the year ($1.99 instaed of $2.99) |
+
 
 ### Design Tools
 | | Name | Description | Deal |
