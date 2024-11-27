@@ -244,6 +244,8 @@ It's free & open-source. Enjoy! 🚀
 | 💸 | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools on our platform |
 | 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
 | 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
+| 🤵 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -350,6 +352,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
+| ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 
 ### Health & Fitness
 | | Name | Description | Deal |
@@ -359,7 +362,7 @@ It's free & open-source. Enjoy! 🚀
 | 💪 | [Fit Records](https://apps.apple.com/us/app/fit-records-gym-workout-log/id6449899890?platform=iphone) | Fit Records is a workout tracker focusing on building your own training plans, tracking workouts, seeing progress and achieving your fitness goals. Need a little help? It generates personalized training plans as well. | **50% OFF Lifetime Access** |
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 | 😌 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | Lifetime plan - 50% OFF |
-
+| 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | **33% OFF Annual Plan** |
 
 ### Hobby & Lifestyle
 | | Name | Description | Deal |
@@ -620,6 +623,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 | ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
+| 📱 | [KAppMaker](https://kappmaker.com) | Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS. | **30% OFF** with code **BLACKFRIDAY30** |
 
 ### Nuxt
 | | Name | Description | Deal |
