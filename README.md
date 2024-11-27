@@ -369,6 +369,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧘 | [Presence](https://web.presence.app/en/subscription/90-days/black-friday-2024) | Meditation, Wellbeing, and Yoga App | Experience the Presence App FREE for 3 months |
 | 😌 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | Lifetime plan - 50% OFF |
 | 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | **33% OFF Annual Plan** |
+| 🚭 | [Smoke Count](https://apps.apple.com/us/app/smoke-count-cigarette/id6503163176) | Break free from cigarettes! Get daily reminders, track your progress, and stay motivated. Start your journey today! | **Lifetime 100% off** |
 
 ### Hobby & Lifestyle
 | | Name | Description | Deal |
@@ -376,7 +377,7 @@ It's free & open-source. Enjoy! 🚀
 | 📦 | [Inventory Tracker Itemlist](https://getitemlist.app) | A powerful inventory tracker app for home and business, available on iOS and iPadOS (with macOS support coming soon). Easily organize, categorize, and locate items in seconds. | 50% OFF Lifetime PRO |
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 | 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
-| + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | Lifetime 100% off |
+| + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | **Lifetime 100% off** |
 
 
 ### Other
@@ -388,6 +389,7 @@ It's free & open-source. Enjoy! 🚀
 | 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
 | 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 | 🎤 | [Roads Audio - Private Podcasts With Friends](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
+| 🌍 | [Countries Been](https://apps.apple.com/us/app/countries-been/id6670202865) | Track your travels effortlessly. Auto-track days, restore from photos, fill gaps, generate PDFs, and sync with iCloud. Simple and secure! | **Lifetime 100% off** |
 
 [⬆️ All categories](#table-of-contents)
 
