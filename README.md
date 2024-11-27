@@ -349,6 +349,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
+| ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
 
 ### Health & Fitness
 | | Name | Description | Deal |
