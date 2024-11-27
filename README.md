@@ -63,6 +63,7 @@ It's free & open-source. Enjoy! 🚀
   - [Nuxt](#nuxt)
   - [iOS](#ios)
   - [Flutter](#flutter)
+  - [Kotlin](#kotlin)
   - [Laravel](#laravel)
   - [Django](#django)
   - [Rails](#rails)
@@ -149,6 +150,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔌 | [Jason's Plugins For Carrd](https://plugins.carrd.co/?rarebigdeal) | Plugins, widgets, scripts to power up your Carrd sites. | Use **BF2024** for 40% off all plugins. Till 30 Nov. |
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 | 🔌 | [Terminalwire](https://terminalwire.com/black-friday?utm_source=rarebigdeal.com) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | Use **BF24** for 25% off Terminalwire Pro license |
+|  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -245,6 +247,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
 | 💬 | [Chatwith](https://chatwith.so) | The best no-code AI chatbot for agencies and small businesses. | 50% OFF your first 3 months with code **BLACKFRIDAY24** |
 | 🤵 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
+| 🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code BLACKFRIDAY2024 |
 
 
 [⬆️ All categories](#table-of-contents)
@@ -298,7 +301,7 @@ It's free & open-source. Enjoy! 🚀
 | 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
 | 🖥️ | [Beaconly - Extensible Menu Bar App](https://beaconly.app/) | Beaconly is most versatile macOs menu app allowing you to track your tasks from Jira, Asana and others, your service status and more right inside your menu. | 33% off till end of the year ($1.99 instaed of $2.99) |
-
+| 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
 
 ### Design Tools
 | | Name | Description | Deal |
@@ -340,6 +343,7 @@ It's free & open-source. Enjoy! 🚀
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
 | 📱 | [Voice Typing: Speech To Text](https://apple.co/3CD0wzV) | Transcribe your voice into the text in real time with 90+ languages support ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=1150900877&code=BLACKFRIDAY50) |
+| 🎙 | [V2T transcription](https://apps.apple.com/us/app/whisper-ai-transcriber-v2t/id6464112913?pt=121168594&ct=black+friday+2024&mt=8) | Never miss a detail in your lectures or meetings. With transcription and time-saving AI summaries, you’ll always have the highlights at your fingertips. | **50% OFF** Yearly Subscription |
 
 ### Productivity
 | | Name | Description | Deal |
@@ -506,6 +510,7 @@ It's free & open-source. Enjoy! 🚀
 | ⭐ | [Redreach](https://redreach.ai) | Reddit Marketing: Turn Reddit traffic into customers. Finds high impact Reddit conversations to help you naturally promote your product and get more sales. | 30% OFF with code **BLACKFRIDAY24** |
 | 🔗 | [Nuelink](https://nuelink.com/) | Nuelink is a social media management and automation tool designed for professionals including agencies, e-commerce brands, podcasters, creators. Manage, schedule, analyze, and automate on 12+ platforms. | [50% OFF on all yearly plans](https://nuelink.com/pricing) (Nov 5 - Dec 9) |
 | 🦋 | [Airview](https://airview.so) | Posting, scheduling and analytics for Bluesky. | 30% off any paid plan **RAREBF24** |
+| 🎥 | [Vidlo](https://vidlo.video) | Collect video testimonials and UGC content easily. | 30% off with code **BlackFriday2024** for 3 months |
 
 ### Email Marketing
 | | Name | Description | Deal |
@@ -625,7 +630,6 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [Achromatic](https://achromatic.dev) | Building your SaaS just got unfairly easy - meet the most advanced Next.js 15 starter kit for modern SaaS web apps. | **50% OFF** with code **BLACKFRIDAY** |
 | 🚀 | [FinetuneFast](https://finetunefast.com) | Ship AI SaaS faster - Finetune, Deploy, Scale | Use **24BF** for 25% off |
 | ✨ | [useSAASkit](https://www.usesaaskit.com/) | Super Easy and Fully Configurable Next.js Templates. Built with Next.js, Supabase, Tailwind CSS, and Stripe.	 | **40% OFF** on checkout. Limited time offer! |
-| 📱 | [KAppMaker](https://kappmaker.com) | Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS. | **30% OFF** with code **BLACKFRIDAY30** |
 
 ### Nuxt
 | | Name | Description | Deal |
@@ -645,6 +649,11 @@ It's free & open-source. Enjoy! 🚀
 | 🚢 | [ShipFlutter](https://shipflutter.com) | Ship Everywhere with Flutter. More than a boilerplate. A fully customizable starter kit to seamlessly launch responsive Android, iOS, and Web apps with Flutter powered by Firebase and Vertex AI. | 60% OFF on Whitelabel version with code **BLACKFRIDAY60** |
 | 💜 | [FlutterFlow Templates](https://fftemplates.gumroad.com) | Kickstart your FlutterFlow projects faster with these easy-to-use templates. Simply Copy + Paste + Ship. | 40% with code **BLACKFRIDAY2024** |
 | 📱 | [ApparenceKit flutter template](https://apparencekit.dev) | Save months of work and money by building a Flutter app. Crafted by an ex-agency owner with over 6 years of Flutter experience. | 35% with code **BLACKFRIDAY2024** |
+
+### Kotlin
+| | Name | Description | Deal |
+| - | - | - | - |
+| 📱 | [KAppMaker](https://kappmaker.com) | Kotlin and Compose Multiplatform boilerplate code for fast mobile app development on Android and iOS. | **30% OFF** with code **BLACKFRIDAY30** |
 
 ### Laravel
 | | Name | Description | Deal |
@@ -712,6 +721,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧪 | [LabEx](https://labex.io/) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | Get 50% off for 2 years with code BF50OFF, or 30% off for 1 year with code BF30OFF, applied automatically at checkout. |
 | 📖 | [Ultimate Cursor AI Course](https://www.instructa.ai) | Learn how to use Cursor AI to write code, write blog posts, and more. | 25% OFF with Code **BLACKCURSOR25** |
 | 🪝 | [Custom React Hooks Crash Course: Learn Hooks Through 6 Apps](https://www.udemy.com/course/custom-react-hooks-crash-course/?couponCode=BLACKFRIDAY_2024) | In this course, through 6 small applications, we'll recreate hooks and patterns that are commonly used in production web applications. If you’re preparing for a coding interview or working on a large-scale project, knowing how to use custom hooks in React is invaluable. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 🌐 | [DNS for Developers](https://nslookup.io/dns-course/) | Everything developers should know about DNS. Delegation, propagation, SPF, DKIM, DMARC, security, and much more. Learn DNS once and for all. | Get 66% OFF at checkout  |
 
 ### Art Courses
 | | Name | Description | Deal |
