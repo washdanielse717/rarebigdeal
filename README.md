@@ -473,7 +473,6 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [Sparkbase](https://sparkbase.ai/?ref=rarebigdeal) | Book high-intent sales calls on autopilot | 20% OFF with code **RBD20** |
 | ⚡ | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools|
 
-
 ### Other
 | | Name | Description | Deal |
 | - | - | - | - |
