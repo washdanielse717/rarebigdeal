@@ -422,6 +422,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [CollectiveIntelligence](https://collectiveintelligence.fyi) | Create extraordinary UX with AI agent usability testing | 50% off with code **BLACKFRIDAY50** |
 | 🖌️ | [VectorUbi](https://vectorubi.com) | AI professional illustration generator in seconds | 20% OFF limited offer |
 | 🆂 | [Sitely](https://sitely.app/) | Visual + AI Website Builder formerly known as Sparkle. Build the website you always wanted, visually, on your Mac | 50% OFF automatically applied |
+| 🎉 | [Flux AI Image Generator](https://flux1.ai/?utm_source=rare-big-deal) | Flux AI - Free Online Flux.1 AI Image Generator | **50%** off with code **BF5** |
 
 ### Video Tools
 | | Name | Description | Deal |
