@@ -87,6 +87,7 @@ It's free & open-source. Enjoy! 🚀
 - [Productized Services](#productized-services)
   - [Design Agencies](#design-agencies)
   - [Video Production Agencies](#video-production-agencies)
+  - [Customer Support Agencies](#customer-support-agencies)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
