@@ -347,6 +347,7 @@ It's free & open-source. Enjoy! 🚀
 | ✍️ | [Capture - Quick Notes](https://apps.apple.com/app/apple-store/id6458535284?pt=118518712&ct=github&mt=8) | Easily capture your thoughts & ideas on iOS, macOS & visionOS. |  **50% off** lifetime (automatically applied) |
 | 📱 | [Voice Typing: Speech To Text](https://apple.co/3CD0wzV) | Transcribe your voice into the text in real time with 90+ languages support ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=1150900877&code=BLACKFRIDAY50) |
 | 🎙 | [V2T transcription](https://apps.apple.com/us/app/whisper-ai-transcriber-v2t/id6464112913?pt=121168594&ct=black+friday+2024&mt=8) | Never miss a detail in your lectures or meetings. With transcription and time-saving AI summaries, you’ll always have the highlights at your fingertips. | **50% OFF** Yearly Subscription |
+| 🗒️ | [Note - mini note](https://apps.apple.com/app/note/id1602765272) | Keep what’s most important in focus with this mini note app and interactive widget. It’s like a pinned note in its own app. | $2.99 (40% off) one-time purchase. |
 
 ### Productivity
 | | Name | Description | Deal |
