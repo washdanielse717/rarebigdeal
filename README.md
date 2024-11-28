@@ -151,6 +151,7 @@ It's free & open-source. Enjoy! 🚀
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 | 🔌 | [Terminalwire](https://terminalwire.com/black-friday?utm_source=rarebigdeal.com) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | Use **BF24** for 25% off Terminalwire Pro license |
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
+| 🚀 | [Pagerly](https://pagerly.io/) | Manage Oncalls, Tickets , Rotations and Incidents over Slack/Teams/Discord | 20% off Starter Planw with code **BF2024** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
