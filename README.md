@@ -336,6 +336,7 @@ It's free & open-source. Enjoy! 🚀
 | 💸 | [DonkeyCarrot](https://krayorn.gumroad.com/l/donkeyCarrot) | MacOS menu bar app: See how much $$$ you've earned today—right at the top of your screen based on your daily salary! | 30% OFF with code **BLACKFRIDAY30** |
 | 🕑 | [Clockzones]( https://apps.apple.com/app/clockzones/id6737234391) | Easy view of up to 5 different timezones in your menubar | 50% off lifetime |
 | 🖥 | [Cursor Teleporter](https://www.apptorium.com/cursor-teleporter) | Teleport your cursor across your displays | Lifetime 50% OFF |
+| 🔥 | [Usage](https://usage.pro) | System Activity Monitor | 40% OFF on yearly plan |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -398,6 +399,7 @@ It's free & open-source. Enjoy! 🚀
 | 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 | 🎤 | [Roads Audio - Private Podcasts With Friends](https://roadsaudio.com) | Create private podcasts and grow your community with async audio chats. | 50% OFF your first year of Roads Audio Plus. Offer applied in the app from Nov 29 - Dec 2 |
 | 🌍 | [Countries Been](https://apps.apple.com/us/app/countries-been/id6670202865) | Track your travels effortlessly. Auto-track days, restore from photos, fill gaps, generate PDFs, and sync with iCloud. Simple and secure! | **Lifetime 100% off** |
+| 🔥 | [Usage](https://usage.pro) | System Activity Monitor | 40% OFF on yearly plan |
 
 [⬆️ All categories](#table-of-contents)
 
