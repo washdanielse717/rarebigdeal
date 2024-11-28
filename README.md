@@ -529,6 +529,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔗 | [Nuelink](https://nuelink.com/) | Nuelink is a social media management and automation tool designed for professionals including agencies, e-commerce brands, podcasters, creators. Manage, schedule, analyze, and automate on 12+ platforms. | [50% OFF on all yearly plans](https://nuelink.com/pricing) (Nov 5 - Dec 9) |
 | 🦋 | [Airview](https://airview.so) | Posting, scheduling and analytics for Bluesky. | 30% off any paid plan **RAREBF24** |
 | 🎥 | [Vidlo](https://vidlo.video) | Collect video testimonials and UGC content easily. | 30% off with code **BlackFriday2024** for 3 months |
+| 🚀 | [lowkey viral](https://lowkeyviral.com/) | Generate viral Reels & TikToks in the trending grid format with AI | 50% OFF (from 0.22$ per video) |
 
 ### Email Marketing
 | | Name | Description | Deal |
