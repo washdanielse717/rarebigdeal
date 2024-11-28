@@ -356,6 +356,7 @@ It's free & open-source. Enjoy! 🚀
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime plan - 50% OFF |
 | 🦁 | [FontFlex Safari extension](https://apps.apple.com/app/apple-store/id1597034898?pt=570857&ct=rarebigdeal&mt=8) | Customize fonts and text size in Safari for a more readable, personal web experience. | Lifetime plan - 50% OFF |
 | 🧺 | [Tasky Apple Reminder Widgets](https://apps.apple.com/app/apple-store/id6502542119?pt=570857&ct=rarebigdeal&mt=8) | Transform Apple Reminders with widgets, progress tracking, and sleek designs to stay organized. | Lifetime plan - 50% OFF |
+| 🦘 | [Get Packy](https://getpacky.app) | TCreate simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF |
 
 ### Photos & Videos
 | | Name | Description | Deal |
