@@ -765,6 +765,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [OpenAI Crash Course in One Hour: Build Production-Ready Generative AI Apps with React, TypeScript & Remix](https://akoskm.gumroad.com/l/openai/BLACKFRIDAY_2024) | In this book, you’ll get hands-on experience in building AI-enhanced web applications from scratch.| 50% OFF with code **BLACKFRIDAY_2024** |
 | 🦹 | [Building Cloud-Based PWAs with Supabase, React & TypeScript](https://akoskm.gumroad.com/l/supabase/BLACKFRIDAY_2024) | Learn to build and deploy cloud-based progressive web apps from scratch | 50% OFF with code **BLACKFRIDAY_2024** |
 | 👨‍💻 | [How to Build Better Portfolio Projects - as a web developer](https://akoskm.gumroad.com/l/how-to-build-better-portfolio-projects/BLACKFRIDAY_2024) | Learn to make a portfolio project that will get you hired. | 50% OFF with code **BLACKFRIDAY_2024** |
+| 📕 | [Indexing Beyond the Basics](https://goodindexes.com) | Learn to create indexes for your slow queries by following simple principles. | 50% OFF |
 
 [⬆️ All categories](#table-of-contents)
 
