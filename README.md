@@ -200,6 +200,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [PaletteBrain 3](https://www.palettebrain.com?via=rarebigdeal) | Powerful and Customizable ChatGPT App for macOS. Access the power of ChatGPT across all your macOS apps with the press of a shortcut. Stop wasting time switching between windows and copying-pasting texts. | 51% OFF with code **LASTLTDBF51** |
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
 | 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
+| 📄 | [Ninjatools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | [**20% OFF Code**](BLACKFRIDAY20) |
 
 [⬆️ All categories](#table-of-contents)
 
