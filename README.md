@@ -315,6 +315,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
+| 💪 | [Calorimeter](https://calorimeter.app) | Native & lightweight iOS companion for tracking and managing your daily calorie burn. | PRO Lifetime - 50%  OFF, PRO Annual - 70% OFF with code **BF2024** |
 
 ### Writing & Notes
 | | Name | Description | Deal |
