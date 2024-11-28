@@ -306,6 +306,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [Focu](https://focu.app) | Mindful productivity app with your own locally running AI, helpful for planning, procrastination, distractions, emotions and thoughts. Now for MacOS. | 50% OFF with code **BF24** |
 | 🖥️ | [GlanceCam - IP Camera Viewer](https://apps.apple.com/us/app/glancecam-ip-camera-viewer/id1360797896) |GlanceCam is a secure and beloved IP camera viewer for macOS, with over 600 App Store ratings averaging more than 4.2 stars. | Standard version 50% OFF ($ 1,99 instead of 3,99) |
 | 🖥️ | [PastePal - Clipboard Manager](https://indiegoodies.com/pastepal) | PastePal is the best universal clipboard manager for Mac, iPhone and iPad.| 50% OFF lifetime purchase |
+| 🖥️ | [Wins - Window Manager](https://wins.cool) | A New Mac Window Manager. Dock Window Previewer, Aero shake, Mission Control Pro and more. Bring System-level Arrange Window features to Mac. | 40% OFF lifetime purchase |
 | 🖥️ | [Beaconly - Extensible Menu Bar App](https://beaconly.app/) | Beaconly is most versatile macOs menu app allowing you to track your tasks from Jira, Asana and others, your service status and more right inside your menu. | 33% off till end of the year ($1.99 instaed of $2.99) |
 | 🟢 | [QuickWhisper](https://iwtcom.gumroad.com/l/quickwhisper?code=BFRIDAY2024) | QuickWhisper turns any audio or video into accurate text instantly on your Mac, handling everything from meetings to podcasts with lightning-fast speed and accuracy. | 50% OFF with **BFRIDAY2024** |
 
@@ -595,6 +596,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [ListingBott](https://johnrush.me/black-friday-deals/?ref=rare) | Get your SaaS, tool, product, newsletter, or blog listed on 100 directories in one click, saving you days of work to focus on more creative tasks. | 50% off [listingbott.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 🔥 | [Marketing Strategy Generator](https://founderpal.ai/marketing-strategy-generator) | Unique marketing strategy for your business in 5 minutes. | 50% off all plans |
 | 🔥 | [FormNX](https://formnx.com/?ref=rare-big-deal) | Your most affordable nocode form builder. Create any forms in minutes | 50% OFF on Yearly Plans for LIFE, use **BLACKFRIDAY2024** in checkout.|
+| 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=rare-deals) |
 | 🙀 | [Inline Manual](https://inlinemanual.com/?ref=rare-big-deal) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF for one year with code **33BFDEAL**
 
 [⬆️ All categories](#table-of-contents)
