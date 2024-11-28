@@ -187,6 +187,7 @@ It's free & open-source. Enjoy! 🚀
 | 📚 | [Subjects](https://eyen.fr/subjects/) | Keep track of your timetables, homework and grades. | 70%OFF the Yearly Plan |
 | 🤖 | [Chatsimple](https://www.chatsimple.ai/?via=aitools-fyi) | Chatsimple helps you add a smart chatbot to your website in just 5 minutes. Powered by ChatGPT, it makes talking to your customers easier and better | **50% OFF** for 1 year or for the first three months of monthly plans **FRIDAY50** |
 | 📄 | [NinjaTools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | Use promo code **BLACKFRIDAY20** for a **20% discount** on all subscription plans! |
+| 🌯 | [WrapFast](https://www.wrapfa.st) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** during Black Friday weekend |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -657,7 +658,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🖥️ | [SwiftyLaunch](https://www.swiftylaun.ch) | SwiftyLaunch is a full-fledged Xcode Project Generator. Trusted by 150+ iOS developers. | 40% OFF with code **BLACKFRIDAY2024** |
 | 🚀 | [ShipThatApp](https://www.shipthat.app) | ShipThatApp helps indie developers launch SwiftUI apps faster with secure AI integration. Save 50+ hours with ready-to-use components | 35% OFF with code **BLACKFRIDAY24** |
-| 🚀 | [WrapFast](https://www.wrapfa.st) | The SwiftUI boilerplate to create iOS apps fast | 60% OFF during Black Friday weekend |
+| 🌯 | [WrapFast](https://www.wrapfa.st) | The SwiftUI boilerplate to create iOS apps fast | **60% OFF** during Black Friday weekend |
 
 ### Flutter
 | | Name | Description | Deal |
