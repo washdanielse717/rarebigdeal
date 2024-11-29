@@ -87,6 +87,7 @@ It's free & open-source. Enjoy! 🚀
 - [Productized Services](#productized-services)
   - [Design Agencies](#design-agencies)
   - [Video Production Agencies](#video-production-agencies)
+  - [Customer Support Agencies](#customer-support-agencies)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -152,6 +153,7 @@ It's free & open-source. Enjoy! 🚀
 | 🔌 | [Terminalwire](https://terminalwire.com/black-friday?utm_source=rarebigdeal.com) | Build command-line interfaces for web apps. Ship terminal applications 10× faster using your favorite web framework. | Use **BF24** for 25% off Terminalwire Pro license |
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
 | 🚀 | [Pagerly](https://pagerly.io/) | Manage Oncalls, Tickets , Rotations and Incidents over Slack/Teams/Discord | 20% off Starter Planw with code **BF2024** |
+| 🤖 | [SessionBox](https://sessionbox.io/) | The best anti-detect browser for working with multiple accounts on the same site. | 60% off with code **BLACKF60** |
 
 ### Browser Extensions
 | | Name | Description | Deal |
@@ -204,6 +206,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
 | 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 | 📄 | [Ninjatools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | [**20% OFF Code**](BLACKFRIDAY20) |
+| 📄 | [GasbyAI](https://gasbyai.com) | Fancy AI personal assitant with appsuit | [**50% OFF Code**](BF50) |
 
 [⬆️ All categories](#table-of-contents)
 
@@ -322,7 +325,6 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 💰 | [Tim Time Tracker](https://tim.neat.software) | Native macOS time tracker with menu bar app, scripting, powerful charts and data organization. | 30% OFF with code **BF24NSCO** |
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
-| 💪 | [Calorimeter](https://calorimeter.app) | Native & lightweight iOS companion for tracking and managing your daily calorie burn. | PRO Lifetime - 50%  OFF, PRO Annual - 70% OFF with code **BF2024** |
 
 ### Writing & Notes
 | | Name | Description | Deal |
@@ -364,7 +366,7 @@ It's free & open-source. Enjoy! 🚀
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime plan - 50% OFF |
 | 🦁 | [FontFlex Safari extension](https://apps.apple.com/app/apple-store/id1597034898?pt=570857&ct=rarebigdeal&mt=8) | Customize fonts and text size in Safari for a more readable, personal web experience. | Lifetime plan - 50% OFF |
 | 🧺 | [Tasky Apple Reminder Widgets](https://apps.apple.com/app/apple-store/id6502542119?pt=570857&ct=rarebigdeal&mt=8) | Transform Apple Reminders with widgets, progress tracking, and sleek designs to stay organized. | Lifetime plan - 50% OFF |
-| 🦘 | [Get Packy](https://getpacky.app) | TCreate simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF |
+| 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | **Lifetime plan - 50% OFF** |
 
 ### Photos & Videos
 | | Name | Description | Deal |
@@ -372,6 +374,7 @@ It's free & open-source. Enjoy! 🚀
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
+| 🌍 | [Photo Route](https://photoroute.app) | Travel Tracker: Transform your Pictures into a Journey Map. | **Lifetime plan - 50% OFF** |
 
 ### Health & Fitness
 | | Name | Description | Deal |
@@ -384,6 +387,7 @@ It's free & open-source. Enjoy! 🚀
 | 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | **33% OFF Annual Plan** |
 | 🚭 | [Smoke Count](https://apps.apple.com/us/app/smoke-count-cigarette/id6503163176) | Break free from cigarettes! Get daily reminders, track your progress, and stay motivated. Start your journey today! | **Lifetime 100% off** |
 | 🚶 | [Steps & Beasts - Step Counter / Pedometer](https://apps.apple.com/app/id6670788226) | Gamified Step Counter App: Reach your goal and hatch a cute creature every day. Motivates yourself to move more through play. | **Lifetime 100% off** |
+| 💪 | [Calorimeter](https://calorimeter.app) | Native & lightweight iOS companion for tracking and managing your daily calorie burn. | PRO Lifetime - 50%  OFF, PRO Annual - 70% OFF with code **BF2024** |
 
 ### Hobby & Lifestyle
 | | Name | Description | Deal |
@@ -392,6 +396,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 | 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
 | + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | **Lifetime 100% off** |
+| 🍕 | [WhatsCook](https://whatscook.app) | Meal Planner, Cookbook & Recipe Keeper. | **Lifetime plan - 75% OFF** |
 
 
 ### Other
@@ -599,6 +604,8 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [FormNX](https://formnx.com/?ref=rare-big-deal) | Your most affordable nocode form builder. Create any forms in minutes | 50% OFF on Yearly Plans for LIFE, use **BLACKFRIDAY2024** in checkout.|
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=rare-deals) |
 | 🙀 | [Inline Manual](https://inlinemanual.com/?ref=rare-big-deal) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF for one year with code **33BFDEAL**
+| 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | VideoToBe converts audio and video to text with industry-leading accuracy. Transform recordings into editable transcripts with timestamps, speaker detection, and translations.| Transform Your Audio and Video into Text — Get 20% Off with Code VIBE20!
+
 
 [⬆️ All categories](#table-of-contents)
 
@@ -826,6 +833,11 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🎬  | [Clipwing Production](https://clipwing.pro/custom-video-production) | We'll save you days on producing better video content. | $1,000 OFF with code BLACKCLIP |
+
+### Customer Support Agencies
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🤝 | [Evergreen Support](https://www.evergreensupport.co/) | Customer Support by real humans for online businesses | 50% off first month |
 
 [⬆️ All categories](#table-of-contents)
 
