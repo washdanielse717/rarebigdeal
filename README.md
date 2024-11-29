@@ -97,7 +97,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | up to 60% OFF with code **BFCM2024** |
 | 📃 | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
-| 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** first year |
+| 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** 1 year with code BLACKFRIDAY24 |
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows.  | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2024 |
@@ -278,6 +278,7 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | ⚡ | [BoltAI](https://boltai.com/buy?via=rarebigdeal) | Access all AI models in one native Mac app. Switch between top AI services and local models. All from a single app on your Mac. | up to 60% OFF with code **BFCM2024** |
+| 📺 | [Screen Studio](https://screen.studio?aff=OzBPe) | Screen Recorder producing high-impact videos automatically. Designed for macOS. | **40% off** 1 year with code BLACKFRIDAY24 |
 | ⭐️ | [DevUtils](https://devutils.com) | All-in-one toolbox for developers. Fully supports Apple Silicon & macOS Ventura. | 50% OFF with code **BLACKFRIDAY_2024** |
 | 💽 | [TablePlus](https://tableplus.com/?ref=rare) | Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more | 25% off with code BLACK_FRIDAY_2024 |
 | 📚 | [CompressX](https://compressx.app/?aff=OzBPe) | Offline media compression. Compress video, image, and gif with up to 90% file size reduction | 30% OFF with code **BF24** |
