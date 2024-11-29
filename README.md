@@ -598,6 +598,8 @@ It's free & open-source. Enjoy! 🚀
 | 🔥 | [FormNX](https://formnx.com/?ref=rare-big-deal) | Your most affordable nocode form builder. Create any forms in minutes | 50% OFF on Yearly Plans for LIFE, use **BLACKFRIDAY2024** in checkout.|
 | 🤑 | [Veshort](https://veshort.com) | A URL shortener that helps businesses create more reliable and traceable marketing links for effective targeted marketing, along with features such as bio pages, QR codes, call-to-action overlays, and more. | [Lifetime Deal For $99](https://veshort.com/deal/lifetime?linkId=lp_628593&sourceId=fahad&tenantId=veshort&affS1=rare-deals) |
 | 🙀 | [Inline Manual](https://inlinemanual.com/?ref=rare-big-deal) | Helping people love your product, one step at a time. Make your product easier to understand with walkthroughs, tooltips, new features announcements, in-app support, surveys, and articles. Everything you need to guide your users and help them get the most out of your product. | 33% OFF for one year with code **33BFDEAL**
+| 🌸 | [VideoToBe.com](https://videotobe.com/tools/transcribe) | VideoToBe converts audio and video to text with industry-leading accuracy. Transform recordings into editable transcripts with timestamps, speaker detection, and translations.| Transform Your Audio and Video into Text — Get 20% Off with Code VIBE20!
+
 
 [⬆️ All categories](#table-of-contents)
 
