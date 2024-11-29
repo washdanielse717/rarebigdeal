@@ -235,6 +235,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 | 🤖 | [Letty](https://www.useletty.com/?ref=rarebigdeal) | Write professional emails that sound just like you in seconds with AI | 30% OFF all plans with code **BF2024** |
 | 🎧 | [Tales.so](https://www.tales.so/?ref=rarebigdeal) | Tales.so is an AI-powered platform with concise audio summaries as podcasts of top books across productivity, parenting, and self-growth genres—perfect for squeezing in knowledge during those “lost” minutes of the day. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
+| 📺 | [SumyAI](https://www.sumyai.com/pricing) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | Use code **BF24** to enjoy 50% off. |
 
 ### Other
 | | Name | Description | Deal |
