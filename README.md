@@ -865,5 +865,6 @@ It's free & open-source. Enjoy! 🚀
 |  🤑 | [Small Bets Community](https://smallbets.com) | An online community for solopreneurs. Get access to experts and join a support network to help you get your first small wins. 6,000+ members! | **40% off** lifetime membership. Applied automatically. |
 | 🏎️ | [Happy Social Login](https://wpfolk.com/plugins/happy-social-login) | Social Login Plugin for Wordpress. Login with 42+ social media accounts like Facebook, Google, Linkedin and more. | **50% Off** on all plans. Coupon **BFCM50** |
 | 🍿 | [kudos.wiki](https://kudos.wiki) | A database of thousands of critically acclaimed movies on Wikipedia you won't find recommended anywhere else. | **50% Off** on the Complete Collection with code **BF2024** |
+| 🚀 | [seofa.st](https://seofa.st) | Best way to kick start SEO on your parked or new domains | **$30 OFF** with coupon code **BLACKFRIDAY**.  |
 
 [⬆️ All categories](#table-of-contents)
