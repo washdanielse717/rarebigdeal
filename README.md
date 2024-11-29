@@ -386,6 +386,7 @@ It's free & open-source. Enjoy! 🚀
 | 😌 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | Lifetime plan - 50% OFF |
 | 💪 | [BodyPeak](https://apps.apple.com/app/id6476585712) | Take your workouts to the next level with BodyPeak, your iOS coach for muscle building and workout tracking. Stay motivated, track progress, and crush your goals! | **33% OFF Annual Plan** |
 | 🚭 | [Smoke Count](https://apps.apple.com/us/app/smoke-count-cigarette/id6503163176) | Break free from cigarettes! Get daily reminders, track your progress, and stay motivated. Start your journey today! | **Lifetime 100% off** |
+| 🚶 | [Steps & Beasts - Step Counter / Pedometer](https://apps.apple.com/app/id6670788226) | Gamified Step Counter App: Reach your goal and hatch a cute creature every day. Motivates yourself to move more through play. | **Lifetime 100% off** |
 | 💪 | [Calorimeter](https://calorimeter.app) | Native & lightweight iOS companion for tracking and managing your daily calorie burn. | PRO Lifetime - 50%  OFF, PRO Annual - 70% OFF with code **BF2024** |
 
 ### Hobby & Lifestyle
