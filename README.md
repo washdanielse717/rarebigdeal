@@ -205,6 +205,7 @@ It's free & open-source. Enjoy! 🚀
 | 💬 | [MindPal](https://mindpal.space/) | Build AI agents & multi-agent workflows to automate business processes. Process bulk files, images, or links in one run and easily publish AI agents or workflows as embeddable tools on your website. | 60% OFF all YEARLY plans with code **BLACKFRIDAY24** (EXP: Dec 8, 2024) |
 | 💡 | [ChatASK: AI Chatbot Assistant](https://apple.co/4fHYBIZ) |  ChatASK is your all-in-one conversational assistant for generating images, solving complex math problems, or accessing AI-powered tools across your devices ✨ | [**50% OFF Link**](https://apps.apple.com/redeem?ctx=offercodes&id=6612032749&code=BLACKFRIDAY50) |
 | 📄 | [Ninjatools AI](https://ninjatools.ai) | All in one tool for everyone. Get the benefits of all the best AI products in one place, for one price. | [**20% OFF Code**](BLACKFRIDAY20) |
+| 📄 | [GasbyAI](https://gasbyai.com) | Fancy AI personal assitant with appsuit | [**50% OFF Code**](BF50) |
 
 [⬆️ All categories](#table-of-contents)
 
