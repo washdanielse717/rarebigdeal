@@ -366,7 +366,7 @@ It's free & open-source. Enjoy! 🚀
 | 🥕 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | Lifetime plan - 50% OFF |
 | 🦁 | [FontFlex Safari extension](https://apps.apple.com/app/apple-store/id1597034898?pt=570857&ct=rarebigdeal&mt=8) | Customize fonts and text size in Safari for a more readable, personal web experience. | Lifetime plan - 50% OFF |
 | 🧺 | [Tasky Apple Reminder Widgets](https://apps.apple.com/app/apple-store/id6502542119?pt=570857&ct=rarebigdeal&mt=8) | Transform Apple Reminders with widgets, progress tracking, and sleek designs to stay organized. | Lifetime plan - 50% OFF |
-| 🦘 | [Get Packy](https://getpacky.app) | TCreate simple packing lists. Share and edit them with friends and family. | Lifetime plan - 50% OFF |
+| 🦘 | [Get Packy](https://getpacky.app) | Create simple packing lists. Share and edit them with friends and family. | **Lifetime plan - 50% OFF** |
 
 ### Photos & Videos
 | | Name | Description | Deal |
@@ -374,6 +374,7 @@ It's free & open-source. Enjoy! 🚀
 |  📸 | [ThenNow](https://thennow.app) | Photo Time Machine app that helps you rediscover memories by automatically displaying photos from the same day in previous years, featuring location timeline and beautiful sharing templates. | 50% OFF Pro Plans: Yearly $4.99 (was $9.99), Lifetime $7.49 (was $14.99) Nov 25 - Dec 2 |
 | 🎥 | [TimeLapsed - Time Lapse Camera](https://apps.apple.com/us/app/timelapsed-time-lapse-camera/id6479436667) | The ultimate time lapse photography app | 60% off in the AppStore |
 | ✨ | [Binsoo - Photo Editor](https://apps.apple.com/redeem/?ctx=offercodes&id=6502683720&code=BLACKVIBEDAY) | Discover Binsoo, the powerful and easy-to-use photo editing app that transforms ordinary photos into stunning works of art. | 40% discount for the first year with code BLACKVIBEDAY |
+| 🌍 | [Photo Route](https://photoroute.app) | Travel Tracker: Transform your Pictures into a Journey Map. | **Lifetime plan - 50% OFF** |
 
 ### Health & Fitness
 | | Name | Description | Deal |
@@ -394,6 +395,7 @@ It's free & open-source. Enjoy! 🚀
 | 🏎️ | [DriveDex](https://apple.co/3C8HoJX) | Track mileage and expenses for all your vehicles. Available for iOS, iPadOS, and visionOS. | Lifetime 100% off |
 | 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
 | + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | **Lifetime 100% off** |
+| 🍕 | [WhatsCook](https://whatscook.app) | Meal Planner, Cookbook & Recipe Keeper. | **Lifetime plan - 75% OFF** |
 
 
 ### Other
