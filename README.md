@@ -421,6 +421,7 @@ It's free & open-source. Enjoy! 🚀
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
+| 🐝 | [uncoverLAB](https://uncoverlab.co) | Never start from blank Figma ever again! Use growing library of 370+ Figma templates. Just copy from an app and paste into your Figma! | 30% OFF for LTD with the code **ENJOYBF** |
 | 🖥️ | [Sip](https://www.sipapp.io) | Sip is a modern color picker that brings ease to color organization & team collaboration. | 50% OFF with code **BF_2024** and **CM_2024** |
 | 🖼️ | [Xnapper](https://xnapper.com/?via=rare-big) | Capture and enhance screenshots with ease - the all-in-one solution for smart, beautiful screenshots across macOS and Windows. | 40% OFF on all plans with code **BLACKFRIDAY2024** |
 | 👑 | [Creatorscrown - Creators Hub](https://creatorscrown.com) | Creators Hub is a platform that helps creators build their brand, grow their audience, and monetize their work. | 100% off with code **CREATORSCROWN2024** |
