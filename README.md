@@ -235,6 +235,7 @@ It's free & open-source. Enjoy! 🚀
 | 🧠 | [Acumen](https://www.acumenweb.app) | A daily planner powered by Calculus. | 40% OFF with code **ACUMENFRIDAY40X3** |
 | 🤖 | [Letty](https://www.useletty.com/?ref=rarebigdeal) | Write professional emails that sound just like you in seconds with AI | 30% OFF all plans with code **BF2024** |
 | 🎧 | [Tales.so](https://www.tales.so/?ref=rarebigdeal) | Tales.so is an AI-powered platform with concise audio summaries as podcasts of top books across productivity, parenting, and self-growth genres—perfect for squeezing in knowledge during those “lost” minutes of the day. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
+| 📺 | [SumyAI](https://www.sumyai.com/pricing) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | Use code **BF24** to enjoy 50% off. |
 
 ### Other
 | | Name | Description | Deal |
@@ -865,6 +866,6 @@ It's free & open-source. Enjoy! 🚀
 | 🏎️ | [Happy Social Login](https://wpfolk.com/plugins/happy-social-login) | Social Login Plugin for Wordpress. Login with 42+ social media accounts like Facebook, Google, Linkedin and more. | **50% Off** on all plans. Coupon **BFCM50** |
 | 🍿 | [kudos.wiki](https://kudos.wiki) | A database of thousands of critically acclaimed movies on Wikipedia you won't find recommended anywhere else. | **50% Off** on the Complete Collection with code **BF2024** |
 | 🎁 | [BlissBox](https://blissbox.life) | A joyful memory board filled with your genuine messages and selfies for any special occasions. | Use **BLISSFRIDAY** for **60% OFF** on any Plus or Plus Bundle plans to spread more joy around you ✨ |
-
+| 🚀 | [seofa.st](https://seofa.st) | Best way to kick start SEO on your parked or new domains | **$30 OFF** with coupon code **BLACKFRIDAY**.  |
 
 [⬆️ All categories](#table-of-contents)
