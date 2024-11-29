@@ -3,6 +3,7 @@ module.exports = {
   description: "Deals like these you don't skip on. Apps you love, discounted.",
   apps: [
     'Typefully',
+    'Screen Studio',
     'Xnapper',
     'CompressX',
     'Unicorn Platform',
