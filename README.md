@@ -87,6 +87,7 @@ It's free & open-source. Enjoy! 🚀
 - [Productized Services](#productized-services)
   - [Design Agencies](#design-agencies)
   - [Video Production Agencies](#video-production-agencies)
+  - [Customer Support Agencies](#customer-support-agencies)
 - [Miscellaneous](#miscellaneous)
   - [All](#all)
 
@@ -825,6 +826,11 @@ It's free & open-source. Enjoy! 🚀
 | | Name | Description | Deal |
 | - | - | - | - |
 | 🎬  | [Clipwing Production](https://clipwing.pro/custom-video-production) | We'll save you days on producing better video content. | $1,000 OFF with code BLACKCLIP |
+
+### Customer Support Agencies
+| | Name | Description | Deal |
+| - | - | - | - |
+| 🤝 | [Evergreen Support](https://www.evergreensupport.co/) | Customer Support by real humans for online businesses | 50% off first month |
 
 [⬆️ All categories](#table-of-contents)
 
