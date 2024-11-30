@@ -459,6 +459,8 @@ It's free & open-source. Enjoy! 🚀
 | 🔄 | [Loomos](https://loomos.co/login) | Transform boring screen recordings into studio-quality videos in single click. Edit the transcript, remove all the 'uhms', make videos a lot more engaging | 50% off till BLACK FRIDAY |
 | 🧪 | [Pimosa](https://pimosa.app/) | Your all-in-one toolkit for video, audio, and image files. Simple Video, Photo & Audio Editing Tools in one app! | 20% OFF with code **BLACKFRIDAY** |
 | 🎬 | [ScreenSage](https://screensage.macaify.com/) | Auto-zoom screen recorder that makes every event count. Professional Screen Recording & Tutorial Creation Tool for macOS. | Lifetime 50% OFF with code **BFS2024** |
+| 🎨 | [A1D AI](https://a1d.ai) | Create stunning whiteboard and hand-drawn animation videos in one click with A1D.ai! Many more AI design tools included. | 50% OFF with code **BLACKFRIDAY** |     
+
 
 ### Social
 | | Name | Description | Deal |
