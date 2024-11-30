@@ -579,6 +579,7 @@ It's free & open-source. Enjoy! 🚀
 | 📝 | [Count Visits](https://johnrush.me/black-friday-deals/?ref=rare) | Web Analytics Tool for Busy Founders | 50% off [countvisits.com](https://johnrush.me/black-friday-deals/?ref=rare) |
 | 📊 | [ilo](https://ilo.so?ref=rare-big-deals) | All your internet stats on one dashboard | 30% off any paid plan **RAREBF24** |
 | 📊 | [Umami Manager](https://apple.co/40MP50F) | Monitor & Analyze & Manage your Umami Analytics on the go. Available for iOS & iPadOS. | Lifetime 30% off |
+| 📈 | [UXWizz](https://www.uxwizz.com/) | Self-hosted Website Analytics with Heatmaps, Session Recordings and AI-generated Charts | 60% OFF (One-time payment) [uxwizz.com](https://www.uxwizz.com/) |
 
 ### Website Builders
 | | Name | Description | Deal |
