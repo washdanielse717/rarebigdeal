@@ -805,6 +805,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚀 | [DeskRest](https://www.deskrest.app/offers) | Smart break and posture reminder for macOS. Transform your workday. | 70% OFF with code **BLACKFRIDAY70** |
 | 🏃‍♂️ | [Atomic](https://indiegoodies.com/atomic) | The simple app to build good habits, break bad habits, and achieve greatness! Available on iOS/iPadOS/MacOS/WatchOS. | 55% OFF |
 | 🍊 | [Calorific - Calorie Counter](https://apps.apple.com/app/calorific-nutrition-tracker/id6645043253?pt=118518712&ct=github&mt=8) | Calorific is a nutrition app that lets users log meals by photo and uses artificial intelligence to estimate calories and macronutrients. | **50% OFF** first year with code **BF24** |
+| ☀️ | [Daylight Goals](https://apps.apple.com/us/app/daylight-goals-sunlight-time/id6466341899) | Time in daylight tracker for Apple Watch | **95% OFF** Lifetime Unlock |
 
 [⬆️ All categories](#table-of-contents)
 
