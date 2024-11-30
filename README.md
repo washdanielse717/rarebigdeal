@@ -215,6 +215,7 @@ It's free & open-source. Enjoy! 🚀
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
+| ✂️ | [TailoredCV](https://tailoredcv.ai/?utm_source=rarebigdeal) | Customize your CV for specific job applications or freelance projects effortlessly with AI-powered rephrasing. | 25% OFF with code **AYNDG2MW** |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🎓 | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans |
