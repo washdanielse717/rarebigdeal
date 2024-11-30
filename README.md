@@ -490,6 +490,8 @@ It's free & open-source. Enjoy! 🚀
 | ⚡ | [Sparkbase](https://sparkbase.ai/?ref=rarebigdeal) | Book high-intent sales calls on autopilot | 20% OFF with code **RBD20** |
 | ⚡ | [AiTeach Tools](https://aiteach.tools) | Find practical AI tools for educators and learners. Making education more effective and engaging. | 50% OFF with code **BIGDEAL**  to feature your tools|
 | 🔥 | [Snowball.club](https://snowball.club?ref=rarebigdealgithub) | Grow and monetize your X (Twitter) audience. Create high quality content consistently, drive engagement and get more followers FAST with AI. | **50% OFF** 1 Year (automatic) |
+| 🔖 | [TweetsMash](https://tweetsmash.com?ref=rarebigdeal) | 𝕏 bookmarks and list companion for knowledge extraction. Chat with your bookmarks using AI; streamline your reading with email digests; export bookmarks effortlessly to Notion and Sheets; and efficiently search, curate, and organise your Twitter / 𝕏 content. | **40% OFF** with code **BLACKFRIDAY2024** |
+| 🔖 | [LinkedMash](https://linkedmash.com?ref=rarebigdeal) | Streamline gathering insights from your LinkedIn saved posts with Linkedmash. Easily search, label, and auto-export to Notion/Sheets/Airtable. Plus, use AI tools to put your saved posts into action | **40% OFF** with code **BLACKFRIDAY2024** |
 
 ### Other
 | | Name | Description | Deal |
