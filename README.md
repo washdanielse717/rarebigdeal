@@ -236,6 +236,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤖 | [Letty](https://www.useletty.com/?ref=rarebigdeal) | Write professional emails that sound just like you in seconds with AI | 30% OFF all plans with code **BF2024** |
 | 🎧 | [Tales.so](https://www.tales.so/?ref=rarebigdeal) | Tales.so is an AI-powered platform with concise audio summaries as podcasts of top books across productivity, parenting, and self-growth genres—perfect for squeezing in knowledge during those “lost” minutes of the day. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
 | 📺 | [SumyAI](https://www.sumyai.com/pricing) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | Use code **BF24** to enjoy 50% off. |
+| 📄 | [AskDocs](https://www.askdocs.com) | Smart AI assistant that helps you extract insights from documents - supports PDF, Word, Excel, and images with multilingual capabilities and secure document handling. | 53% OFF yearly plans with code **BF2024** |
 
 ### Other
 | | Name | Description | Deal |
@@ -259,7 +260,7 @@ It's free & open-source. Enjoy! 🚀
 | 🤵 | [AI Face Swap - AISaver](https://aisaver.io/) | AISaver offers high-quality AI face-swapping services, including video face swap, photo face swap, GIF face swap, and multi-person face swap. Try this face swapper now! | **70% OFF**, 50 free credits every day |
 | 🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code BLACKFRIDAY2024 |
 | 🤖 | [Easy-Peasy.AI](https://easy-peasy.ai/) | All-In-One AI Platform | 30% OFF all plans with code BFRIDAY2024 |
-
+| 🤖 | [QuestWiz](https://questwiz.com) | AI-powered customer support chatbot that learns from your business data to provide 24/7 multilingual support. Features GPT-4o integration and secure data handling. | 50% OFF yearly plans with code **BF2024Plus** or **BF2024Pro** |
 
 [⬆️ All categories](#table-of-contents)
 
