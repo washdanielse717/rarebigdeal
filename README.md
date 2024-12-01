@@ -155,6 +155,7 @@ It's free & open-source. Enjoy! 🚀
 |  📈 | [Sorane](https://sorane.io) | Sorane is a Laravel-focused monitoring tool that tracks uptime, errors, and performance, with instant alerts via email, Discord, Telegram, Slack, and more. | **40% OFF** all plans with code **BLACKFRIDAY** |
 | 🚀 | [Pagerly](https://pagerly.io/) | Manage Oncalls, Tickets , Rotations and Incidents over Slack/Teams/Discord | 20% off Starter Planw with code **BF2024** |
 | 🤖 | [SessionBox](https://sessionbox.io/) | The best anti-detect browser for working with multiple accounts on the same site. | 60% off with code **BLACKF60** |
+| ⚡️ | [CSV Table](https://csvtable.com/) | View, query and edit CSV for Pros | 50% off on-site |
 
 ### Browser Extensions
 | | Name | Description | Deal |
