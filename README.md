@@ -216,7 +216,6 @@ It's free & open-source. Enjoy! 🚀
 ### Productivity
 | | Name | Description | Deal |
 | - | - | - | - |
-| ✂️ | [TailoredCV](https://tailoredcv.ai/?utm_source=rarebigdeal) | Customize your CV for specific job applications or freelance projects effortlessly with AI-powered rephrasing. | 25% OFF with code **AYNDG2MW** |
 | ⚡ | [PDF Pals](https://pdfpals.com/buy?via=rarebigdeal) | Instantly chat with any PDF on your Mac. Native, fast and respect your privacy. | 53% OFF with code **BFCM2024** |
 | 🗂️ | [Side Space](https://sidespace.app) | Your AI-powered vertical tabs manager for browsing. | 50% OFF with code **BLACKFRIDAY50** |
 | 🎓 | [IkigenIA](https://ikigenia.com) | A full suite of AI-powered apps for enhancing learning, writing and oral communication in no time. | 70% OFF with code **IKIBLACK70** on the Starter and Family yearly plans |
@@ -239,6 +238,7 @@ It's free & open-source. Enjoy! 🚀
 | 🎧 | [Tales.so](https://www.tales.so/?ref=rarebigdeal) | Tales.so is an AI-powered platform with concise audio summaries as podcasts of top books across productivity, parenting, and self-growth genres—perfect for squeezing in knowledge during those “lost” minutes of the day. | Use code **BFCM24** to enjoy 75% off on your billing forever. |
 | 📺 | [SumyAI](https://www.sumyai.com/pricing) | Get 10x insights from YouTube videos or create shareable social media threads or posts to grow your social media. | Use code **BF24** to enjoy 50% off. |
 | 📄 | [AskDocs](https://www.askdocs.com) | Smart AI assistant that helps you extract insights from documents - supports PDF, Word, Excel, and images with multilingual capabilities and secure document handling. | 53% OFF yearly plans with code **BF2024** |
+| ✂️ | [TailoredCV](https://tailoredcv.ai/?utm_source=rarebigdeal) | Customize your CV for specific job applications or freelance projects effortlessly with AI-powered rephrasing. | 25% OFF with code **AYNDG2MW** |
 
 ### Other
 | | Name | Description | Deal |
