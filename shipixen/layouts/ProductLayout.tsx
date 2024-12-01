@@ -82,18 +82,18 @@ const getRelevantDates = ({ validFromDate, expiresOnDate }) => {
     }
   } catch (error) {
     console.error(error);
-  } finally {
-    return {
-      isExpired,
-      isValid,
-      validFromFormattedDate,
-      expiresOnFormattedDate,
-      isValidInThreeDays,
-      isValidInOneDay,
-      expiresInADay,
-      expiresInThreeDays,
-    };
   }
+
+  return {
+    isExpired,
+    isValid,
+    validFromFormattedDate,
+    expiresOnFormattedDate,
+    isValidInThreeDays,
+    isValidInOneDay,
+    expiresInADay,
+    expiresInThreeDays,
+  };
 };
 
 export default function PostLayout({
