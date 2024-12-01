@@ -7,6 +7,7 @@ const { markdownDir } = require('./settings');
 const fs = require('fs');
 const path = require('path');
 const { getLeaderboardPosition } = require('./leaderboard-utils');
+const { getProductDates } = require('./product-dates-utils');
 
 async function generateMDXContent(app) {
   const tags = applyCategoryOverrides(
@@ -54,6 +55,18 @@ layout: ProductLayout
   if (leaderboardPosition !== null) {
     mdxContent += `leaderboardPosition: ${leaderboardPosition}
 `;
+  }
+
+  const productDates = getProductDates(sanitizeName(app.name));
+  if (productDates) {
+    if (productDates.expiresOnDate) {
+      mdxContent += `expiresOnDate: ${productDates.expiresOnDate}
+`;
+    }
+    if (productDates.validFromDate) {
+      mdxContent += `validFromDate: ${productDates.validFromDate}
+`;
+    }
   }
 
   if (metaDescription) {

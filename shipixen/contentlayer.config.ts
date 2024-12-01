@@ -105,6 +105,8 @@ export const Blog = defineDocumentType(() => ({
     metaDescription: { type: 'string' },
     metaTitle: { type: 'string' },
     leaderboardPosition: { type: 'number' },
+    validFromDate: { type: 'date' },
+    expiresOnDate: { type: 'date' },
   },
   computedFields: {
     ...computedFields,

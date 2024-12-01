@@ -20,7 +20,6 @@ import clsx from 'clsx';
 import { PostItem } from '@/components/blog/home/PostItem'; // Import PostItem
 
 const postDateTemplate: Intl.DateTimeFormatOptions = {
-  weekday: 'long',
   year: 'numeric',
   month: 'long',
   day: 'numeric',
@@ -32,6 +31,70 @@ interface LayoutProps {
   authorDetails: CoreContent<Authors>[];
   children: ReactNode;
 }
+
+const getRelevantDates = ({ validFromDate, expiresOnDate }) => {
+  let isExpired = false;
+  let isValid = true;
+  let validFromFormattedDate: string | null = null;
+  let expiresOnFormattedDate: string | null = null;
+  let isValidInThreeDays = false;
+  let isValidInOneDay = false;
+  let expiresInADay = false;
+  let expiresInThreeDays = false;
+
+  try {
+    const validFrom = validFromDate ? new Date(validFromDate) : null;
+    const expiresOn = expiresOnDate ? new Date(expiresOnDate) : null;
+    const today = new Date();
+
+    if (validFrom) {
+      const validityDays =
+        (validFrom.getTime() - today.getTime()) / (1000 * 3600 * 24);
+      validFromFormattedDate = validFrom.toLocaleDateString(
+        siteConfig.locale,
+        postDateTemplate,
+      );
+
+      isValidInOneDay = validityDays > 0 && validityDays <= 1;
+      isValidInThreeDays =
+        !isValidInOneDay && validityDays > 0 && validityDays <= 3;
+    }
+
+    if (expiresOn) {
+      const expiryDays =
+        (expiresOn.getTime() - today.getTime()) / (1000 * 3600 * 24);
+      isExpired = today > new Date(expiresOn.setDate(expiresOn.getDate() + 1));
+
+      expiresOnFormattedDate = expiresOn.toLocaleDateString(
+        siteConfig.locale,
+        postDateTemplate,
+      );
+      expiresInADay = expiryDays > 0 && expiryDays <= 1;
+      expiresInThreeDays = !expiresInADay && expiryDays > 0 && expiryDays <= 3;
+    }
+
+    if (validFrom) {
+      if (expiresOn) {
+        isValid = today >= validFrom && today <= expiresOn;
+      } else {
+        isValid = today >= validFrom;
+      }
+    }
+  } catch (error) {
+    console.error(error);
+  } finally {
+    return {
+      isExpired,
+      isValid,
+      validFromFormattedDate,
+      expiresOnFormattedDate,
+      isValidInThreeDays,
+      isValidInOneDay,
+      expiresInADay,
+      expiresInThreeDays,
+    };
+  }
+};
 
 export default function PostLayout({
   className,
@@ -49,10 +112,26 @@ export default function PostLayout({
     website,
     categories,
     subcategories,
+    validFromDate,
+    expiresOnDate,
   } = content;
   const firstImage = content.images?.[0];
   const tintColor = hashStringToColor(title);
   const fallbackImage = '/static/images/logo.png';
+
+  const {
+    isExpired,
+    isValid,
+    validFromFormattedDate,
+    expiresOnFormattedDate,
+    isValidInThreeDays,
+    isValidInOneDay,
+    expiresInADay,
+    expiresInThreeDays,
+  } = getRelevantDates({
+    validFromDate,
+    expiresOnDate,
+  });
 
   const allProducts = allCoreContent(allBlogs);
 
@@ -185,6 +264,57 @@ export default function PostLayout({
                 )}
               </div>
             </div>
+
+            {validFromFormattedDate || expiresOnFormattedDate ? (
+              <div
+                className={clsx(
+                  'flex flex-wrap justify-center gap-4 text-xs md:text-sm leading-5',
+                  isExpired || expiresInADay || expiresInThreeDays
+                    ? 'bg-red-300 dark:bg-red-800'
+                    : '',
+                  !isExpired ? 'bg-green-300 dark:bg-green-800' : '',
+                )}
+              >
+                {!isValid && !isExpired && validFromFormattedDate ? (
+                  <div className="p-2 md:p-4">
+                    <span>Deal Starts</span>{' '}
+                    {isValidInOneDay && (
+                      <span className="font-semibold underline underline-offset-2">
+                        in about 1 day,
+                      </span>
+                    )}{' '}
+                    <time dateTime={validFromDate}>
+                      on {validFromFormattedDate}
+                    </time>
+                  </div>
+                ) : null}
+
+                {!isExpired && (expiresInADay || expiresInThreeDays) && (
+                  <div className="p-2 md:p-4">
+                    <span>Deal Ends</span>{' '}
+                    {expiresInADay && (
+                      <span className="font-semibold underline underline-offset-2">
+                        in less than 1 day
+                      </span>
+                    )}{' '}
+                    {expiresInThreeDays && (
+                      <span className="font-semibold underline underline-offset-2">
+                        in less than 3 days
+                      </span>
+                    )}{' '}
+                  </div>
+                )}
+
+                {isExpired && (
+                  <div className="p-2 md:p-4">
+                    <span>Deal Expired</span>{' '}
+                    <time dateTime={expiresOnDate}>
+                      on {expiresOnFormattedDate}
+                    </time>
+                  </div>
+                )}
+              </div>
+            ) : null}
           </header>
 
           <div className="container-narrow">

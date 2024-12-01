@@ -428,7 +428,7 @@ module.exports = {
       ],
     },
     domainsgpt: {
-      logo: '/public/static/images/overrides/domains-gpt/logo.png',
+      logo: '/public/static/images/overrides/domainsgpt/logo.png',
       tags: ['AI', 'Automation', 'Domain Names', 'Marketing', 'Tools'],
     },
     donkeycarrot: {
