@@ -882,5 +882,7 @@ It's free & open-source. Enjoy! 🚀
 | 🍿 | [kudos.wiki](https://kudos.wiki) | A database of thousands of critically acclaimed movies on Wikipedia you won't find recommended anywhere else. | **50% Off** on the Complete Collection with code **BF2024** |
 | 🎁 | [BlissBox](https://blissbox.life) | A joyful memory board filled with your genuine messages and selfies for any special occasions. | Use **BLISSFRIDAY** for **60% OFF** on any Plus or Plus Bundle plans to spread more joy around you ✨ |
 | 🚀 | [seofa.st](https://seofa.st) | Best way to kick start SEO on your parked or new domains | **$30 OFF** with coupon code **BLACKFRIDAY**.  |
+| 📗 | [Notion Backups](https://notionbackups.com) | Easily back up and restore your Notion workspaces | **24% off** of all plans **NOTIONBACKUPSFRIDAY2024**.  |
+
 
 [⬆️ All categories](#table-of-contents)
