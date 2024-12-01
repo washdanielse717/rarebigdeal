@@ -14,7 +14,9 @@ function parseCSV() {
   lines.forEach((line, index) => {
     if (index === 0 || !line.trim()) return; // Skip header and empty lines
     const [series] = line.split(',');
-    const productName = series.split('/')[2];
+    const seriesParts = series.split('/');
+    if (seriesParts.length < 3) return; // Skip lines without expected format
+    const productName = seriesParts[2];
     products[productName] = index;
   });
 

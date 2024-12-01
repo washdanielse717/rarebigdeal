@@ -427,6 +427,10 @@ module.exports = {
         'Starters & Libraries',
       ],
     },
+    'domains-gpt': {
+      logo: '/public/static/images/overrides/domains-gpt/logo.png',
+      tags: ['AI', 'Automation', 'Domain Names', 'Marketing', 'Tools'],
+    },
     donkeycarrot: {
       tags: ['Efficiency', 'macOS', 'Productivity', 'Salary Tracker', 'Tools'],
     },
@@ -883,6 +887,10 @@ module.exports = {
         'Machine Learning',
         'Storytelling',
       ],
+    },
+    'one-word-domains': {
+      logo: '/public/static/images/overrides/one-word-domains/logo.png',
+      tags: ['Domains', 'Marketing', 'SEO', 'Tools'],
     },
     'osssoftware-ad': {
       logo: '/public/static/images/overrides/osssoftware-ad/logo.png',
