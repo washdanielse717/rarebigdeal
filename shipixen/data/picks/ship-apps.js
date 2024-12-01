@@ -4,9 +4,11 @@ module.exports = {
   apps: [
     'ScreenshotOne',
     'Shipixen',
+    'DomainsGPT',
     'Chatwith',
     'Link Building Software',
     'Boringlaunch',
+    'uncoverLAB',
     'Crontap',
     'Tailkit',
     'Small Bets Community',

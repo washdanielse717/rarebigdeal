@@ -1333,6 +1333,11 @@ module.exports = {
         'Technical Writing',
       ],
     },
+    uncoverlab: {
+      logo: '/public/static/images/overrides/uncoverlab/logo.png',
+      metaDescription:
+        'A web-app growing library of Figma website templates and apps user journeys. Simply find a design you like, copy from the app and paste it into your Figma. Never start from blank Figma ever again! Website design compoenents, app flows and color palettes!',
+    },
     'unicorn-platform': {
       logo: '/public/static/images/overrides/unicorn-platform/logo.png',
       ogImage: '/public/static/images/overrides/unicorn-platform/ogImage.png',

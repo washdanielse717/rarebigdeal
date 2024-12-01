@@ -3,6 +3,7 @@ module.exports = {
   description: 'Wonderful apps made by the Morning Maker Show community.',
   apps: [
     'Clipwing',
+    'uncoverLAB',
     'Larafast',
     'Oscar Stories',
     'Link Building Software',

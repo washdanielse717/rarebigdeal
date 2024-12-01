@@ -8,6 +8,7 @@ module.exports = {
     'CompressX',
     'Unicorn Platform',
     'TablePlus',
+    'uncoverLAB',
     'Carrd',
     'DevUtils',
     'Proxyman',

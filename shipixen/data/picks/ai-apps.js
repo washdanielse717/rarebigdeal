@@ -4,6 +4,7 @@ module.exports = {
   apps: [
     'TypingMind',
     'BoltAi',
+    'DomainsGPT',
     'Recut',
     'Branding 5',
     'PDF Pals',
