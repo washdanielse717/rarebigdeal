@@ -427,7 +427,7 @@ module.exports = {
         'Starters & Libraries',
       ],
     },
-    'domains-gpt': {
+    domainsgpt: {
       logo: '/public/static/images/overrides/domains-gpt/logo.png',
       tags: ['AI', 'Automation', 'Domain Names', 'Marketing', 'Tools'],
     },
