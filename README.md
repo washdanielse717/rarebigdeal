@@ -834,6 +834,8 @@ It's free & open-source. Enjoy! 🚀
 | 💰 | [GhostHunt - Ghost.org Newsletters Database](https://unapologeticih.gumroad.com/l/sctuym) | Explore the vast details included like newsletter title, the URL/link to the publication, the topics/categories they cover, members count brackets and language. | 50% OFF with code **50GHOST** |
 | 💰 | [SubSearchr - Substack Newsletters Database](https://unapologeticih.gumroad.com/l/subsearchr) | Discover the Substack Universe Like Never Before with publications that have a collective audience 16+ million subscribers | 50% OFF with code **50SUBSTACK** |
 | 📰 | [Legible News](https://legiblenews.com/black-friday?utm_source=rarebigdeal.com) | News that makes you smarter, published once daily, delivered to your inbox | **25% OFF** annual subscription with code **BF24** |
+| 🔍 | [One Word Domains](https://owd.li/rarebigdeal) | One Word Domains is a database of 1,381,826 available & brandable one-word domain names for your next startup idea. | **$50 OFF** lifetime deal w/ code **BFCM50OFF** |
+| ✨ | [DomainsGPT](https://domainsg.pt/rarebigdeal) | DomainsGPT is an AI-powered domain name generator for you to generate brandable & memorable domain names for your next startup idea. | **50% OFF** lifetime deal w/ code **BFCM2024** |
 
 
 [⬆️ All categories](#table-of-contents)
