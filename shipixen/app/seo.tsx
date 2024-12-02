@@ -6,9 +6,6 @@ interface PageSEOProps {
   description?: string;
   image?: string;
   canonical?: string;
-  deal?: string;
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  [key: string]: any;
 }
 
 export function genPageMetadata({
@@ -16,21 +13,10 @@ export function genPageMetadata({
   description,
   image,
   canonical,
-  metaTitle,
-  deal,
-  ...rest
 }: PageSEOProps): Metadata {
-  const seoTitle = deal
-    ? `${title} | ${deal}`
-    : `${title} | ${siteConfig.title}`;
-
-  const seoDescription = description
-    ? `${description}. ${rest.tile} Deals, Black Friday, Cyber Monday, Lifetime Deals, and more.`
-    : siteConfig.description;
-
   return {
-    title: seoTitle,
-    description: seoDescription,
+    title,
+    description,
     openGraph: {
       title,
       description: description || siteConfig.description,
