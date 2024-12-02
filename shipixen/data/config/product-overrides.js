@@ -1121,6 +1121,7 @@ module.exports = {
       ],
     },
     sip: {
+      logo: '/public/static/images/overrides/sip/logo.png',
       ogImage: '/public/static/images/overrides/sip/ogImage.png',
       tags: [
         'Collaboration',
