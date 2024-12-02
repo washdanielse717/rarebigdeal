@@ -1121,6 +1121,7 @@ module.exports = {
       ],
     },
     sip: {
+      ogImage: '/public/static/images/overrides/sip/ogImage.png',
       tags: [
         'Collaboration',
         'Color Picker',
