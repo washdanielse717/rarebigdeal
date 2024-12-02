@@ -6,6 +6,7 @@ interface PageSEOProps {
   description?: string;
   image?: string;
   canonical?: string;
+  deal?: string;
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   [key: string]: any;
 }
@@ -23,9 +24,13 @@ export function genPageMetadata({
     ? `${title} | ${deal}`
     : `${title} | ${siteConfig.title}`;
 
+  const seoDescription = description
+    ? `${description}. ${rest.tile} Deals, Black Friday, Cyber Monday, Lifetime Deals, and more.`
+    : siteConfig.description;
+
   return {
     title: seoTitle,
-    description,
+    description: seoDescription,
     openGraph: {
       title,
       description: description || siteConfig.description,

@@ -61,12 +61,18 @@ export async function generateMetadata({
     };
   });
 
+  const seoTitle = `${post.title} | Rare Deals, Black Friday, Cyber Monday, Lifetime Deals, and more.`;
+
+  const seoDescription = post.summary
+    ? `${post.summary}. ${post.title} Rare Deals, Discounts, and Coupons.`
+    : siteConfig.description;
+
   return {
-    title: post.title,
-    description: post.summary,
+    title: seoTitle,
+    description: seoDescription,
     openGraph: {
-      title: post.title,
-      description: post.summary,
+      title: seoTitle,
+      description: seoDescription,
       siteName: siteConfig.title,
       locale: 'en_US',
       type: 'article',
@@ -78,8 +84,8 @@ export async function generateMetadata({
     },
     twitter: {
       card: 'summary_large_image',
-      title: post.title,
-      description: post.summary,
+      title: seoTitle,
+      description: seoDescription,
       images: imageList,
     },
     ...(post.canonicalUrl
