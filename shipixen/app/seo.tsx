@@ -13,6 +13,7 @@ export function genPageMetadata({
   description,
   image,
   canonical,
+  ...rest
 }: PageSEOProps): Metadata {
   return {
     title,
