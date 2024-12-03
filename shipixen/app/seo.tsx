@@ -6,6 +6,10 @@ interface PageSEOProps {
   description?: string;
   image?: string;
   canonical?: string;
+  alternates?: {
+    canonical?: string;
+    types?: Record<string, string>;
+  };
 }
 
 export function genPageMetadata({
