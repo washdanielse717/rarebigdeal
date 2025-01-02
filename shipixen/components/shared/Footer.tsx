@@ -19,6 +19,7 @@ import { Button } from '@/components/shared/ui/button';
 import { footerLinks } from '@/data/config/footerLinks';
 import { TiktokIcon } from '@/components/icons/TiktokIcon';
 import { ThreadsIcon } from '@/components/icons/ThreadsIcon';
+import { ProductHuntBadge } from '@/components/shared/ProductHuntBadge';
 
 export default function Footer({ className }: { className?: string }) {
   const columnNumber = footerLinks.filter(({ links }) => links.length).length;
@@ -128,6 +129,10 @@ export default function Footer({ className }: { className?: string }) {
           className="w-full my-4 border-0 bg-gradient-to-r from-white/5 via-black/10 to-white/5 dark:from-black/5 dark:via-white/30 darK:to-black/5"
           style={{ height: '1px' }}
         />
+
+        <div className="flex justify-center pt-4 px-2">
+          <ProductHuntBadge postName="rare-big-deal" postId="637015" />
+        </div>
 
         <div className="py-8 px-2 flex flex-col items-center">
           <div className="mb-3 flex flex-wrap justify-center gap-4">

@@ -1,6 +1,7 @@
 const metadata = {
   title: 'Rare Deals and Discounts on Software, Apps & SaaS',
-  description: 'Get rare limited time details on selected SaaS, software, apps and services. Discounts for Black Friday and beyond.',
+  description:
+    'Get rare limited time details on selected SaaS, software, apps and services. Discounts for Black Friday and beyond.',
   domain: 'rarebigdeal.com',
   logoTitle: 'Rare Big Deal',
   businessName: 'Rare Big Deal',
@@ -12,7 +13,7 @@ const metadata = {
   twitter: 'https://x.com/d4m1n',
   instagram: '',
   tiktok: '',
-  github: '',
+  github: 'https://github.com/danmindru/rare-big-deal',
   linkedin: '',
   youtube: '',
   facebook: '',
@@ -21,7 +22,7 @@ const metadata = {
   author: 'Rare Big Deal',
   language: 'en-us',
   theme: 'system',
-  locale: 'en-US'
+  locale: 'en-US',
 };
 
 module.exports = { metadata };
