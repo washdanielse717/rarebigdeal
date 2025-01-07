@@ -395,6 +395,7 @@ It's free & open-source. Enjoy! 🚀
 | 🚭 | [Smoke Count](https://apps.apple.com/us/app/smoke-count-cigarette/id6503163176) | Break free from cigarettes! Get daily reminders, track your progress, and stay motivated. Start your journey today! | **Lifetime 100% off** |
 | 🚶 | [Steps & Beasts - Step Counter / Pedometer](https://apps.apple.com/app/id6670788226) | Gamified Step Counter App: Reach your goal and hatch a cute creature every day. Motivates yourself to move more through play. | **Lifetime 100% off** |
 | 💪 | [Calorimeter](https://calorimeter.app) | Native & lightweight iOS companion for tracking and managing your daily calorie burn. | PRO Lifetime - 50%  OFF, PRO Annual - 70% OFF with code **BF2024** |
+| 🍽️ | [FastTrack](https://apps.apple.com/us/app/fasttrack-intermittent-fasting/id6739501343) | Intermittent Fasting Tracking: Hit your targets, get to your ideal weight, enhance your health, and feel energized every step of the way. | Lifetime free |
 
 ### Hobby & Lifestyle
 | | Name | Description | Deal |
@@ -404,7 +405,7 @@ It's free & open-source. Enjoy! 🚀
 | 🫑 | [Paprika Recipe Manager 3](https://apps.apple.com/us/app/paprika-recipe-manager-3/id1303222868) | Organize your recipes | 40% off in the AppStore |
 | + | [Tally Counter](https://apps.apple.com/us/app/tally-counter-count/id6642680091) | A simple, elegant app for counting anything and everything. | **Lifetime 100% off** |
 | 🍕 | [WhatsCook](https://whatscook.app) | Meal Planner, Cookbook & Recipe Keeper. | **Lifetime plan - 75% OFF** |
-
+| 🖼️ | [Painting Recognition](https://apple.co/49ZzZcJ) | Identify Iconic Artwork. Let **The Starry Night** inspire you | 60% OFF 1st year |
 
 ### Other
 | | Name | Description | Deal |
