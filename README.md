@@ -341,6 +341,7 @@ It's free & open-source. Enjoy! 🚀
 | 💻 | [Writers brew AI](https://writersbrew.app) | An AI writing assistant that is perfect for everyday use. It can seamlessly work across your apps | Lifetime 40% OFF till Nov 30th |
 | 📱 | [Quick Capture SupaSend](https://supasend.app) | Quickly capture your notes instantly in your second brain apps 🧠 | Lifetime 50% OFF |
 | 🖊 | [RewriteBar](https://rewritebar.com?ref=rarebigdeal) | RewriteBar is a macOS menu bar app that allows you to rewrite text using AI. Correct grammar, translate, adjust tone, and more. | 50% OFF with code **BF2024** |
+| 🎤 | [Voice to Notion](https://notis.ai) | Notis transcribes and organises your thoughts in Notion when you're on the go | Lifetime 50% OFF with code **BFS2024** |
 
 ### Menu Bar & More
 | | Name | Description | Deal |
