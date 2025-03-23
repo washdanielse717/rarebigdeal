@@ -501,7 +501,7 @@ It's free & open-source. Enjoy! 🚀
 ### Marketing
 | | Name | Description | Deal |
 | - | - | - | - |
-| ✍️ | [Typefully](https://typefully.com/?via=rare-big) | Boost your 𝕏, Threads, LinkedIn & Bluesky presence with AI-powered posting, scheduling & analytics. | 30% OFF for 1 year with code BF2024 |
+| ✍️ | [Typefully](https://typefully.com) | Boost your 𝕏, Threads, LinkedIn & Bluesky presence with AI-powered posting, scheduling & analytics. | 30% OFF for 1 year with code BF2024 |
 | 💼 | [hiretool.io](https://hiretool.io?ref=awesomebf) | Cut out unqualified candidates before the interview— save your time and focus on the right talent | 50% off on monthly and yearly subscriptions (automatic) |
 | ⭐ | [ReadReviews](https://readreviews.dev/) | A handy tool to read yours and your competitor App Store reviews and analyze them with AI. | 30% OFF with code **READBLACKFRIDAY** for a Lifetime Deal |
 | 🤖 | [cyberBots](https://bots.cyberesia.com) | AI-powered chatbots that integrate seamlessly with your website to enhance customer engagement and support. Coming early next year: voice assistant and Graph RAG. | 72% OFF on all yearly plans until end of November - no code needed |
@@ -540,7 +540,7 @@ It's free & open-source. Enjoy! 🚀
 ### Social
 | | Name | Description | Deal |
 | - | - | - | - |
-| ✍️ | [Typefully](https://typefully.com/?via=rare-big) | Boost your 𝕏, Threads, LinkedIn & Bluesky presence with AI-powered posting, scheduling & analytics. | 30% OFF for 1 year with code BF2024 |
+| ✍️ | [Typefully](https://typefully.com) | Boost your 𝕏, Threads, LinkedIn & Bluesky presence with AI-powered posting, scheduling & analytics. | 30% OFF for 1 year with code BF2024 |
 | ⭐ | [Subreddit Traffic Tracker](https://subreddittraffic.live/) | Reach maximum Reddit traffic by finding the best times to post. Track 400+ subreddits activity and optimize your posting schedule to increase brand awareness and traffic. | 30% OFF lifetime plan with code **BLACKFRIDAY2024** |
 | 🚀 | [Postiz](https://postiz.com) | The ultimate AI social media scheduling tool also open-source! | 50% OFF with code **BF2024** |
 | 🟪 | [PostFlow](https://postflow.app?ref=rare-big-deal) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | 50% OFF (LIFETIME) with code **BLACKFRIDAY** Limited time offer! |
