@@ -263,6 +263,7 @@ It's free & open-source. Enjoy! 🚀
 | 🦊 | [Astuto](https://astuto.io/) | Collect and prioritize feedback from your customers, so you can focus on building what matters | 30% OFF all plans with code BLACKFRIDAY2024 |
 | 🤖 | [Easy-Peasy.AI](https://easy-peasy.ai/) | All-In-One AI Platform | 30% OFF all plans with code BFRIDAY2024 |
 | 🤖 | [QuestWiz](https://questwiz.com) | AI-powered customer support chatbot that learns from your business data to provide 24/7 multilingual support. Features GPT-4o integration and secure data handling. | 50% OFF yearly plans with code **BF2024Plus** or **BF2024Pro** |
+| 🐴 | [Horse Browser](https://gethorse.com) | Feeling Overwhelmed by Endless Tabs? Take control with Horse Browser, the browser built for professionals who demand focus and efficiency. | 7 days free |
 
 [⬆️ All categories](#table-of-contents)
 
