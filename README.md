@@ -274,7 +274,7 @@ It's free & open-source. Enjoy! 🚀
 | - | - | - | - |
 | 🤵 | [HeadshotPro](https://www.headshotpro.com/?via=rare-big) | Get professional business headshots in minutes with AI | 20% OFF with code FRIDAY20 |
 | ✒️ | [Ink Studio AI](https://inkstudioai.com/) | Create and visualize your next tattoo in minutes, thanks to AI. | 40% OFF with code **AITATTOOS** |
-| 💇🏼‍♀️ | [AI Hairstyles](https://aihairstyles.com/) | Try on different hairstyles and colours in seconds with AI. | 30% OFF with code **BFRIDAY30** |
+| 💇🏼‍♀️ | [BlondeFilter](https://blondefilter.net/) | Try on realistic blonde shades in seconds with AI. | **Promo:** Free + 10 credits on sign-up |
 | 🤵 | [AI Headshot Generator](https://aiheadshotgenerator.com) | AI Headshot Generator is designed to transform your ordinary selfies into polished, professional corporate headshots.| 20% OFF with promo code **BF2024** |
 
 [⬆️ All categories](#table-of-contents)
